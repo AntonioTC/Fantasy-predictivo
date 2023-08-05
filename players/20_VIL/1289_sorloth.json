@@ -1,0 +1,32 @@
+{
+    "playerStats": [],
+    "points": 0,
+    "averagePoints": 0,
+    "id": "1289",
+    "team": {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t449/color/t449_villarreal-cf.png",
+        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t449/gray/t449_villarreal-cf.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t449/white/t449_villarreal-cf.png",
+        "name": "Villarreal CF",
+        "id": "20",
+        "shortName": "VIL",
+        "slug": "villarreal-cf",
+        "dspId": 189,
+        "store": ""
+    },
+    "name": "Alexander S\u00f8rloth",
+    "lastSeasonPoints": 189,
+    "nickname": "Sorloth",
+    "slug": "sorloth",
+    "positionId": 4,
+    "position": "Delantero",
+    "marketValue": {
+        "13/07/2023": 18500000,
+        "14/07/2023": 18487016,
+        "15/07/2023": 18474551,
+        "16/07/2023": 18547638,
+        "04/08/2023": 18787973,
+        "05/08/2023": 18121992
+    },
+    "playerStatus": "ok"
+}

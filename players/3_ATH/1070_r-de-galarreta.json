@@ -1,0 +1,43 @@
+{
+    "playerStats": [],
+    "points": 0,
+    "averagePoints": 0,
+    "id": "1070",
+    "team": {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t174/color/t174_athletic-club.png",
+        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t174/gray/t174_athletic-club.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t174/white/t174_athletic-club.png",
+        "name": "Athletic Club",
+        "id": "3",
+        "shortName": "ATH",
+        "slug": "athletic-club",
+        "dspId": 68,
+        "store": ""
+    },
+    "name": "Inigo Ruiz de Galarreta",
+    "lastSeasonPoints": 132,
+    "nickname": "De Galarreta",
+    "slug": "r-de-galarreta",
+    "positionId": 3,
+    "position": "Centrocampista",
+    "marketValue": {
+        "13/07/2023": 5500000,
+        "21/07/2023": 5288016,
+        "22/07/2023": 5098437,
+        "23/07/2023": 5069712,
+        "24/07/2023": 5101797,
+        "25/07/2023": 5140827,
+        "26/07/2023": 5175861,
+        "27/07/2023": 5208538,
+        "28/07/2023": 5249512,
+        "29/07/2023": 5307149,
+        "30/07/2023": 5371923,
+        "31/07/2023": 5439900,
+        "01/08/2023": 5508370,
+        "02/08/2023": 5546633,
+        "03/08/2023": 5588720,
+        "04/08/2023": 5637756,
+        "05/08/2023": 5726301
+    },
+    "playerStatus": "ok"
+}

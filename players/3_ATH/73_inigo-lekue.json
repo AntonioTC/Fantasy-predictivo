@@ -1,0 +1,43 @@
+{
+    "playerStats": [],
+    "points": 0,
+    "averagePoints": 0,
+    "id": "73",
+    "team": {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t174/color/t174_athletic-club.png",
+        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t174/gray/t174_athletic-club.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t174/white/t174_athletic-club.png",
+        "name": "Athletic Club",
+        "id": "3",
+        "shortName": "ATH",
+        "slug": "athletic-club",
+        "dspId": 68,
+        "store": ""
+    },
+    "name": "I\u00f1igo Lekue",
+    "lastSeasonPoints": 67,
+    "nickname": "Lekue",
+    "slug": "inigo-lekue",
+    "positionId": 2,
+    "position": "Defensa",
+    "marketValue": {
+        "13/07/2023": 4200000,
+        "21/07/2023": 4048833,
+        "22/07/2023": 3903680,
+        "23/07/2023": 3795090,
+        "24/07/2023": 3698227,
+        "25/07/2023": 3610880,
+        "26/07/2023": 3517568,
+        "27/07/2023": 3435699,
+        "28/07/2023": 3350735,
+        "29/07/2023": 3279546,
+        "30/07/2023": 3211469,
+        "31/07/2023": 3143041,
+        "01/08/2023": 3078745,
+        "02/08/2023": 3023291,
+        "03/08/2023": 2971042,
+        "04/08/2023": 2914358,
+        "05/08/2023": 2867217
+    },
+    "playerStatus": "ok"
+}

@@ -1,0 +1,43 @@
+{
+    "playerStats": [],
+    "points": 0,
+    "averagePoints": 0,
+    "id": "284",
+    "team": {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t179/color/t179_sevilla-fc.png",
+        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t179/gray/t179_sevilla-fc.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t179/white/t179_sevilla-fc.png",
+        "name": "Sevilla FC",
+        "id": "17",
+        "shortName": "SEV",
+        "slug": "sevilla-fc",
+        "dspId": 75,
+        "store": ""
+    },
+    "name": "Jes\u00fas Navas Gonz\u00e1lez",
+    "lastSeasonPoints": 81,
+    "nickname": "Navas",
+    "slug": "jesus-navas",
+    "positionId": 2,
+    "position": "Defensa",
+    "marketValue": {
+        "13/07/2023": 12000000,
+        "14/07/2023": 11991578,
+        "15/07/2023": 11983493,
+        "16/07/2023": 11932108,
+        "24/07/2023": 11963849,
+        "25/07/2023": 11543173,
+        "26/07/2023": 11415144,
+        "27/07/2023": 11326967,
+        "28/07/2023": 11228400,
+        "29/07/2023": 11171577,
+        "30/07/2023": 11093598,
+        "31/07/2023": 11032067,
+        "01/08/2023": 10949680,
+        "02/08/2023": 10863097,
+        "03/08/2023": 10775647,
+        "04/08/2023": 10684324,
+        "05/08/2023": 10586497
+    },
+    "playerStatus": "ok"
+}

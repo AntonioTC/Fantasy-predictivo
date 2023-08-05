@@ -1,0 +1,36 @@
+{
+    "playerStats": [],
+    "points": 0,
+    "averagePoints": 0,
+    "id": "1320",
+    "team": {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t186/color/t186_real-madrid.png",
+        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t186/gray/t186_real-madrid.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t186/white/t186_real-madrid.png",
+        "name": "Real Madrid",
+        "id": "15",
+        "shortName": "RMA",
+        "slug": "real-madrid",
+        "dspId": 82,
+        "store": ""
+    },
+    "name": "Daniel Ceballos Fern\u00e1ndez",
+    "lastSeasonPoints": 139,
+    "nickname": "Ceballos",
+    "slug": "dani-ceballos",
+    "positionId": 3,
+    "position": "Centrocampista",
+    "marketValue": {
+        "13/07/2023": 15000000,
+        "28/07/2023": 14461491,
+        "29/07/2023": 13952974,
+        "30/07/2023": 13557015,
+        "31/07/2023": 13186430,
+        "01/08/2023": 12831578,
+        "02/08/2023": 12476548,
+        "03/08/2023": 12128230,
+        "04/08/2023": 11784902,
+        "05/08/2023": 11449080
+    },
+    "playerStatus": "ok"
+}

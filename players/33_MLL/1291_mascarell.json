@@ -1,0 +1,35 @@
+{
+    "playerStats": [],
+    "points": 0,
+    "averagePoints": 0,
+    "id": "1291",
+    "team": {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t181/color/t181_rcd-mallorca.png",
+        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t181/gray/t181_rcd-mallorca.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t181/white/t181_rcd-mallorca.png",
+        "name": "RCD Mallorca",
+        "id": "33",
+        "shortName": "MLL",
+        "slug": "rcd-mallorca",
+        "dspId": 77,
+        "store": ""
+    },
+    "name": "Omar Mascarell Gonz\u00e1lez",
+    "lastSeasonPoints": 110,
+    "nickname": "Mascarell",
+    "slug": "mascarell",
+    "positionId": 3,
+    "position": "Centrocampista",
+    "marketValue": {
+        "28/07/2023": 8407653,
+        "29/07/2023": 8112037,
+        "30/07/2023": 7976765,
+        "31/07/2023": 7900733,
+        "01/08/2023": 7861529,
+        "02/08/2023": 7836417,
+        "03/08/2023": 7778536,
+        "04/08/2023": 7720645,
+        "05/08/2023": 7688557
+    },
+    "playerStatus": "ok"
+}

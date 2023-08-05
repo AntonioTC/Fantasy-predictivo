@@ -1,0 +1,34 @@
+{
+    "playerStats": [],
+    "points": 0,
+    "averagePoints": 0,
+    "id": "1308",
+    "team": {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t191/color/t191_valencia-cf.png",
+        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t191/gray/t191_valencia-cf.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t191/white/t191_valencia-cf.png",
+        "name": "Valencia CF",
+        "id": "18",
+        "shortName": "VAL",
+        "slug": "valencia-cf",
+        "dspId": 88,
+        "store": ""
+    },
+    "name": "Jos\u00e9 Luis Garc\u00eda Vay\u00e1",
+    "nickname": "Pepelu",
+    "slug": "pepelu",
+    "positionId": 3,
+    "position": "Centrocampista",
+    "marketValue": {
+        "28/07/2023": 2627391,
+        "29/07/2023": 2535011,
+        "30/07/2023": 2555660,
+        "31/07/2023": 2658841,
+        "01/08/2023": 2768684,
+        "02/08/2023": 2878971,
+        "03/08/2023": 2986201,
+        "04/08/2023": 3094129,
+        "05/08/2023": 3189656
+    },
+    "playerStatus": "ok"
+}

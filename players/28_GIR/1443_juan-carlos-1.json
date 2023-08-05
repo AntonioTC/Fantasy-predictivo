@@ -1,0 +1,43 @@
+{
+    "playerStats": [],
+    "points": 0,
+    "averagePoints": 0,
+    "id": "1443",
+    "team": {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t2893/color/t2893_girona-fc.png",
+        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t2893/gray/t2893_girona-fc.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t2893/white/t2893_girona-fc.png",
+        "name": "Girona\u00a0FC",
+        "id": "28",
+        "shortName": "GIR",
+        "slug": "girona-fc",
+        "dspId": 151,
+        "store": ""
+    },
+    "name": "Juan Carlos Mart\u00edn",
+    "lastSeasonPoints": 42,
+    "nickname": "Juan Carlos",
+    "slug": "juan-carlos-1",
+    "positionId": 1,
+    "position": "Portero",
+    "marketValue": {
+        "13/07/2023": 3900000,
+        "14/07/2023": 3897262,
+        "15/07/2023": 3894634,
+        "16/07/2023": 3925912,
+        "17/07/2023": 3833214,
+        "18/07/2023": 3793403,
+        "19/07/2023": 3700978,
+        "20/07/2023": 3594447,
+        "21/07/2023": 3496483,
+        "22/07/2023": 3404709,
+        "23/07/2023": 3324138,
+        "24/07/2023": 3232671,
+        "25/07/2023": 3146953,
+        "26/07/2023": 3061540,
+        "27/07/2023": 2982782,
+        "04/08/2023": 2905173,
+        "05/08/2023": 2802192
+    },
+    "playerStatus": "ok"
+}

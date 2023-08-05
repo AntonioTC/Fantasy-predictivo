@@ -1,0 +1,29 @@
+{
+    "playerStats": [],
+    "points": 0,
+    "averagePoints": 0,
+    "id": "1520",
+    "team": {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t1737/color/t1737_cadiz-cf.png",
+        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t1737/gray/t1737_cadiz-cf.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t1737/white/t1737_cadiz-cf.png",
+        "name": "C\u00e1diz CF",
+        "id": "162",
+        "shortName": "CAD",
+        "slug": "cadiz-cf",
+        "dspId": 67,
+        "store": ""
+    },
+    "name": "Javier Hern\u00e1ndez Carrera",
+    "lastSeasonPoints": 73,
+    "nickname": "Javi Hern\u00e1ndez",
+    "slug": "Javi-hernandez",
+    "positionId": 3,
+    "position": "Centrocampista",
+    "marketValue": {
+        "13/07/2023": 3800000,
+        "04/08/2023": 3664603,
+        "05/08/2023": 3534703
+    },
+    "playerStatus": "ok"
+}

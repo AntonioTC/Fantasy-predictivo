@@ -1,0 +1,40 @@
+{
+    "playerStats": [],
+    "points": 0,
+    "averagePoints": 0,
+    "id": "1000",
+    "team": {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t185/color/t185_real-betis.png",
+        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t185/gray/t185_real-betis.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t185/white/t185_real-betis.png",
+        "name": "Real Betis",
+        "id": "5",
+        "shortName": "BET",
+        "slug": "real-betis",
+        "dspId": 81,
+        "store": ""
+    },
+    "name": "Edgar Paul Akouokou",
+    "lastSeasonPoints": 34,
+    "nickname": "Paul Akouokou",
+    "slug": "paul",
+    "positionId": 3,
+    "position": "Centrocampista",
+    "marketValue": {
+        "13/07/2023": 2800000,
+        "24/07/2023": 2697933,
+        "25/07/2023": 2603067,
+        "26/07/2023": 2522478,
+        "27/07/2023": 2442944,
+        "28/07/2023": 2370262,
+        "29/07/2023": 2296734,
+        "30/07/2023": 2228920,
+        "31/07/2023": 2167523,
+        "01/08/2023": 2108072,
+        "02/08/2023": 2044082,
+        "03/08/2023": 1981634,
+        "04/08/2023": 1921328,
+        "05/08/2023": 1871554
+    },
+    "playerStatus": "ok"
+}

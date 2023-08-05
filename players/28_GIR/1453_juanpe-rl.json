@@ -1,0 +1,43 @@
+{
+    "playerStats": [],
+    "points": 0,
+    "averagePoints": 0,
+    "id": "1453",
+    "team": {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t2893/color/t2893_girona-fc.png",
+        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t2893/gray/t2893_girona-fc.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t2893/white/t2893_girona-fc.png",
+        "name": "Girona\u00a0FC",
+        "id": "28",
+        "shortName": "GIR",
+        "slug": "girona-fc",
+        "dspId": 151,
+        "store": ""
+    },
+    "name": "Juan Pedro Ram\u00edrez L\u00f3pez",
+    "lastSeasonPoints": 58,
+    "nickname": "Juanpe",
+    "slug": "juanpe-rl",
+    "positionId": 2,
+    "position": "Defensa",
+    "marketValue": {
+        "13/07/2023": 6000000,
+        "14/07/2023": 5995789,
+        "15/07/2023": 5991746,
+        "16/07/2023": 5829671,
+        "17/07/2023": 5695746,
+        "18/07/2023": 5529087,
+        "19/07/2023": 5371313,
+        "20/07/2023": 5206874,
+        "21/07/2023": 5057145,
+        "22/07/2023": 4906009,
+        "23/07/2023": 4764855,
+        "24/07/2023": 4625505,
+        "25/07/2023": 4503734,
+        "26/07/2023": 4378107,
+        "27/07/2023": 4252391,
+        "04/08/2023": 4131262,
+        "05/08/2023": 3984820
+    },
+    "playerStatus": "ok"
+}

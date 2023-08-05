@@ -1,0 +1,29 @@
+{
+    "playerStats": [],
+    "points": 0,
+    "averagePoints": 0,
+    "id": "146",
+    "team": {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t176/color/t176_rc-celta.png",
+        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t176/gray/t176_rc-celta.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t176/white/t176_rc-celta.png",
+        "name": "RC Celta",
+        "id": "6",
+        "shortName": "CEL",
+        "slug": "rc-celta",
+        "dspId": 71,
+        "store": ""
+    },
+    "name": "Kevin V\u00e1zquez Comesa\u00f1a",
+    "lastSeasonPoints": 21,
+    "nickname": "Kevin V\u00e1zquez",
+    "slug": "kevin-vazquez",
+    "positionId": 2,
+    "position": "Defensa",
+    "marketValue": {
+        "13/07/2023": 2500000,
+        "04/08/2023": 2411368,
+        "05/08/2023": 2325968
+    },
+    "playerStatus": "ok"
+}
