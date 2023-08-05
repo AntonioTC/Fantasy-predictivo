@@ -103,5 +103,5 @@ for jugador in jugadores_aumento:
 html_content += "</body></html>"
 
 # Guardar el contenido en un archivo HTML
-with open("jugadores_compraventa.html", "w", encoding="utf-8") as archivo_html:
+with open("index.html", "w", encoding="utf-8") as archivo_html:
     archivo_html.write(html_content)
