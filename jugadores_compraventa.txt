@@ -1,0 +1,88 @@
+Jugadores con mayores subidas:
+Nombre: Antoine Griezmann / Nick: Griezmann (ID: 666)
+Precio actual: 73.515.069,00€
+Porcentaje de aumento en 5 días: 11.28%
+Porcentaje de aumento en 7 días: 16.76%
+Predicción de precio: [114.107.942,66€ / 119.813.339,79€ / 125.804.006,78€] (-0,5% / = / +0,5%)
+Ganancia potencial: 46.298.270,79€ ( 62.98% )
+Acción a tomar: muy recomendable
+
+Nombre: Gabriel Veiga / Nick: Gabri Veiga (ID: 974)
+Precio actual: 32.845.542,00€
+Porcentaje de aumento en 5 días: 15.58%
+Porcentaje de aumento en 7 días: 22.70%
+Porcentaje de aumento en 15 días: 55.10%
+Predicción de precio: [37.437.129,46€ / 39.308.985,93€ / 41.274.435,23€] (-0,5% / = / +0,5%)
+Ganancia potencial: 6.463.443,93€ ( 19.68% )
+Acción a tomar: muy recomendable
+
+Nombre: Vinicius Júnior / Nick: Vinícius Jr. (ID: 247)
+Precio actual: 95.854.456,00€
+Porcentaje de aumento en 5 días: 4.12%
+Porcentaje de aumento en 7 días: 6.95%
+Porcentaje de aumento en 15 días: 33.53%
+Predicción de precio: [97.161.688,93€ / 102.019.773,37€ / 107.120.762,04€] (-0,5% / = / +0,5%)
+Ganancia potencial: 6.165.317,37€ ( 6.43% )
+Acción a tomar: recomendable
+
+Nombre: Rodrygo Silva de Goes / Nick: Rodrygo (ID: 557)
+Precio actual: 64.323.771,00€
+Porcentaje de aumento en 5 días: 5.89%
+Porcentaje de aumento en 7 días: 9.94%
+Porcentaje de aumento en 15 días: 32.81%
+Predicción de precio: [66.801.395,65€ / 70.141.465,43€ / 73.648.538,70€] (-0,5% / = / +0,5%)
+Ganancia potencial: 5.817.694,43€ ( 9.04% )
+Acción a tomar: recomendable
+
+Nombre: Marc-André Ter Stegen / Nick: Ter Stegen (ID: 93)
+Precio actual: 52.806.431,00€
+Porcentaje de aumento en 5 días: 7.69%
+Porcentaje de aumento en 7 días: 11.88%
+Porcentaje de aumento en 15 días: 38.69%
+Predicción de precio: [55.655.265,99€ / 58.438.029,29€ / 61.359.930,75€] (-0,5% / = / +0,5%)
+Ganancia potencial: 5.631.598,29€ ( 10.66% )
+Acción a tomar: muy recomendable
+
+Nombre: José Luis Sanmartín / Nick: Joselu (ID: 704)
+Precio actual: 9.545.189,00€
+Porcentaje de aumento en 5 días: 25.50%
+Predicción de precio: [14.427.898,07€ / 15.149.292,97€ / 15.906.757,62€] (-0,5% / = / +0,5%)
+Ganancia potencial: 5.604.103,97€ ( 58.71% )
+Acción a tomar: muy recomendable
+
+Nombre: Thibaut Courtois / Nick: Courtois (ID: 230)
+Precio actual: 49.375.668,00€
+Porcentaje de aumento en 5 días: 8.17%
+Porcentaje de aumento en 7 días: 12.01%
+Porcentaje de aumento en 15 días: 40.86%
+Predicción de precio: [52.123.683,84€ / 54.729.868,03€ / 57.466.361,43€] (-0,5% / = / +0,5%)
+Ganancia potencial: 5.354.200,03€ ( 10.84% )
+Acción a tomar: muy recomendable
+
+Nombre: Vedat Muriqi / Nick: Muriqi (ID: 1352)
+Precio actual: 30.854.303,00€
+Porcentaje de aumento en 5 días: 14.31%
+Porcentaje de aumento en 7 días: 20.66%
+Porcentaje de aumento en 15 días: 53.77%
+Predicción de precio: [34.386.754,15€ / 36.106.091,85€ / 37.911.396,45€] (-0,5% / = / +0,5%)
+Ganancia potencial: 5.251.788,85€ ( 17.02% )
+Acción a tomar: muy recomendable
+
+Nombre: Robert Lewandowski / Nick: Lewandowski (ID: 1505)
+Precio actual: 92.029.509,00€
+Porcentaje de aumento en 5 días: 3.61%
+Porcentaje de aumento en 7 días: 6.26%
+Porcentaje de aumento en 15 días: 28.77%
+Predicción de precio: [92.558.950,32€ / 97.186.897,83€ / 102.046.242,72€] (-0,5% / = / +0,5%)
+Ganancia potencial: 5.157.388,83€ ( 5.60% )
+Acción a tomar: recomendable
+
+Nombre: Takefusa Kubo / Nick: Kubo (ID: 1197)
+Precio actual: 47.687.092,00€
+Porcentaje de aumento en 5 días: 8.00%
+Porcentaje de aumento en 7 días: 11.61%
+Porcentaje de aumento en 15 días: 36.36%
+Predicción de precio: [50.189.181,28€ / 52.698.640,34€ / 55.333.572,36€] (-0,5% / = / +0,5%)
+Ganancia potencial: 5.011.548,34€ ( 10.51% )
+Acción a tomar: muy recomendable
+

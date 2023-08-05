@@ -1,0 +1,2505 @@
+Jugadores con mayores subidas:
+Nombre: Gabriel Veiga (ID: 974)
+Precio actual: 32099343.00
+Precio hace 15 días: 20000000.00
+Precio hace 7 días: 26768461.00
+Precio hace 5 días: 28418601.00
+Porcentaje de aumento a 15 días: 54.83% - Acción: comprar
+Precio anterior: 36879614.97 - Precio predicción 7 días: 38723595.72
+
+Nombre: Vedat Muriqi (ID: 1352)
+Precio actual: 30034567.00
+Precio hace 15 días: 18500000.00
+Precio hace 7 días: 25570708.00
+Precio hace 5 días: 26991782.00
+Porcentaje de aumento a 15 días: 54.45% - Acción: comprar
+Precio anterior: 33644644.13 - Precio predicción 7 días: 35326876.34
+
+Nombre: Thibaut Courtois (ID: 230)
+Precio actual: 48864956.00
+Precio hace 15 días: 32500000.00
+Precio hace 7 días: 44081126.00
+Precio hace 5 días: 45646979.00
+Porcentaje de aumento a 15 días: 42.91% - Acción: comprar
+Precio anterior: 52557327.22 - Precio predicción 7 días: 55185193.58
+
+Nombre: Marc-André Ter Stegen (ID: 93)
+Precio actual: 52079461.00
+Precio hace 15 días: 35000000.00
+Precio hace 7 días: 47199635.00
+Precio hace 5 días: 49034601.00
+Porcentaje de aumento a 15 días: 41.09% - Acción: comprar
+Precio anterior: 55683077.08 - Precio predicción 7 días: 58467230.93
+
+Nombre: Isaac Palazón (ID: 1032)
+Precio actual: 35766702.00
+Precio hace 15 días: 25000000.00
+Precio hace 7 días: 31964610.00
+Precio hace 5 días: 33188704.00
+Porcentaje de aumento a 15 días: 39.42% - Acción: comprar
+Precio anterior: 38444316.61 - Precio predicción 7 días: 40366532.44
+
+Nombre: Takefusa Kubo (ID: 1197)
+Precio actual: 46954965.00
+Precio hace 15 días: 32500000.00
+Precio hace 7 días: 42725835.00
+Precio hace 5 días: 44154301.00
+Porcentaje de aumento a 15 días: 37.70% - Acción: comprar
+Precio anterior: 49637281.86 - Precio predicción 7 días: 52119145.95
+
+Nombre: Brais Méndez Portela (ID: 150)
+Precio actual: 34977228.00
+Precio hace 15 días: 25000000.00
+Precio hace 7 días: 31148956.00
+Precio hace 5 días: 32297370.00
+Porcentaje de aumento a 15 días: 37.27% - Acción: comprar
+Precio anterior: 37655324.66 - Precio predicción 7 días: 39538090.89
+
+Nombre: Predrag Rajkovic (ID: 1490)
+Precio actual: 12652708.00
+Precio hace 15 días: 9000000.00
+Precio hace 7 días: 11243284.00
+Precio hace 5 días: 11675144.00
+Porcentaje de aumento a 15 días: 36.69% - Acción: comprar
+Precio anterior: 13611910.26 - Precio predicción 7 días: 14292505.78
+
+Nombre: Alejandro Baena (ID: 1022)
+Precio actual: 17188188.00
+Precio hace 15 días: 12000000.00
+Precio hace 7 días: 15243850.00
+Precio hace 5 días: 15819987.00
+Porcentaje de aumento a 15 días: 36.24% - Acción: comprar
+Precio anterior: 18704482.02 - Precio predicción 7 días: 19639706.12
+
+Nombre: Stole Dimitrievski (ID: 1046)
+Precio actual: 11892946.00
+Precio hace 15 días: 8500000.00
+Precio hace 7 días: 10576866.00
+Precio hace 5 días: 10928216.00
+Porcentaje de aumento a 15 días: 35.67% - Acción: comprar
+Precio anterior: 12851504.17 - Precio predicción 7 días: 13494079.38
+
+Nombre: Vinicius Júnior (ID: 247)
+Precio actual: 95256809.00
+Precio hace 15 días: 65000000.00
+Precio hace 7 días: 89624184.00
+Precio hace 5 días: 92058709.00
+Porcentaje de aumento a 15 días: 35.65% - Acción: comprar
+Precio anterior: 98436460.25 - Precio predicción 7 días: 103358283.26
+
+Nombre: Antonio Raíllo (ID: 1090)
+Precio actual: 16904731.00
+Precio hace 15 días: 12000000.00
+Precio hace 7 días: 14973420.00
+Precio hace 5 días: 15598809.00
+Porcentaje de aumento a 15 días: 34.94% - Acción: comprar
+Precio anterior: 18235397.46 - Precio predicción 7 días: 19147167.33
+
+Nombre: Rodrygo Silva de Goes (ID: 557)
+Precio actual: 63745604.00
+Precio hace 15 días: 45000000.00
+Precio hace 7 días: 58505882.00
+Precio hace 5 días: 60743038.00
+Porcentaje de aumento a 15 días: 34.69% - Acción: comprar
+Precio anterior: 66813763.29 - Precio predicción 7 días: 70154451.46
+
+Nombre: Alejandro Remiro Gargallo (ID: 274)
+Precio actual: 31586210.00
+Precio hace 15 días: 22500000.00
+Precio hace 7 días: 29011853.00
+Precio hace 5 días: 29906089.00
+Porcentaje de aumento a 15 días: 33.40% - Acción: comprar
+Precio anterior: 33202983.19 - Precio predicción 7 días: 34863132.35
+
+Nombre: Iago Aspas Juncal (ID: 159)
+Precio actual: 41257863.00
+Precio hace 15 días: 30000000.00
+Precio hace 7 días: 37534718.00
+Precio hace 5 días: 38896444.00
+Porcentaje de aumento a 15 días: 33.34% - Acción: comprar
+Precio anterior: 43730363.58 - Precio predicción 7 días: 45916881.76
+
+Nombre: David Olatukunbo Alaba (ID: 1157)
+Precio actual: 34193459.00
+Precio hace 15 días: 25000000.00
+Precio hace 7 días: 31185955.00
+Precio hace 5 días: 32133336.00
+Porcentaje de aumento a 15 días: 32.64% - Acción: comprar
+Precio anterior: 36057234.69 - Precio predicción 7 días: 37860096.43
+
+Nombre: David García Zubiría (ID: 650)
+Precio actual: 27307822.00
+Precio hace 15 días: 20000000.00
+Precio hace 7 días: 24819751.00
+Precio hace 5 días: 25570080.00
+Porcentaje de aumento a 15 días: 32.54% - Acción: comprar
+Precio anterior: 28806540.40 - Precio predicción 7 días: 30246867.42
+
+Nombre: Unai Simón Mendibil (ID: 68)
+Precio actual: 27073845.00
+Precio hace 15 días: 20000000.00
+Precio hace 7 días: 24706407.00
+Precio hace 5 días: 25499805.00
+Porcentaje de aumento a 15 días: 32.54% - Acción: comprar
+Precio anterior: 28512511.94 - Precio predicción 7 días: 29938137.53
+
+Nombre: Jeremías Ledesma (ID: 947)
+Precio actual: 18465638.00
+Precio hace 15 días: 13500000.00
+Precio hace 7 días: 16780287.00
+Precio hace 5 días: 17360721.00
+Porcentaje de aumento a 15 días: 32.29% - Acción: comprar
+Precio anterior: 19522644.20 - Precio predicción 7 días: 20498776.41
+
+Nombre: Borja Iglesias Quintas (ID: 179)
+Precio actual: 33594617.00
+Precio hace 15 días: 25000000.00
+Precio hace 7 días: 30478425.00
+Precio hace 5 días: 31531206.00
+Porcentaje de aumento a 15 días: 31.43% - Acción: comprar
+Precio anterior: 35552026.12 - Precio predicción 7 días: 37329627.43
+
+Nombre: Robert Lewandowski (ID: 1505)
+Precio actual: 91642646.00
+Precio hace 15 días: 65000000.00
+Precio hace 7 días: 86605574.00
+Precio hace 5 días: 88819829.00
+Porcentaje de aumento a 15 días: 31.33% - Acción: comprar
+Precio anterior: 94655649.65 - Precio predicción 7 días: 99388432.14
+
+Nombre: Mikel Oyarzabal (ID: 264)
+Precio actual: 37012066.00
+Precio hace 15 días: 27500000.00
+Precio hace 7 días: 33837653.00
+Precio hace 5 días: 34710624.00
+Porcentaje de aumento a 15 días: 30.50% - Acción: comprar
+Precio anterior: 38722417.90 - Precio predicción 7 días: 40658538.79
+
+Nombre: Nicholas Williams Arthuer (ID: 1318)
+Precio actual: 40603901.00
+Precio hace 15 días: 30000000.00
+Precio hace 7 días: 37420418.00
+Precio hace 5 días: 38394706.00
+Porcentaje de aumento a 15 días: 30.18% - Acción: comprar
+Precio anterior: 42380435.57 - Precio predicción 7 días: 44499457.35
+
+Nombre: Lucas Robertone (ID: 1414)
+Precio actual: 18389859.00
+Precio hace 15 días: 14000000.00
+Precio hace 7 días: 16813297.00
+Precio hace 5 días: 17230464.00
+Porcentaje de aumento a 15 días: 29.01% - Acción: comprar
+Precio anterior: 19321360.55 - Precio predicción 7 días: 20287428.58
+
+Nombre: Xavi Hernández (ID: 1361)
+Precio actual: 16915657.00
+Precio hace 15 días: 12000000.00
+Precio hace 7 días: 15083104.00
+Precio hace 5 días: 17873508.00
+Porcentaje de aumento a 15 días: 27.79% - Acción: comprar
+Precio anterior: 17060966.58 - Precio predicción 7 días: 17914014.91
+
+Nombre: Martín Zubimendi (ID: 889)
+Precio actual: 35229236.00
+Precio hace 15 días: 27000000.00
+Precio hace 7 días: 32490922.00
+Precio hace 5 días: 33360316.00
+Porcentaje de aumento a 15 días: 27.46% - Acción: comprar
+Precio anterior: 36737495.40 - Precio predicción 7 días: 38574370.17
+
+Nombre: David Soria Solís (ID: 184)
+Precio actual: 19549034.00
+Precio hace 15 días: 15000000.00
+Precio hace 7 días: 18074335.00
+Precio hace 5 días: 18528273.00
+Porcentaje de aumento a 15 días: 26.68% - Acción: comprar
+Precio anterior: 20269141.15 - Precio predicción 7 días: 21282598.21
+
+Nombre: Pablo Maffeo (ID: 1097)
+Precio actual: 13823773.00
+Precio hace 15 días: 10000000.00
+Precio hace 7 días: 12503315.00
+Precio hace 5 días: 12834889.00
+Porcentaje de aumento a 15 días: 26.59% - Acción: comprar
+Precio anterior: 14642422.33 - Precio predicción 7 días: 15374543.44
+
+Nombre: Mario Hermoso Canseco (ID: 166)
+Precio actual: 20335014.00
+Precio hace 15 días: 16000000.00
+Precio hace 7 días: 18627031.00
+Precio hace 5 días: 19113633.00
+Porcentaje de aumento a 15 días: 25.36% - Acción: comprar
+Precio anterior: 21237318.62 - Precio predicción 7 días: 22299184.56
+
+Nombre: Giorgi Mamardashvili (ID: 1255)
+Precio actual: 18982005.00
+Precio hace 15 días: 15000000.00
+Precio hace 7 días: 17556970.00
+Precio hace 5 días: 18052637.00
+Porcentaje de aumento a 15 días: 25.32% - Acción: comprar
+Precio anterior: 19719498.88 - Precio predicción 7 días: 20705473.83
+
+Nombre: Andreas Bødtker Christensen (ID: 1507)
+Precio actual: 31769078.00
+Precio hace 15 días: 25000000.00
+Precio hace 7 días: 30281659.00
+Precio hace 5 días: 30884315.00
+Porcentaje de aumento a 15 días: 24.16% - Acción: comprar
+Precio anterior: 32145106.58 - Precio predicción 7 días: 33752361.91
+
+Nombre: Eduardo Celmi Camavinga (ID: 1300)
+Precio actual: 43518507.00
+Precio hace 15 días: 35000000.00
+Precio hace 7 días: 41253931.00
+Precio hace 5 días: 41939310.00
+Porcentaje de aumento a 15 días: 23.11% - Acción: comprar
+Precio anterior: 44311759.19 - Precio predicción 7 días: 46527347.15
+
+Nombre: Oihan Sancet Tirapu (ID: 766)
+Precio actual: 35345179.00
+Precio hace 15 días: 28000000.00
+Precio hace 7 días: 33099604.00
+Precio hace 5 días: 33778315.00
+Porcentaje de aumento a 15 días: 22.82% - Acción: comprar
+Precio anterior: 36129277.96 - Precio predicción 7 días: 37935741.86
+
+Nombre: Luka Modrić (ID: 240)
+Precio actual: 24939368.00
+Precio hace 15 días: 20000000.00
+Precio hace 7 días: 23354074.00
+Precio hace 5 días: 23959067.00
+Porcentaje de aumento a 15 días: 22.65% - Acción: comprar
+Precio anterior: 25597134.09 - Precio predicción 7 días: 26876990.80
+
+Nombre: Mikel Vesga Arruti (ID: 92)
+Precio actual: 8384295.00
+Precio hace 15 días: 6000000.00
+Precio hace 7 días: 7838550.00
+Precio hace 5 días: 7944543.00
+Porcentaje de aumento a 15 días: 22.07% - Acción: comprar
+Precio anterior: 8767689.15 - Precio predicción 7 días: 9206073.61
+
+Nombre: Guido Rodríguez (ID: 775)
+Precio actual: 18422443.00
+Precio hace 15 días: 15000000.00
+Precio hace 7 días: 17178193.00
+Precio hace 5 días: 17503115.00
+Porcentaje de aumento a 15 días: 21.51% - Acción: comprar
+Precio anterior: 18963425.71 - Precio predicción 7 días: 19911596.99
+
+Nombre: Iñaki Williams Arthuer (ID: 91)
+Precio actual: 30651525.00
+Precio hace 15 días: 25000000.00
+Precio hace 7 días: 28701559.00
+Precio hace 5 días: 29324392.00
+Porcentaje de aumento a 15 días: 20.87% - Acción: comprar
+Precio anterior: 31696509.64 - Precio predicción 7 días: 33281335.12
+
+Nombre: Robin Le Normand (ID: 255)
+Precio actual: 36500280.00
+Precio hace 15 días: 30000000.00
+Precio hace 7 días: 34498703.00
+Precio hace 5 días: 35226435.00
+Porcentaje de aumento a 15 días: 19.84% - Acción: comprar
+Precio anterior: 37146590.50 - Precio predicción 7 días: 39003920.03
+
+Nombre: Álvaro García (ID: 1029)
+Precio actual: 19528941.00
+Precio hace 15 días: 16000000.00
+Precio hace 7 días: 18175564.00
+Precio hace 5 días: 18611344.00
+Porcentaje de aumento a 15 días: 19.75% - Acción: comprar
+Precio anterior: 20055279.43 - Precio predicción 7 días: 21058043.41
+
+Nombre: Igor Zubeldia (ID: 265)
+Precio actual: 20523134.00
+Precio hace 15 días: 17000000.00
+Precio hace 7 días: 19200737.00
+Precio hace 5 días: 19634188.00
+Porcentaje de aumento a 15 días: 19.23% - Acción: comprar
+Precio anterior: 21130739.83 - Precio predicción 7 días: 22187276.82
+
+Nombre: Nahuel Molina (ID: 1491)
+Precio actual: 30221289.00
+Precio hace 15 días: 25000000.00
+Precio hace 7 días: 29083682.00
+Precio hace 5 días: 29523287.00
+Porcentaje de aumento a 15 días: 19.06% - Acción: comprar
+Precio anterior: 30070193.63 - Precio predicción 7 días: 31573703.31
+
+Nombre: Pablo Martín Páez Gavira (ID: 1221)
+Precio actual: 49122755.00
+Precio hace 15 días: 40000000.00
+Precio hace 7 días: 47843142.00
+Precio hace 5 días: 48851086.00
+Porcentaje de aumento a 15 días: 19.02% - Acción: comprar
+Precio anterior: 48861495.06 - Precio predicción 7 días: 51304569.82
+
+Nombre: Luis Ezequiel Ávila (ID: 478)
+Precio actual: 17149649.00
+Precio hace 15 días: 14000000.00
+Precio hace 7 días: 15952312.00
+Precio hace 5 días: 16351691.00
+Porcentaje de aumento a 15 días: 18.89% - Acción: comprar
+Precio anterior: 17732325.26 - Precio predicción 7 días: 18618941.52
+
+Nombre: Yéremi Jesús Pino Santos (ID: 995)
+Precio actual: 30816705.00
+Precio hace 15 días: 26000000.00
+Precio hace 7 días: 29425661.00
+Precio hace 5 días: 29930926.00
+Porcentaje de aumento a 15 días: 18.76% - Acción: comprar
+Precio anterior: 31250741.98 - Precio predicción 7 días: 32813279.08
+
+Nombre: Aimar Oroz Huarte (ID: 1517)
+Precio actual: 14723868.00
+Precio hace 15 días: 12500000.00
+Precio hace 7 días: 13575651.00
+Precio hace 5 días: 13945477.00
+Porcentaje de aumento a 15 días: 17.81% - Acción: comprar
+Precio anterior: 15343652.29 - Precio predicción 7 días: 16110834.90
+
+Nombre: Pedro González (ID: 918)
+Precio actual: 60478576.00
+Precio hace 15 días: 50000000.00
+Precio hace 7 días: 59110746.00
+Precio hace 5 días: 59956651.00
+Porcentaje de aumento a 15 días: 17.16% - Acción: comprar
+Precio anterior: 59545085.19 - Precio predicción 7 días: 62522339.45
+
+Nombre: Javier Galán Gil (ID: 1204)
+Precio actual: 21260054.00
+Precio hace 15 días: 18000000.00
+Precio hace 7 días: 20752079.00
+Precio hace 5 días: 20947071.00
+Porcentaje de aumento a 15 días: 16.85% - Acción: comprar
+Precio anterior: 21061800.42 - Precio predicción 7 días: 22114890.44
+
+Nombre: Marko Dmitrovic (ID: 1163)
+Precio actual: 9971895.00
+Precio hace 15 días: 8500000.00
+Precio hace 7 días: 9408903.00
+Precio hace 5 días: 9559779.00
+Porcentaje de aumento a 15 días: 16.51% - Acción: comprar
+Precio anterior: 10171971.45 - Precio predicción 7 días: 10680570.02
+
+Nombre: Yassine Bounou (ID: 734)
+Precio actual: 17382625.00
+Precio hace 15 días: 15000000.00
+Precio hace 7 días: 16466390.00
+Precio hace 5 días: 16761746.00
+Porcentaje de aumento a 15 días: 15.50% - Acción: comprar
+Precio anterior: 17561132.23 - Precio predicción 7 días: 18439188.84
+
+Nombre: Umar Sadiq (ID: 1418)
+Precio actual: 17777024.00
+Precio hace 15 días: 15500000.00
+Precio hace 7 días: 16555472.00
+Precio hace 5 días: 16981300.00
+Porcentaje de aumento a 15 días: 15.48% - Acción: comprar
+Precio anterior: 18326324.90 - Precio predicción 7 días: 19242641.14
+
+Nombre: Ousmane Dembélé (ID: 112)
+Precio actual: 55817441.00
+Precio hace 15 días: 47000000.00
+Precio hace 7 días: 57135141.00
+Precio hace 5 días: 58026792.00
+Porcentaje de aumento a 15 días: 15.39% - Acción: comprar
+Precio anterior: 54073774.66 - Precio predicción 7 días: 56777463.39
+
+Nombre: Rui Tiago Dantas da Silva (ID: 1132)
+Precio actual: 11503638.00
+Precio hace 15 días: 10000000.00
+Precio hace 7 días: 10945127.00
+Precio hace 5 días: 11160320.00
+Porcentaje de aumento a 15 días: 14.85% - Acción: comprar
+Precio anterior: 11614133.61 - Precio predicción 7 días: 12194840.29
+
+Nombre: Daniel Parejo Muñoz (ID: 310)
+Precio actual: 34946223.00
+Precio hace 15 días: 30000000.00
+Precio hace 7 días: 33843485.00
+Precio hace 5 días: 34235167.00
+Porcentaje de aumento a 15 días: 14.52% - Acción: comprar
+Precio anterior: 34923831.63 - Precio predicción 7 días: 36670023.22
+
+Nombre: Luiz Felipe Ramos Marchi (ID: 1519)
+Precio actual: 13827456.00
+Precio hace 15 días: 12000000.00
+Precio hace 7 días: 13114627.00
+Precio hace 5 días: 13358668.00
+Porcentaje de aumento a 15 días: 13.38% - Acción: comprar
+Precio anterior: 14007640.89 - Precio predicción 7 días: 14708022.94
+
+Nombre: José Manuel Reina Páez (ID: 1479)
+Precio actual: 8943542.00
+Precio hace 15 días: 8000000.00
+Precio hace 7 días: 8531919.00
+Precio hace 5 días: 8628654.00
+Porcentaje de aumento a 15 días: 12.82% - Acción: comprar
+Precio anterior: 9011047.71 - Precio predicción 7 días: 9461600.09
+
+Nombre: José Manuel Arias Copete (ID: 1482)
+Precio actual: 5763074.00
+Precio hace 15 días: 5000000.00
+Precio hace 7 días: 5497203.00
+Precio hace 5 días: 5573120.00
+Porcentaje de aumento a 15 días: 12.53% - Acción: comprar
+Precio anterior: 5780394.96 - Precio predicción 7 días: 6069414.70
+
+Nombre: Domingos André Ribeiro Almeida (ID: 1529)
+Precio actual: 19053292.00
+Precio hace 15 días: 17000000.00
+Precio hace 7 días: 18292096.00
+Precio hace 5 días: 18502042.00
+Porcentaje de aumento a 15 días: 12.30% - Acción: comprar
+Precio anterior: 19024579.54 - Precio predicción 7 días: 19975808.51
+
+Nombre: Frenkie de Jong (ID: 544)
+Precio actual: 54390725.00
+Precio hace 15 días: 48000000.00
+Precio hace 7 días: 54040095.00
+Precio hace 5 días: 54419985.00
+Porcentaje de aumento a 15 días: 12.26% - Acción: comprar
+Precio anterior: 52695624.89 - Precio predicción 7 días: 55330406.13
+
+Nombre: Raúl de Tomás (ID: 1063)
+Precio actual: 18262235.00
+Precio hace 15 días: 16500000.00
+Precio hace 7 días: 17500940.00
+Precio hace 5 días: 17751047.00
+Porcentaje de aumento a 15 días: 11.64% - Acción: comprar
+Precio anterior: 18224229.88 - Precio predicción 7 días: 19135441.38
+
+Nombre: Éder Militão (ID: 558)
+Precio actual: 51366421.00
+Precio hace 15 días: 46000000.00
+Precio hace 7 días: 52384579.00
+Precio hace 5 días: 52246222.00
+Porcentaje de aumento a 15 días: 11.37% - Acción: comprar
+Precio anterior: 48958022.55 - Precio predicción 7 días: 51405923.67
+
+Nombre: Antonio Rüdiger (ID: 1474)
+Precio actual: 27131948.00
+Precio hace 15 días: 25000000.00
+Precio hace 7 días: 26257534.00
+Precio hace 5 días: 26557962.00
+Porcentaje de aumento a 15 días: 10.64% - Acción: comprar
+Precio anterior: 27019310.73 - Precio predicción 7 días: 28370276.27
+
+Nombre: Arnau Martinez (ID: 1468)
+Precio actual: 12628974.00
+Precio hace 15 días: 11000000.00
+Precio hace 7 días: 12057917.00
+Precio hace 5 días: 12207350.00
+Porcentaje de aumento a 15 días: 10.33% - Acción: comprar
+Precio anterior: 12670127.93 - Precio predicción 7 días: 13303634.33
+
+Nombre: Moi Gómez (ID: 680)
+Precio actual: 20365644.00
+Precio hace 15 días: 18500000.00
+Precio hace 7 días: 19506260.00
+Precio hace 5 días: 19760667.00
+Porcentaje de aumento a 15 días: 9.81% - Acción: comprar
+Precio anterior: 20288479.89 - Precio predicción 7 días: 21302903.89
+
+Nombre: Marcos Llorente (ID: 67)
+Precio actual: 28189416.00
+Precio hace 15 días: 26000000.00
+Precio hace 7 días: 27332475.00
+Precio hace 5 días: 27651067.00
+Porcentaje de aumento a 15 días: 9.22% - Acción: comprar
+Precio anterior: 27855199.46 - Precio predicción 7 días: 29247959.43
+
+Nombre: Youssef En-Nesyri (ID: 415)
+Precio actual: 24594616.00
+Precio hace 15 días: 22500000.00
+Precio hace 7 días: 24082472.00
+Precio hace 5 días: 24344880.00
+Porcentaje de aumento a 15 días: 8.71% - Acción: comprar
+Precio anterior: 24021158.16 - Precio predicción 7 días: 25222216.07
+
+Nombre: Myrto Uzuni (ID: 1349)
+Precio actual: 13205589.00
+Precio hace 15 días: 12000000.00
+Precio hace 7 días: 12681065.00
+Precio hace 5 días: 12772816.00
+Porcentaje de aumento a 15 días: 8.16% - Acción: comprar
+Precio anterior: 13274285.81 - Precio predicción 7 días: 13938000.10
+
+Nombre: Jules Koundé (ID: 566)
+Precio actual: 47840892.00
+Precio hace 15 días: 43500000.00
+Precio hace 7 días: 49014920.00
+Precio hace 5 días: 49052946.00
+Porcentaje de aumento a 15 días: 8.15% - Acción: comprar
+Precio anterior: 44763205.35 - Precio predicción 7 días: 47001365.62
+
+Nombre: Sergio Herrera Pirón (ID: 644)
+Precio actual: 10223305.00
+Precio hace 15 días: 9500000.00
+Precio hace 7 días: 9821700.00
+Precio hace 5 días: 9916977.00
+Porcentaje de aumento a 15 días: 8.05% - Acción: comprar
+Precio anterior: 10163170.44 - Precio predicción 7 días: 10671328.97
+
+Nombre: Jesús Vallejo (ID: 1159)
+Precio actual: 5939729.00
+Precio hace 15 días: 5500000.00
+Precio hace 7 días: 5735104.00
+Precio hace 5 días: 5746711.00
+Porcentaje de aumento a 15 días: 7.55% - Acción: comprar
+Precio anterior: 5947954.43 - Precio predicción 7 días: 6245352.16
+
+Nombre: Fede Valverde (ID: 243)
+Precio actual: 53455080.00
+Precio hace 15 días: 50000000.00
+Precio hace 7 días: 53048796.00
+Precio hace 5 días: 53652371.00
+Porcentaje de aumento a 15 días: 7.55% - Acción: comprar
+Precio anterior: 52154054.75 - Precio predicción 7 días: 54761757.48
+
+Nombre: Jan Oblak (ID: 53)
+Precio actual: 29552841.00
+Precio hace 15 días: 27500000.00
+Precio hace 7 días: 29432853.00
+Precio hace 5 días: 29563114.00
+Porcentaje de aumento a 15 días: 7.24% - Acción: comprar
+Precio anterior: 28403582.72 - Precio predicción 7 días: 29823761.85
+
+Nombre: Stefan Savić (ID: 56)
+Precio actual: 21356460.00
+Precio hace 15 días: 20000000.00
+Precio hace 7 días: 20934330.00
+Precio hace 5 días: 21206769.00
+Porcentaje de aumento a 15 días: 7.20% - Acción: comprar
+Precio anterior: 20844442.21 - Precio predicción 7 días: 21886664.32
+
+Nombre: Mikel Merino Zazón (ID: 271)
+Precio actual: 43658051.00
+Precio hace 15 días: 40000000.00
+Precio hace 7 días: 44333233.00
+Precio hace 5 días: 44192679.00
+Porcentaje de aumento a 15 días: 7.16% - Acción: comprar
+Precio anterior: 41095167.69 - Precio predicción 7 días: 43149926.08
+
+Nombre: Oriol Romeu Vidal (ID: 1537)
+Precio actual: 11125033.00
+Precio hace 15 días: 8000000.00
+Precio hace 7 días: 10771415.00
+Precio hace 5 días: 10658506.00
+Porcentaje de aumento a 15 días: 7.16% - Acción: comprar
+Precio anterior: 11354212.11 - Precio predicción 7 días: 11921922.72
+
+Nombre: Lucas Torró Marset (ID: 873)
+Precio actual: 10463205.00
+Precio hace 15 días: 8500000.00
+Precio hace 7 días: 10249329.00
+Precio hace 5 días: 10278225.00
+Porcentaje de aumento a 15 días: 4.26% - Acción: mantener
+Precio anterior: 10331034.45 - Precio predicción 7 días: 10847586.17
+
+Nombre: Toni Kroos (ID: 246)
+Precio actual: 26017194.00
+Precio hace 15 días: 25000000.00
+Precio hace 7 días: 26119463.00
+Precio hace 5 días: 26174217.00
+Porcentaje de aumento a 15 días: 3.69% - Acción: mantener
+Precio anterior: 24900152.61 - Precio predicción 7 días: 26145160.24
+
+Nombre: Yuri Berchiche Izeta (ID: 74)
+Precio actual: 9878732.00
+Precio hace 15 días: 8000000.00
+Precio hace 7 días: 9887872.00
+Precio hace 5 días: 9930849.00
+Porcentaje de aumento a 15 días: 3.52% - Acción: mantener
+Precio anterior: 9288685.89 - Precio predicción 7 días: 9753120.18
+
+Nombre: Daniel José Rodríguez Vázquez (ID: 1072)
+Precio actual: 10374821.00
+Precio hace 15 días: 8300000.00
+Precio hace 7 días: 10217033.00
+Precio hace 5 días: 10194524.00
+Porcentaje de aumento a 15 días: 2.30% - Acción: mantener
+Precio anterior: 10193099.05 - Precio predicción 7 días: 10702754.00
+
+Nombre: Lucas Ariel Ocampos (ID: 567)
+Precio actual: 14187318.00
+Precio hace 15 días: 14000000.00
+Precio hace 7 días: 14022949.00
+Precio hace 5 días: 14073048.00
+Porcentaje de aumento a 15 días: 1.61% - Acción: mantener
+Precio anterior: 13630730.14 - Precio predicción 7 días: 14312266.64
+
+Nombre: William Silva de Carvalho (ID: 127)
+Precio actual: 17015419.00
+Precio hace 15 días: 17000000.00
+Precio hace 7 días: 17120411.00
+Precio hace 5 días: 16999930.00
+Porcentaje de aumento a 15 días: 1.41% - Acción: mantener
+Precio anterior: 16257866.32 - Precio predicción 7 días: 17070759.63
+
+Nombre: Germán Pezzella (ID: 1295)
+Precio actual: 10886276.00
+Precio hace 15 días: 10000000.00
+Precio hace 7 días: 11188195.00
+Precio hace 5 días: 11105794.00
+Porcentaje de aumento a 15 días: 1.22% - Acción: mantener
+Precio anterior: 9658820.95 - Precio predicción 7 días: 10141762.00
+
+Nombre: Daniel Carvajal Ramos (ID: 231)
+Precio actual: 19965681.00
+Precio hace 15 días: 20000000.00
+Precio hace 7 días: 20190888.00
+Precio hace 5 días: 19975602.00
+Porcentaje de aumento a 15 días: 0.71% - Acción: mantener
+Precio anterior: 18771639.92 - Precio predicción 7 días: 19710221.92
+
+Nombre: David López (ID: 1049)
+Precio actual: 3436088.00
+Precio hace 15 días: 3500000.00
+Precio hace 7 días: 3376299.00
+Precio hace 5 días: 3370681.00
+Porcentaje de aumento a 15 días: 0.59% - Acción: mantener
+Precio anterior: 3362614.83 - Precio predicción 7 días: 3530745.57
+
+Nombre: Luiz Henrique André Rosa da Silva (ID: 1528)
+Precio actual: 15647956.00
+Precio hace 15 días: 16000000.00
+Precio hace 7 días: 15644701.00
+Precio hace 5 días: 15634312.00
+Porcentaje de aumento a 15 días: -0.35% - Acción: mantener
+Precio anterior: 14950834.11 - Precio predicción 7 días: 15698375.82
+
+Nombre: Étienne Capoue (ID: 996)
+Precio actual: 12233256.00
+Precio hace 15 días: 12500000.00
+Precio hace 7 días: 12222735.00
+Precio hace 5 días: 12130241.00
+Porcentaje de aumento a 15 días: -1.07% - Acción: mantener
+Precio anterior: 11549829.27 - Precio predicción 7 días: 12127320.74
+
+Nombre: Martin Valjent (ID: 1123)
+Precio actual: 9909126.00
+Precio hace 15 días: 8000000.00
+Precio hace 7 días: 10029617.00
+Precio hace 5 días: 10003021.00
+Porcentaje de aumento a 15 días: -1.25% - Acción: mantener
+Precio anterior: 9481549.78 - Precio predicción 7 días: 9955627.27
+
+Nombre: Francisco Beltrán (ID: 148)
+Precio actual: 11898940.00
+Precio hace 15 días: 12500000.00
+Precio hace 7 días: 12162294.00
+Precio hace 5 días: 12025607.00
+Porcentaje de aumento a 15 días: -2.69% - Acción: mantener
+Precio anterior: 11036931.70 - Precio predicción 7 días: 11588778.29
+
+Nombre: Jon Moncayola (ID: 637)
+Precio actual: 9341148.00
+Precio hace 15 días: 8500000.00
+Precio hace 7 días: 9347833.00
+Precio hace 5 días: 9307814.00
+Porcentaje de aumento a 15 días: -2.78% - Acción: mantener
+Precio anterior: 8929028.49 - Precio predicción 7 días: 9375479.92
+
+Nombre: Miguel Gutiérrez (ID: 1245)
+Precio actual: 8905030.00
+Precio hace 15 días: 8300000.00
+Precio hace 7 días: 9173251.00
+Precio hace 5 días: 9027856.00
+Porcentaje de aumento a 15 días: -3.23% - Acción: mantener
+Precio anterior: 8079985.26 - Precio predicción 7 días: 8483984.53
+
+Nombre: Cristian Rivero (ID: 1100)
+Precio actual: 242363.00
+Precio hace 15 días: 260000.00
+Precio hace 7 días: 240955.00
+Precio hace 5 días: 240475.00
+Porcentaje de aumento a 15 días: -3.45% - Acción: mantener
+Precio anterior: 232029.39 - Precio predicción 7 días: 243630.86
+
+Nombre: Samuel Chukwueze (ID: 350)
+Precio actual: 25070416.00
+Precio hace 15 días: 25000000.00
+Precio hace 7 días: 28279769.00
+Precio hace 5 días: 27223778.00
+Porcentaje de aumento a 15 días: -3.98% - Acción: mantener
+Precio anterior: 17873397.64 - Precio predicción 7 días: 18767067.52
+
+Nombre: José Luis Gayá Peña (ID: 302)
+Precio actual: 21012179.00
+Precio hace 15 días: 22500000.00
+Precio hace 7 días: 21744755.00
+Precio hace 5 días: 21505453.00
+Porcentaje de aumento a 15 días: -4.39% - Acción: mantener
+Precio anterior: 19148099.91 - Precio predicción 7 días: 20105504.90
+
+Nombre: Aurélien Tchouaméni (ID: 1480)
+Precio actual: 27977995.00
+Precio hace 15 días: 30000000.00
+Precio hace 7 días: 27803520.00
+Precio hace 5 días: 27470099.00
+Porcentaje de aumento a 15 días: -4.86% - Acción: mantener
+Precio anterior: 26620333.60 - Precio predicción 7 días: 27951350.28
+
+Nombre: Raúl Parra (ID: 1567)
+Precio actual: 353519.00
+Precio hace 15 días: 400000.00
+Precio hace 7 días: 382961.00
+Precio hace 5 días: 371347.00
+Porcentaje de aumento a 15 días: -5.66% - Acción: vender
+Precio anterior: 308850.27 - Precio predicción 7 días: 324292.78
+
+Nombre: Iván Balliu Campeny (ID: 1121)
+Precio actual: 5514924.00
+Precio hace 15 días: 6000000.00
+Precio hace 7 días: 5585897.00
+Precio hace 5 días: 5529948.00
+Porcentaje de aumento a 15 días: -5.89% - Acción: vender
+Precio anterior: 5168403.90 - Precio predicción 7 días: 5426824.09
+
+Nombre: Jorge Resurrección Merodio (ID: 58)
+Precio actual: 17505876.00
+Precio hace 15 días: 19000000.00
+Precio hace 7 días: 18008233.00
+Precio hace 5 días: 17785395.00
+Porcentaje de aumento a 15 días: -6.38% - Acción: vender
+Precio anterior: 16052853.03 - Precio predicción 7 días: 16855495.68
+
+Nombre: Luis Milla Manzanares (ID: 853)
+Precio actual: 3465790.00
+Precio hace 15 días: 3700000.00
+Precio hace 7 días: 3599380.00
+Precio hace 5 días: 3537448.00
+Porcentaje de aumento a 15 días: -6.54% - Acción: vender
+Precio anterior: 3143530.14 - Precio predicción 7 días: 3300706.65
+
+Nombre: Ivan Rakitić (ID: 102)
+Precio actual: 11109335.00
+Precio hace 15 días: 12000000.00
+Precio hace 7 días: 11382792.00
+Precio hace 5 días: 11204005.00
+Porcentaje de aumento a 15 días: -7.02% - Acción: vender
+Precio anterior: 10254635.98 - Precio predicción 7 días: 10767367.78
+
+Nombre: Raphael Dias Belloli (ID: 1504)
+Precio actual: 38234037.00
+Precio hace 15 días: 42500000.00
+Precio hace 7 días: 38937996.00
+Precio hace 5 días: 38266386.00
+Porcentaje de aumento a 15 días: -8.47% - Acción: vender
+Precio anterior: 35389475.20 - Precio predicción 7 días: 37158948.96
+
+Nombre: Fernando Martínez (ID: 1422)
+Precio actual: 6841947.00
+Precio hace 15 días: 7000000.00
+Precio hace 7 días: 7242603.00
+Precio hace 5 días: 7100958.00
+Porcentaje de aumento a 15 días: -9.09% - Acción: vender
+Precio anterior: 5949875.77 - Precio predicción 7 días: 6247369.56
+
+Nombre: Aitor Fernández Abarisketa (ID: 204)
+Precio actual: 7470462.00
+Precio hace 15 días: 8500000.00
+Precio hace 7 días: 7783466.00
+Precio hace 5 días: 7650023.00
+Porcentaje de aumento a 15 días: -9.57% - Acción: vender
+Precio anterior: 6790140.93 - Precio predicción 7 días: 7129647.97
+
+Nombre: Memphis Depay (ID: 1131)
+Precio actual: 17308860.00
+Precio hace 15 días: 20000000.00
+Precio hace 7 días: 17753885.00
+Precio hace 5 días: 17354992.00
+Porcentaje de aumento a 15 días: -10.10% - Acción: vender
+Precio anterior: 15878305.16 - Precio predicción 7 días: 16672220.42
+
+Nombre: Daniel Vivian (ID: 1222)
+Precio actual: 13040859.00
+Precio hace 15 días: 15000000.00
+Precio hace 7 días: 13571390.00
+Precio hace 5 días: 13309212.00
+Porcentaje de aumento a 15 días: -10.47% - Acción: vender
+Precio anterior: 11776883.50 - Precio predicción 7 días: 12365727.67
+
+Nombre: Luis Rioja (ID: 581)
+Precio actual: 10453271.00
+Precio hace 15 días: 12000000.00
+Precio hace 7 días: 10889726.00
+Precio hace 5 días: 10680205.00
+Porcentaje de aumento a 15 días: -10.60% - Acción: vender
+Precio anterior: 9421751.45 - Precio predicción 7 días: 9892839.02
+
+Nombre: Viktor Tsygankov (ID: 1577)
+Precio actual: 23995440.00
+Precio hace 15 días: 27500000.00
+Precio hace 7 días: 25262310.00
+Precio hace 5 días: 24707579.00
+Porcentaje de aumento a 15 días: -11.71% - Acción: vender
+Precio anterior: 21279608.59 - Precio predicción 7 días: 22343589.02
+
+Nombre: Mouctar Diakhaby (ID: 300)
+Precio actual: 8336280.00
+Precio hace 15 días: 9000000.00
+Precio hace 7 días: 8718347.00
+Precio hace 5 días: 8571949.00
+Porcentaje de aumento a 15 días: -13.10% - Acción: vender
+Precio anterior: 7549991.49 - Precio predicción 7 días: 7927491.06
+
+Nombre: Gonzalo Melero Manzanares (ID: 228)
+Precio actual: 5345481.00
+Precio hace 15 días: 6000000.00
+Precio hace 7 días: 5731687.00
+Precio hace 5 días: 5561547.00
+Porcentaje de aumento a 15 días: -14.21% - Acción: vender
+Precio anterior: 4731439.76 - Precio predicción 7 días: 4968011.75
+
+Nombre: Valentín Mariano José Castellanos (ID: 1500)
+Precio actual: 10777680.00
+Precio hace 15 días: 12500000.00
+Precio hace 7 días: 11738237.00
+Precio hace 5 días: 11376286.00
+Porcentaje de aumento a 15 días: -14.46% - Acción: vender
+Precio anterior: 9015154.23 - Precio predicción 7 días: 9465911.95
+
+Nombre: Domingos Duarte (ID: 673)
+Precio actual: 3726333.00
+Precio hace 15 días: 4500000.00
+Precio hace 7 días: 3915791.00
+Precio hace 5 días: 3837159.00
+Porcentaje de aumento a 15 días: -14.51% - Acción: vender
+Precio anterior: 3339554.43 - Precio predicción 7 días: 3506532.15
+
+Nombre: Anssumane Fati (ID: 732)
+Precio actual: 15257526.00
+Precio hace 15 días: 18500000.00
+Precio hace 7 días: 16120434.00
+Precio hace 5 días: 15797063.00
+Porcentaje de aumento a 15 días: -14.73% - Acción: vender
+Precio anterior: 13668810.89 - Precio predicción 7 días: 14352251.43
+
+Nombre: Johan Mojica (ID: 1200)
+Precio actual: 4777124.00
+Precio hace 15 días: 6000000.00
+Precio hace 7 días: 4480576.00
+Precio hace 5 días: 4553361.00
+Porcentaje de aumento a 15 días: -14.74% - Acción: vender
+Precio anterior: 4791388.54 - Precio predicción 7 días: 5030957.97
+
+Nombre: Víctor Laguardia (ID: 371)
+Precio actual: 2044989.00
+Precio hace 15 días: 2500000.00
+Precio hace 7 días: 2176239.00
+Precio hace 5 días: 2124641.00
+Porcentaje de aumento a 15 días: -14.83% - Acción: vender
+Precio anterior: 1843424.06 - Precio predicción 7 días: 1935595.26
+
+Nombre: Óscar Valentín (ID: 1103)
+Precio actual: 5296243.00
+Precio hace 15 días: 6000000.00
+Precio hace 7 días: 5609823.00
+Precio hace 5 días: 5471650.00
+Porcentaje de aumento a 15 días: -14.91% - Acción: vender
+Precio anterior: 4743630.85 - Precio predicción 7 días: 4980812.39
+
+Nombre: Ángel Correa (ID: 65)
+Precio actual: 12426176.00
+Precio hace 15 días: 15000000.00
+Precio hace 7 días: 13346411.00
+Precio hace 5 días: 13027741.00
+Porcentaje de aumento a 15 días: -15.06% - Acción: vender
+Precio anterior: 10823328.75 - Precio predicción 7 días: 11364495.19
+
+Nombre: Gorka Guruzeta (ID: 1484)
+Precio actual: 3270388.00
+Precio hace 15 días: 4000000.00
+Precio hace 7 días: 3491595.00
+Precio hace 5 días: 3401192.00
+Porcentaje de aumento a 15 días: -15.13% - Acción: vender
+Precio anterior: 2882306.24 - Precio predicción 7 días: 3026421.56
+
+Nombre: Carlo Ancelotti (ID: 1368)
+Precio actual: 10287056.00
+Precio hace 15 días: 11000000.00
+Precio hace 7 días: 12654959.00
+Precio hace 5 días: 11849922.00
+Porcentaje de aumento a 15 días: -15.22% - Acción: vender
+Precio anterior: 7894861.34 - Precio predicción 7 días: 8289604.40
+
+Nombre: Rodrigo Riquelme (ID: 1169)
+Precio actual: 8563490.00
+Precio hace 15 días: 10000000.00
+Precio hace 7 días: 9255597.00
+Precio hace 5 días: 9033081.00
+Porcentaje de aumento a 15 días: -15.43% - Acción: vender
+Precio anterior: 7508518.84 - Precio predicción 7 días: 7883944.79
+
+Nombre: Joseph Aidoo (ID: 665)
+Precio actual: 8620149.00
+Precio hace 15 días: 10000000.00
+Precio hace 7 días: 9190105.00
+Precio hace 5 días: 8930327.00
+Porcentaje de aumento a 15 días: -15.51% - Acción: vender
+Precio anterior: 7506718.90 - Precio predicción 7 días: 7882054.85
+
+Nombre: Iker Muniain Goñi (ID: 81)
+Precio actual: 17913576.00
+Precio hace 15 días: 22000000.00
+Precio hace 7 días: 18977045.00
+Precio hace 5 días: 18607972.00
+Porcentaje de aumento a 15 días: -15.68% - Acción: vender
+Precio anterior: 15810963.60 - Precio predicción 7 días: 16601511.78
+
+Nombre: Antonio Sivera (ID: 988)
+Precio actual: 5583622.00
+Precio hace 15 días: 6500000.00
+Precio hace 7 días: 5964170.00
+Precio hace 5 días: 5767571.00
+Porcentaje de aumento a 15 días: -15.90% - Acción: vender
+Precio anterior: 4848039.39 - Precio predicción 7 días: 5090441.36
+
+Nombre: Rodrigo Ely (ID: 366)
+Precio actual: 7490392.00
+Precio hace 15 días: 8500000.00
+Precio hace 7 días: 8139457.00
+Precio hace 5 días: 7908654.00
+Porcentaje de aumento a 15 días: -15.93% - Acción: vender
+Precio anterior: 6452001.26 - Precio predicción 7 días: 6774601.32
+
+Nombre: Thierry Rendall Correia (ID: 742)
+Precio actual: 7424932.00
+Precio hace 15 días: 8500000.00
+Precio hace 7 días: 7853357.00
+Precio hace 5 días: 7618006.00
+Porcentaje de aumento a 15 días: -16.02% - Acción: vender
+Precio anterior: 6663624.74 - Precio predicción 7 días: 6996805.98
+
+Nombre: Youssouf Sabaly (ID: 1133)
+Precio actual: 6138524.00
+Precio hace 15 días: 7000000.00
+Precio hace 7 días: 6633248.00
+Precio hace 5 días: 6445131.00
+Porcentaje de aumento a 15 días: -17.40% - Acción: vender
+Precio anterior: 5281408.67 - Precio predicción 7 días: 5545479.10
+
+Nombre: Gerard Moreno Balagueró (ID: 356)
+Precio actual: 29980415.00
+Precio hace 15 días: 37500000.00
+Precio hace 7 días: 32437536.00
+Precio hace 5 días: 31452583.00
+Porcentaje de aumento a 15 días: -17.66% - Acción: vender
+Precio anterior: 25698679.83 - Precio predicción 7 días: 26983613.82
+
+Nombre: Iván Villar (ID: 140)
+Precio actual: 5064653.00
+Precio hace 15 días: 6000000.00
+Precio hace 7 días: 5421255.00
+Precio hace 5 días: 5290368.00
+Porcentaje de aumento a 15 días: -17.90% - Acción: vender
+Precio anterior: 4449136.21 - Precio predicción 7 días: 4671593.02
+
+Nombre: Diego Mariño (ID: 1587)
+Precio actual: 314201.00
+Precio hace 15 días: 410000.00
+Precio hace 7 días: 332733.00
+Precio hace 5 días: 325057.00
+Porcentaje de aumento a 15 días: -18.08% - Acción: vender
+Precio anterior: 277763.89 - Precio predicción 7 días: 291652.08
+
+Nombre: Alejandro Berenguer Remiro (ID: 927)
+Precio actual: 10369316.00
+Precio hace 15 días: 12500000.00
+Precio hace 7 días: 11343934.00
+Precio hace 5 días: 11009533.00
+Porcentaje de aumento a 15 días: -18.60% - Acción: vender
+Precio anterior: 8717891.35 - Precio predicción 7 días: 9153785.92
+
+Nombre: Ante Budimir (ID: 942)
+Precio actual: 10894576.00
+Precio hace 15 días: 14000000.00
+Precio hace 7 días: 11847683.00
+Precio hace 5 días: 11465524.00
+Porcentaje de aumento a 15 días: -19.12% - Acción: vender
+Precio anterior: 9309967.69 - Precio predicción 7 días: 9775466.08
+
+Nombre: Jon Guridi (ID: 856)
+Precio actual: 3909655.00
+Precio hace 15 días: 5000000.00
+Precio hace 7 días: 4184485.00
+Precio hace 5 días: 4068946.00
+Porcentaje de aumento a 15 días: -19.38% - Acción: vender
+Precio anterior: 3390049.74 - Precio predicción 7 días: 3559552.23
+
+Nombre: Aissa Mandi (ID: 118)
+Precio actual: 5638535.00
+Precio hace 15 días: 7000000.00
+Precio hace 7 días: 6025329.00
+Precio hace 5 días: 5842364.00
+Porcentaje de aumento a 15 días: -19.42% - Acción: vender
+Precio anterior: 4902082.62 - Precio predicción 7 días: 5147186.75
+
+Nombre: Gabriel Armando De Abreu (ID: 301)
+Precio actual: 8941878.00
+Precio hace 15 días: 11500000.00
+Precio hace 7 días: 9664216.00
+Precio hace 5 días: 9371367.00
+Porcentaje de aumento a 15 días: -19.57% - Acción: vender
+Precio anterior: 7756376.77 - Precio predicción 7 días: 8144195.61
+
+Nombre: Álvaro Morata (ID: 1486)
+Precio actual: 19505869.00
+Precio hace 15 días: 25000000.00
+Precio hace 7 días: 20650321.00
+Precio hace 5 días: 20111067.00
+Porcentaje de aumento a 15 días: -19.68% - Acción: vender
+Precio anterior: 17156364.69 - Precio predicción 7 días: 18014182.93
+
+Nombre: Srdjan Babic (ID: 1428)
+Precio actual: 6733080.00
+Precio hace 15 días: 8500000.00
+Precio hace 7 días: 7243280.00
+Precio hace 5 días: 7022860.00
+Porcentaje de aumento a 15 días: -19.95% - Acción: vender
+Precio anterior: 5905802.10 - Precio predicción 7 días: 6201092.20
+
+Nombre: Largie Ramazani (ID: 1436)
+Precio actual: 4730342.00
+Precio hace 15 días: 6000000.00
+Precio hace 7 días: 5129466.00
+Precio hace 5 días: 4967369.00
+Porcentaje de aumento a 15 días: -20.23% - Acción: vender
+Precio anterior: 4051022.07 - Precio predicción 7 días: 4253573.18
+
+Nombre: Juan Miguel Jiménez López (ID: 135)
+Precio actual: 7689883.00
+Precio hace 15 días: 9000000.00
+Precio hace 7 días: 8696602.00
+Precio hace 5 días: 8371422.00
+Porcentaje de aumento a 15 días: -20.47% - Acción: vender
+Precio anterior: 5976290.91 - Precio predicción 7 días: 6275105.45
+
+Nombre: Jørgen Strand Larsen (ID: 1541)
+Precio actual: 8760325.00
+Precio hace 15 días: 11500000.00
+Precio hace 7 días: 9622533.00
+Precio hace 5 días: 9315908.00
+Porcentaje de aumento a 15 días: -20.56% - Acción: vender
+Precio anterior: 7396590.54 - Precio predicción 7 días: 7766420.07
+
+Nombre: Aihen Muñoz (ID: 260)
+Precio actual: 5850859.00
+Precio hace 15 días: 7500000.00
+Precio hace 7 días: 6386785.00
+Precio hace 5 días: 6168967.00
+Porcentaje de aumento a 15 días: -20.60% - Acción: vender
+Precio anterior: 4976440.63 - Precio predicción 7 días: 5225262.66
+
+Nombre: Rodrigo Javier de Paul (ID: 1088)
+Precio actual: 18702667.00
+Precio hace 15 días: 25000000.00
+Precio hace 7 días: 19969971.00
+Precio hace 5 días: 19406692.00
+Porcentaje de aumento a 15 días: -20.81% - Acción: vender
+Precio anterior: 16561550.64 - Precio predicción 7 días: 17389628.17
+
+Nombre: Rubén Duarte (ID: 365)
+Precio actual: 6753556.00
+Precio hace 15 días: 8500000.00
+Precio hace 7 días: 7362872.00
+Precio hace 5 días: 7105463.00
+Porcentaje de aumento a 15 días: -21.21% - Acción: vender
+Precio anterior: 5827344.61 - Precio predicción 7 días: 6118711.84
+
+Nombre: Rubén Peña Jiménez (ID: 360)
+Precio actual: 4491065.00
+Precio hace 15 días: 6000000.00
+Precio hace 7 días: 4872378.00
+Precio hace 5 días: 4740512.00
+Porcentaje de aumento a 15 días: -21.24% - Acción: vender
+Precio anterior: 3857574.58 - Precio predicción 7 días: 4050453.31
+
+Nombre: Rafael Mir Vicente (ID: 1275)
+Precio actual: 7186300.00
+Precio hace 15 días: 9000000.00
+Precio hace 7 días: 7803449.00
+Precio hace 5 días: 7557297.00
+Porcentaje de aumento a 15 días: -21.28% - Acción: vender
+Precio anterior: 6150756.98 - Precio predicción 7 días: 6458294.83
+
+Nombre: Gonzalo Ariel Montiel (ID: 1280)
+Precio actual: 6766633.00
+Precio hace 15 días: 8500000.00
+Precio hace 7 días: 7400405.00
+Precio hace 5 días: 7186011.00
+Porcentaje de aumento a 15 días: -21.54% - Acción: vender
+Precio anterior: 5743704.01 - Precio predicción 7 días: 6030889.21
+
+Nombre: Borja Mayoral (ID: 1329)
+Precio actual: 5345819.00
+Precio hace 15 días: 7000000.00
+Precio hace 7 días: 5879871.00
+Precio hace 5 días: 5674090.00
+Porcentaje de aumento a 15 días: -22.10% - Acción: vender
+Precio anterior: 4494773.68 - Precio predicción 7 días: 4719512.36
+
+Nombre: Ferland Mendy (ID: 559)
+Precio actual: 11932231.00
+Precio hace 15 días: 16000000.00
+Precio hace 7 días: 13312958.00
+Precio hace 5 días: 12904946.00
+Porcentaje de aumento a 15 días: -22.36% - Acción: vender
+Precio anterior: 9857340.66 - Precio predicción 7 días: 10350207.69
+
+Nombre: Hugo Guillamón (ID: 876)
+Precio actual: 6777387.00
+Precio hace 15 días: 8500000.00
+Precio hace 7 días: 7548224.00
+Precio hace 5 días: 7282062.00
+Porcentaje de aumento a 15 días: -22.37% - Acción: vender
+Precio anterior: 5713824.95 - Precio predicción 7 días: 5999516.20
+
+Nombre: Joan Francesc Ferrer (ID: 1409)
+Precio actual: 1012025.00
+Precio hace 15 días: 1453924.00
+Precio hace 7 días: 1224225.00
+Precio hace 5 días: 1146656.00
+Porcentaje de aumento a 15 días: -22.50% - Acción: vender
+Precio anterior: 816058.88 - Precio predicción 7 días: 856861.83
+
+Nombre: Erik Lamela (ID: 1187)
+Precio actual: 8707000.00
+Precio hace 15 días: 11500000.00
+Precio hace 7 días: 9699925.00
+Precio hace 5 días: 9328066.00
+Porcentaje de aumento a 15 días: -22.56% - Acción: vender
+Precio anterior: 7213372.20 - Precio predicción 7 días: 7574040.81
+
+Nombre: Adrián Embarba (ID: 1064)
+Precio actual: 7431708.00
+Precio hace 15 días: 9000000.00
+Precio hace 7 días: 8241338.00
+Precio hace 5 días: 7943426.00
+Porcentaje de aumento a 15 días: -22.62% - Acción: vender
+Precio anterior: 6178310.48 - Precio predicción 7 días: 6487226.00
+
+Nombre: Axel Witsel (ID: 1477)
+Precio actual: 7648781.00
+Precio hace 15 días: 10000000.00
+Precio hace 7 días: 8354022.00
+Precio hace 5 días: 8077400.00
+Porcentaje de aumento a 15 días: -22.92% - Acción: vender
+Precio anterior: 6581399.96 - Precio predicción 7 días: 6910469.96
+
+Nombre: Samuel Dias Lino (ID: 1488)
+Precio actual: 9509603.00
+Precio hace 15 días: 12500000.00
+Precio hace 7 días: 10247027.00
+Precio hace 5 días: 9918271.00
+Porcentaje de aumento a 15 días: -22.98% - Acción: vender
+Precio anterior: 8178746.28 - Precio predicción 7 días: 8587683.60
+
+Nombre: Diego Simeone (ID: 1357)
+Precio actual: 7632005.00
+Precio hace 15 días: 9000000.00
+Precio hace 7 días: 9492168.00
+Precio hace 5 días: 8816095.00
+Porcentaje de aumento a 15 días: -23.12% - Acción: vender
+Precio anterior: 4754895.16 - Precio predicción 7 días: 4992639.92
+
+Nombre: Marcos Acuña (ID: 912)
+Precio actual: 10353310.00
+Precio hace 15 días: 14000000.00
+Precio hace 7 días: 11456507.00
+Precio hace 5 días: 11102844.00
+Porcentaje de aumento a 15 días: -23.19% - Acción: vender
+Precio anterior: 8628388.66 - Precio predicción 7 días: 9059808.10
+
+Nombre: Álvaro Juan Cruz Armada (ID: 850)
+Precio actual: 3260858.00
+Precio hace 15 días: 4500000.00
+Precio hace 7 días: 3642825.00
+Precio hace 5 días: 3503497.00
+Porcentaje de aumento a 15 días: -23.32% - Acción: vender
+Precio anterior: 2744622.00 - Precio predicción 7 días: 2881853.10
+
+Nombre: Juan Foyth (ID: 944)
+Precio actual: 13486123.00
+Precio hace 15 días: 18500000.00
+Precio hace 7 días: 15003725.00
+Precio hace 5 días: 14471737.00
+Porcentaje de aumento a 15 días: -23.40% - Acción: vender
+Precio anterior: 11111919.51 - Precio predicción 7 días: 11667515.48
+
+Nombre: Imanol Alguacil (ID: 1369)
+Precio actual: 6740997.00
+Precio hace 15 días: 8000000.00
+Precio hace 7 días: 8442226.00
+Precio hace 5 días: 7823893.00
+Porcentaje de aumento a 15 días: -23.61% - Acción: vender
+Precio anterior: 4094196.09 - Precio predicción 7 días: 4298905.89
+
+Nombre: Yeray Álvarez López (ID: 77)
+Precio actual: 14548567.00
+Precio hace 15 días: 20000000.00
+Precio hace 7 días: 16106704.00
+Precio hace 5 días: 15492508.00
+Porcentaje de aumento a 15 días: -23.99% - Acción: vender
+Precio anterior: 12059697.65 - Precio predicción 7 días: 12662682.54
+
+Nombre: Cristhian Stuani (ID: 1447)
+Precio actual: 6618258.00
+Precio hace 15 días: 8500000.00
+Precio hace 7 días: 7303041.00
+Precio hace 5 días: 7036099.00
+Porcentaje de aumento a 15 días: -24.21% - Acción: vender
+Precio anterior: 5624636.75 - Precio predicción 7 días: 5905868.59
+
+Nombre: Óscar Melendo (ID: 1051)
+Precio actual: 4834044.00
+Precio hace 15 días: 6500000.00
+Precio hace 7 días: 5395326.00
+Precio hace 5 días: 5175581.00
+Porcentaje de aumento a 15 días: -24.67% - Acción: vender
+Precio anterior: 3967480.64 - Precio predicción 7 días: 4165854.67
+
+Nombre: Mohamed-Ali Cho (ID: 1483)
+Precio actual: 8635033.00
+Precio hace 15 días: 12000000.00
+Precio hace 7 días: 9508549.00
+Precio hace 5 días: 9209966.00
+Porcentaje de aumento a 15 días: -24.70% - Acción: vender
+Precio anterior: 7301676.12 - Precio predicción 7 días: 7666759.93
+
+Nombre: Andoni Gorosabel (ID: 257)
+Precio actual: 7377775.00
+Precio hace 15 días: 10000000.00
+Precio hace 7 días: 8282465.00
+Precio hace 5 días: 7971035.00
+Porcentaje de aumento a 15 días: -24.76% - Acción: vender
+Precio anterior: 5999003.34 - Precio predicción 7 días: 6298953.51
+
+Nombre: Rubén García Santos (ID: 652)
+Precio actual: 5443085.00
+Precio hace 15 días: 6800000.00
+Precio hace 7 días: 6101553.00
+Precio hace 5 días: 5884720.00
+Porcentaje de aumento a 15 días: -24.81% - Acción: vender
+Precio anterior: 4521583.96 - Precio predicción 7 días: 4747663.16
+
+Nombre: Carlos Neva (ID: 597)
+Precio actual: 5177788.00
+Precio hace 15 días: 7000000.00
+Precio hace 7 días: 5798205.00
+Precio hace 5 días: 5552989.00
+Porcentaje de aumento a 15 días: -25.09% - Acción: vender
+Precio anterior: 4237240.58 - Precio predicción 7 días: 4449102.61
+
+Nombre: Rafael Giménez 'Fali' (ID: 805)
+Precio actual: 5226655.00
+Precio hace 15 días: 7200000.00
+Precio hace 7 días: 5790198.00
+Precio hace 5 días: 5576571.00
+Porcentaje de aumento a 15 días: -25.25% - Acción: vender
+Precio anterior: 4399186.59 - Precio predicción 7 días: 4619145.92
+
+Nombre: Carlos Aleñá (ID: 1146)
+Precio actual: 6571970.00
+Precio hace 15 días: 8500000.00
+Precio hace 7 días: 7271727.00
+Precio hace 5 días: 7010942.00
+Porcentaje de aumento a 15 días: -25.31% - Acción: vender
+Precio anterior: 5625959.17 - Precio predicción 7 días: 5907257.13
+
+Nombre: Stefan Mitrovic (ID: 1148)
+Precio actual: 4251430.00
+Precio hace 15 días: 6000000.00
+Precio hace 7 días: 4698014.00
+Precio hace 5 días: 4500397.00
+Porcentaje de aumento a 15 días: -25.36% - Acción: vender
+Precio anterior: 3583035.41 - Precio predicción 7 días: 3762187.18
+
+Nombre: Jorge Cuenca (ID: 1261)
+Precio actual: 5149847.00
+Precio hace 15 días: 7000000.00
+Precio hace 7 días: 5694841.00
+Precio hace 5 días: 5461198.00
+Porcentaje de aumento a 15 días: -25.42% - Acción: vender
+Precio anterior: 4280325.29 - Precio predicción 7 días: 4494341.56
+
+Nombre: Óscar Mingueza (ID: 991)
+Precio actual: 4608763.00
+Precio hace 15 días: 6500000.00
+Precio hace 7 días: 5124802.00
+Precio hace 5 días: 4918646.00
+Porcentaje de aumento a 15 días: -25.62% - Acción: vender
+Precio anterior: 3826069.71 - Precio predicción 7 días: 4017373.19
+
+Nombre: Luis Hernández Rodríguez (ID: 1344)
+Precio actual: 5037833.00
+Precio hace 15 días: 7000000.00
+Precio hace 7 días: 5647807.00
+Precio hace 5 días: 5429505.00
+Porcentaje de aumento a 15 días: -25.71% - Acción: vender
+Precio anterior: 4120766.39 - Precio predicción 7 días: 4326804.71
+
+Nombre: El Bilal Touré (ID: 1547)
+Precio actual: 8023455.00
+Precio hace 15 días: 10000000.00
+Precio hace 7 días: 9504324.00
+Precio hace 5 días: 9027204.00
+Porcentaje de aumento a 15 días: -25.86% - Acción: vender
+Precio anterior: 5842435.38 - Precio predicción 7 días: 6134557.15
+
+Nombre: Tanguy-Austin Nianzou Kouassi (ID: 1515)
+Precio actual: 4282039.00
+Precio hace 15 días: 6000000.00
+Precio hace 7 días: 4803999.00
+Precio hace 5 días: 4620099.00
+Porcentaje de aumento a 15 días: -25.91% - Acción: vender
+Precio anterior: 3490081.84 - Precio predicción 7 días: 3664585.94
+
+Nombre: Álvaro Odriozola Arzallus (ID: 901)
+Precio actual: 1765581.00
+Precio hace 15 días: 2600000.00
+Precio hace 7 días: 2040736.00
+Precio hace 5 días: 1949072.00
+Porcentaje de aumento a 15 días: -26.20% - Acción: vender
+Precio anterior: 1412171.74 - Precio predicción 7 días: 1482780.32
+
+Nombre: Yannick Ferreira Carrasco (ID: 793)
+Precio actual: 24324476.00
+Precio hace 15 días: 35000000.00
+Precio hace 7 días: 27015598.00
+Precio hace 5 días: 25737299.00
+Porcentaje de aumento a 15 días: -26.27% - Acción: vender
+Precio anterior: 20033342.05 - Precio predicción 7 días: 21035009.15
+
+Nombre: Hugo Duro Perales (ID: 1191)
+Precio actual: 5091323.00
+Precio hace 15 días: 7000000.00
+Precio hace 7 días: 5683032.00
+Precio hace 5 días: 5442173.00
+Porcentaje de aumento a 15 días: -26.38% - Acción: vender
+Precio anterior: 4170442.76 - Precio predicción 7 días: 4378964.90
+
+Nombre: Diego Rico Salguero (ID: 1179)
+Precio actual: 4131206.00
+Precio hace 15 días: 6000000.00
+Precio hace 7 días: 4702411.00
+Precio hace 5 días: 4504914.00
+Porcentaje de aumento a 15 días: -26.72% - Acción: vender
+Precio anterior: 3301925.80 - Precio predicción 7 días: 3467022.09
+
+Nombre: Óscar Trejo (ID: 1107)
+Precio actual: 7305694.00
+Precio hace 15 días: 10500000.00
+Precio hace 7 días: 8217484.00
+Precio hace 5 días: 7848926.00
+Porcentaje de aumento a 15 días: -26.79% - Acción: vender
+Precio anterior: 5992824.39 - Precio predicción 7 días: 6292465.61
+
+Nombre: Thomas Lemar (ID: 59)
+Precio actual: 11021678.00
+Precio hace 15 días: 16000000.00
+Precio hace 7 días: 12316303.00
+Precio hace 5 días: 11811273.00
+Porcentaje de aumento a 15 días: -26.91% - Acción: vender
+Precio anterior: 9142941.65 - Precio predicción 7 días: 9600088.73
+
+Nombre: José Antonio Rodríguez Díaz (ID: 602)
+Precio actual: 4693115.00
+Precio hace 15 días: 6500000.00
+Precio hace 7 días: 5341851.00
+Precio hace 5 días: 5114587.00
+Porcentaje de aumento a 15 días: -26.95% - Acción: vender
+Precio anterior: 3730708.52 - Precio predicción 7 días: 3917243.95
+
+Nombre: Ander Barrenetxea Muguruza (ID: 701)
+Precio actual: 7200965.00
+Precio hace 15 días: 10000000.00
+Precio hace 7 días: 8222786.00
+Precio hace 5 días: 7843647.00
+Porcentaje de aumento a 15 días: -26.98% - Acción: vender
+Precio anterior: 5884269.67 - Precio predicción 7 días: 6178483.15
+
+Nombre: Sergio Akieme (ID: 1424)
+Precio actual: 5248696.00
+Precio hace 15 días: 7500000.00
+Precio hace 7 días: 5943326.00
+Precio hace 5 días: 5687945.00
+Porcentaje de aumento a 15 días: -27.56% - Acción: vender
+Precio anterior: 4209580.55 - Precio predicción 7 días: 4420059.58
+
+Nombre: Abdelkabir Abqar (ID: 1265)
+Precio actual: 4400752.00
+Precio hace 15 días: 6500000.00
+Precio hace 7 días: 4931963.00
+Precio hace 5 días: 4717056.00
+Porcentaje de aumento a 15 días: -27.83% - Acción: vender
+Precio anterior: 3638851.37 - Precio predicción 7 días: 3820793.93
+
+Nombre: Nemanja Maksimovic (ID: 197)
+Precio actual: 7381367.00
+Precio hace 15 días: 10700000.00
+Precio hace 7 días: 8369009.00
+Precio hace 5 días: 8006694.00
+Porcentaje de aumento a 15 días: -27.95% - Acción: vender
+Precio anterior: 5944607.26 - Precio predicción 7 días: 6241837.62
+
+Nombre: Roger Martí Salvador (ID: 222)
+Precio actual: 4102700.00
+Precio hace 15 días: 6000000.00
+Precio hace 7 días: 4593796.00
+Precio hace 5 días: 4405912.00
+Porcentaje de aumento a 15 días: -28.01% - Acción: vender
+Precio anterior: 3384322.62 - Precio predicción 7 días: 3553538.75
+
+Nombre: Eray Ervin Cömert (ID: 1335)
+Precio actual: 2668788.00
+Precio hace 15 días: 4000000.00
+Precio hace 7 días: 3039741.00
+Precio hace 5 días: 2897600.00
+Porcentaje de aumento a 15 días: -28.51% - Acción: vender
+Precio anterior: 2150308.12 - Precio predicción 7 días: 2257823.53
+
+Nombre: Claudio Bravo (ID: 905)
+Precio actual: 5253789.00
+Precio hace 15 días: 7500000.00
+Precio hace 7 días: 5979581.00
+Precio hace 5 días: 5717067.00
+Porcentaje de aumento a 15 días: -28.64% - Acción: vender
+Precio anterior: 4285928.97 - Precio predicción 7 días: 4500225.41
+
+Nombre: Alberto Moreno (ID: 664)
+Precio actual: 4755392.00
+Precio hace 15 días: 7000000.00
+Precio hace 7 días: 5442708.00
+Precio hace 5 días: 5176248.00
+Porcentaje de aumento a 15 días: -28.79% - Acción: vender
+Precio anterior: 3757408.40 - Precio predicción 7 días: 3945278.82
+
+Nombre: Óliver Torres Muñoz (ID: 675)
+Precio actual: 6878464.00
+Precio hace 15 días: 10000000.00
+Precio hace 7 días: 7888286.00
+Precio hace 5 días: 7552522.00
+Porcentaje de aumento a 15 días: -29.00% - Acción: vender
+Precio anterior: 5471159.25 - Precio predicción 7 días: 5744717.21
+
+Nombre: Jesús Corona (ID: 1328)
+Precio actual: 4770309.00
+Precio hace 15 días: 7000000.00
+Precio hace 7 días: 5482401.00
+Precio hace 5 días: 5225173.00
+Porcentaje de aumento a 15 días: -29.09% - Acción: vender
+Precio anterior: 3740629.32 - Precio predicción 7 días: 3927660.79
+
+Nombre: Aleksandar Sedlar (ID: 1091)
+Precio actual: 3948241.00
+Precio hace 15 días: 6000000.00
+Precio hace 7 días: 4431052.00
+Precio hace 5 días: 4235288.00
+Porcentaje de aumento a 15 días: -29.17% - Acción: vender
+Precio anterior: 3243977.13 - Precio predicción 7 días: 3406175.99
+
+Nombre: Jesús Joaquín Fernández Sáez (ID: 786)
+Precio actual: 8343886.00
+Precio hace 15 días: 12500000.00
+Precio hace 7 días: 9475012.00
+Precio hace 5 días: 9066778.00
+Porcentaje de aumento a 15 días: -29.20% - Acción: vender
+Precio anterior: 6784198.02 - Precio predicción 7 días: 7123407.92
+
+Nombre: Jaime Mata Arnaiz (ID: 200)
+Precio actual: 3073510.00
+Precio hace 15 días: 4700000.00
+Precio hace 7 días: 3486759.00
+Precio hace 5 días: 3336864.00
+Porcentaje de aumento a 15 días: -29.24% - Acción: vender
+Precio anterior: 2500648.92 - Precio predicción 7 días: 2625681.37
+
+Nombre: Alejandro Gómez (ID: 1008)
+Precio actual: 4923230.00
+Precio hace 15 días: 7000000.00
+Precio hace 7 días: 5702049.00
+Precio hace 5 días: 5424107.00
+Porcentaje de aumento a 15 días: -29.33% - Acción: vender
+Precio anterior: 3914563.03 - Precio predicción 7 días: 4110291.18
+
+Nombre: Manuel Pellegrini (ID: 1367)
+Precio actual: 5828427.00
+Precio hace 15 días: 7500000.00
+Precio hace 7 días: 7297459.00
+Precio hace 5 días: 6762666.00
+Porcentaje de aumento a 15 días: -29.55% - Acción: vender
+Precio anterior: 3901849.46 - Precio predicción 7 días: 4096941.94
+
+Nombre: Unai López (ID: 82)
+Precio actual: 3923558.00
+Precio hace 15 días: 5700000.00
+Precio hace 7 días: 4487024.00
+Precio hace 5 días: 4288620.00
+Porcentaje de aumento a 15 días: -29.70% - Acción: vender
+Precio anterior: 3102069.32 - Precio predicción 7 días: 3257172.79
+
+Nombre: Abdul Mumin (ID: 1542)
+Precio actual: 1301339.00
+Precio hace 15 días: 2000000.00
+Precio hace 7 días: 1514954.00
+Precio hace 5 días: 1449416.00
+Porcentaje de aumento a 15 días: -29.81% - Acción: vender
+Precio anterior: 1007060.06 - Precio predicción 7 días: 1057413.06
+
+Nombre: Brian Alexis Ocampo Ferreira (ID: 1536)
+Precio actual: 1804449.00
+Precio hace 15 días: 2700000.00
+Precio hace 7 días: 2100304.00
+Precio hace 5 días: 1998127.00
+Porcentaje de aumento a 15 días: -29.85% - Acción: vender
+Precio anterior: 1385510.78 - Precio predicción 7 días: 1454786.31
+
+Nombre: Dakonam Ortega Djené (ID: 192)
+Precio actual: 7226639.00
+Precio hace 15 días: 11000000.00
+Precio hace 7 días: 8318368.00
+Precio hace 5 días: 7927812.00
+Porcentaje de aumento a 15 días: -29.90% - Acción: vender
+Precio anterior: 5735300.37 - Precio predicción 7 días: 6022065.38
+
+Nombre: Reinildo Isnard Mandava (ID: 1353)
+Precio actual: 10503878.00
+Precio hace 15 días: 16000000.00
+Precio hace 7 días: 12163473.00
+Precio hace 5 días: 11580427.00
+Porcentaje de aumento a 15 días: -30.02% - Acción: vender
+Precio anterior: 8217093.33 - Precio predicción 7 días: 8627947.99
+
+Nombre: Franco Emanuel Cervi (ID: 1134)
+Precio actual: 3666858.00
+Precio hace 15 días: 5500000.00
+Precio hace 7 días: 4219085.00
+Precio hace 5 días: 4011226.00
+Porcentaje de aumento a 15 días: -30.15% - Acción: vender
+Precio anterior: 2875230.19 - Precio predicción 7 días: 3018991.70
+
+Nombre: Renato Tapia (ID: 898)
+Precio actual: 5730649.00
+Precio hace 15 días: 8300000.00
+Precio hace 7 días: 6630240.00
+Precio hace 5 días: 6305093.00
+Porcentaje de aumento a 15 días: -30.19% - Acción: vender
+Precio anterior: 4484625.56 - Precio predicción 7 días: 4708856.84
+
+Nombre: Lucas Daniel de la Torre (ID: 1513)
+Precio actual: 2612828.00
+Precio hace 15 días: 4000000.00
+Precio hace 7 días: 3000622.00
+Precio hace 5 días: 2855433.00
+Porcentaje de aumento a 15 días: -30.24% - Acción: vender
+Precio anterior: 2044509.65 - Precio predicción 7 días: 2146735.14
+
+Nombre: Théo Bongonda (ID: 1532)
+Precio actual: 4733972.00
+Precio hace 15 días: 7000000.00
+Precio hace 7 días: 5472514.00
+Precio hace 5 días: 5194113.00
+Porcentaje de aumento a 15 días: -30.35% - Acción: vender
+Precio anterior: 3674825.45 - Precio predicción 7 días: 3858566.73
+
+Nombre: Dimitri Foulquier (ID: 768)
+Precio actual: 3543066.00
+Precio hace 15 días: 5500000.00
+Precio hace 7 días: 4056204.00
+Precio hace 5 días: 3873741.00
+Porcentaje de aumento a 15 días: -30.51% - Acción: vender
+Precio anterior: 2852002.66 - Precio predicción 7 días: 2994602.80
+
+Nombre: Lázaro Vinícius Marques (ID: 1548)
+Precio actual: 3248358.00
+Precio hace 15 días: 5000000.00
+Precio hace 7 días: 3708577.00
+Precio hace 5 días: 3540393.00
+Porcentaje de aumento a 15 días: -30.69% - Acción: vender
+Precio anterior: 2585939.41 - Precio predicción 7 días: 2715236.38
+
+Nombre: Saúl Ñíguez Esclápez (ID: 62)
+Precio actual: 5034002.00
+Precio hace 15 días: 7000000.00
+Precio hace 7 días: 5831786.00
+Precio hace 5 días: 5550846.00
+Porcentaje de aumento a 15 días: -30.71% - Acción: vender
+Precio anterior: 4044873.77 - Precio predicción 7 días: 4247117.46
+
+Nombre: Alejandro Pozo (ID: 1253)
+Precio actual: 3879022.00
+Precio hace 15 días: 6000000.00
+Precio hace 7 días: 4435764.00
+Precio hace 5 días: 4226400.00
+Porcentaje de aumento a 15 días: -30.77% - Acción: vender
+Precio anterior: 3063188.41 - Precio predicción 7 días: 3216347.83
+
+Nombre: Samuel Almeida Costa (ID: 1434)
+Precio actual: 2613512.00
+Precio hace 15 días: 4000000.00
+Precio hace 7 días: 3015264.00
+Precio hace 5 días: 2864964.00
+Porcentaje de aumento a 15 días: -30.78% - Acción: vender
+Precio anterior: 2048386.06 - Precio predicción 7 días: 2150805.36
+
+Nombre: Nabil Fekir (ID: 681)
+Precio actual: 22848817.00
+Precio hace 15 días: 35000000.00
+Precio hace 7 días: 26416575.00
+Precio hace 5 días: 25152811.00
+Porcentaje de aumento a 15 días: -30.98% - Acción: vender
+Precio anterior: 17858385.06 - Precio predicción 7 días: 18751304.32
+
+Nombre: Enes Ünal (ID: 334)
+Precio actual: 16057206.00
+Precio hace 15 días: 25000000.00
+Precio hace 7 días: 18651223.00
+Precio hace 5 días: 17753296.00
+Porcentaje de aumento a 15 días: -31.14% - Acción: vender
+Precio anterior: 12571976.84 - Precio predicción 7 días: 13200575.69
+
+Nombre: Iddrisu Baba (ID: 1073)
+Precio actual: 5822440.00
+Precio hace 15 días: 8500000.00
+Precio hace 7 días: 6798134.00
+Precio hace 5 días: 6452881.00
+Porcentaje de aumento a 15 días: -31.36% - Acción: vender
+Precio anterior: 4536193.73 - Precio predicción 7 días: 4763003.41
+
+Nombre: José María Giménez de Vargas (ID: 55)
+Precio actual: 19524871.00
+Precio hace 15 días: 30000000.00
+Precio hace 7 días: 23172128.00
+Precio hace 5 días: 21895096.00
+Porcentaje de aumento a 15 días: -31.51% - Acción: vender
+Precio anterior: 14496981.77 - Precio predicción 7 días: 15221830.86
+
+Nombre: Jesús Vázquez (ID: 1256)
+Precio actual: 1870797.00
+Precio hace 15 días: 3000000.00
+Precio hace 7 días: 2162312.00
+Precio hace 5 días: 2055425.00
+Porcentaje de aumento a 15 días: -31.89% - Acción: vender
+Precio anterior: 1489492.88 - Precio predicción 7 días: 1563967.52
+
+Nombre: Juan Antonio Iglesias Sánchez (ID: 1147)
+Precio actual: 1767147.00
+Precio hace 15 días: 2800000.00
+Precio hace 7 días: 2053291.00
+Precio hace 5 días: 1948279.00
+Porcentaje de aumento a 15 días: -31.99% - Acción: vender
+Precio anterior: 1381122.89 - Precio predicción 7 días: 1450179.04
+
+Nombre: Pathé Ciss (ID: 1186)
+Precio actual: 2882800.00
+Precio hace 15 días: 4600000.00
+Precio hace 7 días: 3321494.00
+Precio hace 5 días: 3158263.00
+Porcentaje de aumento a 15 días: -32.06% - Acción: vender
+Precio anterior: 2302055.30 - Precio predicción 7 días: 2417158.06
+
+Nombre: Fernando Francisco Fernando (ID: 669)
+Precio actual: 7686568.00
+Precio hace 15 días: 12000000.00
+Precio hace 7 días: 8963958.00
+Precio hace 5 días: 8507873.00
+Porcentaje de aumento a 15 días: -32.17% - Acción: vender
+Precio anterior: 5941262.77 - Precio predicción 7 días: 6238325.91
+
+Nombre: Alejandro Centelles Plaza (ID: 1426)
+Precio actual: 1851016.00
+Precio hace 15 días: 3000000.00
+Precio hace 7 días: 2155902.00
+Precio hace 5 días: 2046686.00
+Porcentaje de aumento a 15 días: -32.54% - Acción: vender
+Precio anterior: 1443096.51 - Precio predicción 7 días: 1515251.34
+
+Nombre: Ivo Grbic (ID: 993)
+Precio actual: 1560862.00
+Precio hace 15 días: 2500000.00
+Precio hace 7 días: 1804845.00
+Precio hace 5 días: 1717761.00
+Porcentaje de aumento a 15 días: -32.62% - Acción: vender
+Precio anterior: 1238883.07 - Precio predicción 7 días: 1300827.22
+
+Nombre: Rubén Sobrino Pozuelo (ID: 1176)
+Precio actual: 4909448.00
+Precio hace 15 días: 7400000.00
+Precio hace 7 días: 5685417.00
+Precio hace 5 días: 5384370.00
+Porcentaje de aumento a 15 días: -32.73% - Acción: vender
+Precio anterior: 3898402.97 - Precio predicción 7 días: 4093323.11
+
+Nombre: Edinson Roberto Cavani Gómez (ID: 1534)
+Precio actual: 4672295.00
+Precio hace 15 días: 7000000.00
+Precio hace 7 días: 5597204.00
+Precio hace 5 días: 5297586.00
+Porcentaje de aumento a 15 días: -32.83% - Acción: vender
+Precio anterior: 3472595.87 - Precio predicción 7 días: 3646225.66
+
+Nombre: Aritz Elustondo (ID: 259)
+Precio actual: 7528990.00
+Precio hace 15 días: 12000000.00
+Precio hace 7 días: 8844402.00
+Precio hace 5 días: 8372660.00
+Porcentaje de aumento a 15 días: -32.89% - Acción: vender
+Precio anterior: 0.00 - Precio predicción 7 días: 0.00
+
+Nombre: Francisco Femenía Far (ID: 1495)
+Precio actual: 1235997.00
+Precio hace 15 días: 2000000.00
+Precio hace 7 días: 1441306.00
+Precio hace 5 días: 1363405.00
+Porcentaje de aumento a 15 días: -32.96% - Acción: vender
+Precio anterior: 962302.54 - Precio predicción 7 días: 1010417.67
+
+Nombre: Ferran Torres (ID: 1327)
+Precio actual: 11487430.00
+Precio hace 15 días: 18500000.00
+Precio hace 7 días: 13307743.00
+Precio hace 5 días: 12599247.00
+Porcentaje de aumento a 15 días: -33.07% - Acción: vender
+Precio anterior: 8850039.55 - Precio predicción 7 días: 9292541.53
+
+Nombre: Yunus Musah (ID: 913)
+Precio actual: 6982509.00
+Precio hace 15 días: 11000000.00
+Precio hace 7 días: 8226879.00
+Precio hace 5 días: 7812366.00
+Porcentaje de aumento a 15 días: -33.09% - Acción: vender
+Precio anterior: 5385476.27 - Precio predicción 7 días: 5654750.08
+
+Nombre: Carlos Fernández (ID: 715)
+Precio actual: 2217529.00
+Precio hace 15 días: 3600000.00
+Precio hace 7 días: 2574876.00
+Precio hace 5 días: 2446891.00
+Porcentaje de aumento a 15 días: -33.14% - Acción: vender
+Precio anterior: 1751771.38 - Precio predicción 7 días: 1839359.95
+
+Nombre: Jon Pacheco (ID: 1216)
+Precio actual: 2677628.00
+Precio hace 15 días: 4300000.00
+Precio hace 7 días: 3148119.00
+Precio hace 5 días: 2980095.00
+Porcentaje de aumento a 15 días: -33.22% - Acción: vender
+Precio anterior: 2056533.22 - Precio predicción 7 días: 2159359.88
+
+Nombre: Manuel Trigueros Muñoz (ID: 348)
+Precio actual: 5532903.00
+Precio hace 15 días: 8500000.00
+Precio hace 7 días: 6473139.00
+Precio hace 5 días: 6132397.00
+Porcentaje de aumento a 15 días: -33.22% - Acción: vender
+Precio anterior: 4199380.14 - Precio predicción 7 días: 4409349.15
+
+Nombre: Ignasi Miquel (ID: 1190)
+Precio actual: 4020521.00
+Precio hace 15 días: 6500000.00
+Precio hace 7 días: 4668813.00
+Precio hace 5 días: 4425443.00
+Porcentaje de aumento a 15 días: -33.33% - Acción: vender
+Precio anterior: 3143845.30 - Precio predicción 7 días: 3301037.56
+
+Nombre: Mamadou Mbaye (ID: 1514)
+Precio actual: 1519144.00
+Precio hace 15 días: 2500000.00
+Precio hace 7 días: 1748080.00
+Precio hace 5 días: 1664144.00
+Porcentaje de aumento a 15 días: -33.41% - Acción: vender
+Precio anterior: 1211523.86 - Precio predicción 7 días: 1272100.05
+
+Nombre: Lucas Vázquez Iglesias (ID: 245)
+Precio actual: 5315772.00
+Precio hace 15 días: 8000000.00
+Precio hace 7 días: 6223838.00
+Precio hace 5 días: 5901771.00
+Porcentaje de aumento a 15 días: -33.44% - Acción: vender
+Precio anterior: 4169614.18 - Precio predicción 7 días: 4378094.89
+
+Nombre: Aitor Ruibal García (ID: 882)
+Precio actual: 3506197.00
+Precio hace 15 días: 5700000.00
+Precio hace 7 días: 4125081.00
+Precio hace 5 días: 3908156.00
+Porcentaje de aumento a 15 días: -33.65% - Acción: vender
+Precio anterior: 2697940.32 - Precio predicción 7 días: 2832837.34
+
+Nombre: Alfonso Pedraza Sag (ID: 344)
+Precio actual: 8607151.00
+Precio hace 15 días: 14000000.00
+Precio hace 7 días: 10155021.00
+Precio hace 5 días: 9604128.00
+Porcentaje de aumento a 15 días: -33.69% - Acción: vender
+Precio anterior: 6522368.95 - Precio predicción 7 días: 6848487.40
+
+Nombre: Raúl Albiol Tortajada (ID: 574)
+Precio actual: 9303134.00
+Precio hace 15 días: 15000000.00
+Precio hace 7 días: 11031197.00
+Precio hace 5 días: 10417309.00
+Porcentaje de aumento a 15 días: -33.72% - Acción: vender
+Precio anterior: 6927209.57 - Precio predicción 7 días: 7273570.05
+
+Nombre: Pablo Barrios (ID: 1565)
+Precio actual: 5502982.00
+Precio hace 15 días: 8000000.00
+Precio hace 7 días: 6517227.00
+Precio hace 5 días: 6160125.00
+Porcentaje de aumento a 15 días: -33.89% - Acción: vender
+Precio anterior: 4240712.49 - Precio predicción 7 días: 4452748.11
+
+Nombre: Youba Diarra (ID: 1572)
+Precio actual: 597602.00
+Precio hace 15 días: 1000000.00
+Precio hace 7 días: 694786.00
+Precio hace 5 días: 658725.00
+Porcentaje de aumento a 15 días: -33.97% - Acción: vender
+Precio anterior: 458894.82 - Precio predicción 7 días: 481839.56
+
+Nombre: Ángel Algobia (ID: 1510)
+Precio actual: 597831.00
+Precio hace 15 días: 1000000.00
+Precio hace 7 días: 695079.00
+Precio hace 5 días: 658995.00
+Porcentaje de aumento a 15 días: -34.07% - Acción: vender
+Precio anterior: 458809.17 - Precio predicción 7 días: 481749.63
+
+Nombre: José Andrés Guardado Hernández (ID: 124)
+Precio actual: 4132979.00
+Precio hace 15 días: 6500000.00
+Precio hace 7 días: 4884322.00
+Precio hace 5 días: 4612210.00
+Porcentaje de aumento a 15 días: -34.21% - Acción: vender
+Precio anterior: 3088006.76 - Precio predicción 7 días: 3242407.10
+
+Nombre: Njegos Petrovic (ID: 1348)
+Precio actual: 3047861.00
+Precio hace 15 días: 5000000.00
+Precio hace 7 días: 3604526.00
+Precio hace 5 días: 3416679.00
+Porcentaje de aumento a 15 días: -34.23% - Acción: vender
+Precio anterior: 2330582.17 - Precio predicción 7 días: 2447111.28
+
+Nombre: Asier Illarramendi Andonegi (ID: 269)
+Precio actual: 3055478.00
+Precio hace 15 días: 5000000.00
+Precio hace 7 días: 3598276.00
+Precio hace 5 días: 3401489.00
+Porcentaje de aumento a 15 días: -34.26% - Acción: vender
+Precio anterior: 2344886.18 - Precio predicción 7 días: 2462130.49
+
+Nombre: Salvador Sevilla (ID: 1071)
+Precio actual: 3052478.00
+Precio hace 15 días: 5000000.00
+Precio hace 7 días: 3592955.00
+Precio hace 5 días: 3396126.00
+Porcentaje de aumento a 15 días: -34.40% - Acción: vender
+Precio anterior: 2355613.69 - Precio predicción 7 días: 2473394.38
+
+Nombre: Giovanni González (ID: 1351)
+Precio actual: 2115802.00
+Precio hace 15 días: 3500000.00
+Precio hace 7 días: 2514073.00
+Precio hace 5 días: 2367598.00
+Porcentaje de aumento a 15 días: -34.48% - Acción: vender
+Precio anterior: 1567408.24 - Precio predicción 7 días: 1645778.65
+
+Nombre: Enrique Barja (ID: 651)
+Precio actual: 3895925.00
+Precio hace 15 días: 6300000.00
+Precio hace 7 días: 4600829.00
+Precio hace 5 días: 4345106.00
+Porcentaje de aumento a 15 días: -34.52% - Acción: vender
+Precio anterior: 2960369.20 - Precio predicción 7 días: 3108387.66
+
+Nombre: Rubén Alcaraz (ID: 1332)
+Precio actual: 5614373.00
+Precio hace 15 días: 9000000.00
+Precio hace 7 días: 6665402.00
+Precio hace 5 días: 6285755.00
+Porcentaje de aumento a 15 días: -34.61% - Acción: vender
+Precio anterior: 4172066.38 - Precio predicción 7 días: 4380669.70
+
+Nombre: Unai Vencedor Paris (ID: 880)
+Precio actual: 4196728.00
+Precio hace 15 días: 6500000.00
+Precio hace 7 días: 4982113.00
+Precio hace 5 días: 4702727.00
+Porcentaje de aumento a 15 días: -34.62% - Acción: vender
+Precio anterior: 3199903.57 - Precio predicción 7 días: 3359898.75
+
+Nombre: Quique Setién (ID: 1558)
+Precio actual: 4686498.00
+Precio hace 15 días: 6500000.00
+Precio hace 7 días: 5853233.00
+Precio hace 5 días: 5436383.00
+Porcentaje de aumento a 15 días: -34.64% - Acción: vender
+Precio anterior: 3468383.62 - Precio predicción 7 días: 3641802.80
+
+Nombre: Franck Yannick Kessié (ID: 1506)
+Precio actual: 8466232.00
+Precio hace 15 días: 14000000.00
+Precio hace 7 días: 10104299.00
+Precio hace 5 días: 9527813.00
+Porcentaje de aumento a 15 días: -34.96% - Acción: vender
+Precio anterior: 6338721.45 - Precio predicción 7 días: 6655657.52
+
+Nombre: Abner Vinícius da Silva Santos (ID: 1576)
+Precio actual: 4254620.00
+Precio hace 15 días: 7000000.00
+Precio hace 7 días: 5068765.00
+Precio hace 5 días: 4769484.00
+Porcentaje de aumento a 15 días: -35.13% - Acción: vender
+Precio anterior: 3146987.23 - Precio predicción 7 días: 3304336.59
+
+Nombre: Miguel Ángel Sánchez (ID: 1442)
+Precio actual: 4007071.00
+Precio hace 15 días: 5600000.00
+Precio hace 7 días: 5050500.00
+Precio hace 5 días: 4672951.00
+Porcentaje de aumento a 15 días: -35.13% - Acción: vender
+Precio anterior: 2905361.32 - Precio predicción 7 días: 3050629.38
+
+Nombre: Miguel De la Fuente (ID: 1283)
+Precio actual: 3274228.00
+Precio hace 15 días: 5500000.00
+Precio hace 7 días: 3860805.00
+Precio hace 5 días: 3644636.00
+Porcentaje de aumento a 15 días: -35.22% - Acción: vender
+Precio anterior: 2508591.09 - Precio predicción 7 días: 2634020.64
+
+Nombre: José Luis Morales Nogales (ID: 217)
+Precio actual: 4998649.00
+Precio hace 15 días: 8000000.00
+Precio hace 7 días: 5938967.00
+Precio hace 5 días: 5599097.00
+Porcentaje de aumento a 15 días: -35.31% - Acción: vender
+Precio anterior: 3708045.38 - Precio predicción 7 días: 3893447.65
+
+Nombre: Valery Fernández (ID: 1450)
+Precio actual: 2384039.00
+Precio hace 15 días: 4000000.00
+Precio hace 7 días: 2834010.00
+Precio hace 5 días: 2669002.00
+Porcentaje de aumento a 15 días: -35.37% - Acción: vender
+Precio anterior: 1795384.30 - Precio predicción 7 días: 1885153.51
+
+Nombre: Santiago Bueno (ID: 1458)
+Precio actual: 5085928.00
+Precio hace 15 días: 8500000.00
+Precio hace 7 días: 6075470.00
+Precio hace 5 días: 5725696.00
+Porcentaje de aumento a 15 días: -35.39% - Acción: vender
+Precio anterior: 4903241.20 - Precio predicción 7 días: 5148403.26
+
+Nombre: Julen Agirrezabala (ID: 1219)
+Precio actual: 2388213.00
+Precio hace 15 días: 4000000.00
+Precio hace 7 días: 2813495.00
+Precio hace 5 días: 2652834.00
+Porcentaje de aumento a 15 días: -35.44% - Acción: vender
+Precio anterior: 1829992.70 - Precio predicción 7 días: 1921492.34
+
+Nombre: José Pozo (ID: 1039)
+Precio actual: 669674.00
+Precio hace 15 días: 1150000.00
+Precio hace 7 días: 786859.00
+Precio hace 5 días: 743580.00
+Porcentaje de aumento a 15 días: -35.44% - Acción: vender
+Precio anterior: 505006.47 - Precio predicción 7 días: 530256.79
+
+Nombre: David Silva (ID: 868)
+Precio actual: 12295967.00
+Precio hace 15 días: 20000000.00
+Precio hace 7 días: 15097586.00
+Precio hace 5 días: 14102604.00
+Porcentaje de aumento a 15 días: -35.58% - Acción: vender
+Precio anterior: 8507453.37 - Precio predicción 7 días: 8932826.04
+
+Nombre: Willian José (ID: 1193)
+Precio actual: 4979621.00
+Precio hace 15 días: 8000000.00
+Precio hace 7 días: 5926940.00
+Precio hace 5 días: 5572765.00
+Porcentaje de aumento a 15 días: -35.64% - Acción: vender
+Precio anterior: 3733989.68 - Precio predicción 7 días: 3920689.17
+
+Nombre: Jaume Domenech Sánchez (ID: 298)
+Precio actual: 2649622.00
+Precio hace 15 días: 4500000.00
+Precio hace 7 días: 3150686.00
+Precio hace 5 días: 2970465.00
+Porcentaje de aumento a 15 días: -35.68% - Acción: vender
+Precio anterior: 2012681.77 - Precio predicción 7 días: 2113315.86
+
+Nombre: Enrique García Martínez (ID: 1155)
+Precio actual: 3850109.00
+Precio hace 15 días: 6500000.00
+Precio hace 7 días: 4588423.00
+Precio hace 5 días: 4317864.00
+Porcentaje de aumento a 15 días: -35.77% - Acción: vender
+Precio anterior: 2887701.61 - Precio predicción 7 días: 3032086.69
+
+Nombre: Federico San Emeterio Díaz (ID: 1325)
+Precio actual: 3262173.00
+Precio hace 15 días: 5500000.00
+Precio hace 7 días: 3881592.00
+Precio hace 5 días: 3663133.00
+Porcentaje de aumento a 15 días: -35.89% - Acción: vender
+Precio anterior: 2467193.81 - Precio predicción 7 días: 2590553.50
+
+Nombre: Williot Swedberg (ID: 1489)
+Precio actual: 1629816.00
+Precio hace 15 días: 2800000.00
+Precio hace 7 días: 1940350.00
+Precio hace 5 días: 1825555.00
+Porcentaje de aumento a 15 días: -35.98% - Acción: vender
+Precio anterior: 1234459.54 - Precio predicción 7 días: 1296182.52
+
+Nombre: Eric García Martret (ID: 1130)
+Precio actual: 4934856.00
+Precio hace 15 días: 8000000.00
+Precio hace 7 días: 5885517.00
+Precio hace 5 días: 5542845.00
+Porcentaje de aumento a 15 días: -36.17% - Acción: vender
+Precio anterior: 3620784.27 - Precio predicción 7 días: 3801823.48
+
+Nombre: Mamadou Sylla (ID: 1285)
+Precio actual: 2302722.00
+Precio hace 15 días: 4000000.00
+Precio hace 7 días: 2745016.00
+Precio hace 5 días: 2584138.00
+Porcentaje de aumento a 15 días: -36.65% - Acción: vender
+Precio anterior: 1736783.88 - Precio predicción 7 días: 1823623.08
+
+Nombre: Josep María Chavarría Pérez (ID: 1535)
+Precio actual: 812084.00
+Precio hace 15 días: 1400000.00
+Precio hace 7 días: 968491.00
+Precio hace 5 días: 911250.00
+Porcentaje de aumento a 15 días: -36.66% - Acción: vender
+Precio anterior: 616228.67 - Precio predicción 7 días: 647040.11
+
+Nombre: Marc Cardona (ID: 1177)
+Precio actual: 4081001.00
+Precio hace 15 días: 7000000.00
+Precio hace 7 días: 4889816.00
+Precio hace 5 días: 4597569.00
+Porcentaje de aumento a 15 días: -36.70% - Acción: vender
+Precio anterior: 2984513.28 - Precio predicción 7 días: 3133738.95
+
+Nombre: Radamel Falcao García Zárate (ID: 1312)
+Precio actual: 3456368.00
+Precio hace 15 días: 6000000.00
+Precio hace 7 días: 4131741.00
+Precio hace 5 días: 3882194.00
+Porcentaje de aumento a 15 días: -36.81% - Acción: vender
+Precio anterior: 2602026.71 - Precio predicción 7 días: 2732128.04
+
+Nombre: Martín Montoya Torralbo (ID: 881)
+Precio actual: 2073321.00
+Precio hace 15 días: 3600000.00
+Precio hace 7 días: 2481804.00
+Precio hace 5 días: 2332174.00
+Porcentaje de aumento a 15 días: -36.84% - Acción: vender
+Precio anterior: 1526215.96 - Precio predicción 7 días: 1602526.76
+
+Nombre: Agustín Federico Marchesín (ID: 1493)
+Precio actual: 5185666.00
+Precio hace 15 días: 9000000.00
+Precio hace 7 días: 6264440.00
+Precio hace 5 días: 5874147.00
+Porcentaje de aumento a 15 días: -36.92% - Acción: vender
+Precio anterior: 3806119.74 - Precio predicción 7 días: 3996425.73
+
+Nombre: Dyego Wilverson Ferreira Sousa (ID: 1420)
+Precio actual: 889931.00
+Precio hace 15 días: 1560000.00
+Precio hace 7 días: 1063611.00
+Precio hace 5 días: 999601.00
+Porcentaje de aumento a 15 días: -36.94% - Acción: vender
+Precio anterior: 649734.60 - Precio predicción 7 días: 682221.33
+
+Nombre: Fabrizio Angileri (ID: 1487)
+Precio actual: 1431642.00
+Precio hace 15 días: 2500000.00
+Precio hace 7 días: 1718736.00
+Precio hace 5 días: 1615439.00
+Porcentaje de aumento a 15 días: -36.96% - Acción: vender
+Precio anterior: 1065818.55 - Precio predicción 7 días: 1119109.48
+
+Nombre: Dani Martín (ID: 677)
+Precio actual: 774765.00
+Precio hace 15 días: 1370000.00
+Precio hace 7 días: 921117.00
+Precio hace 5 días: 867312.00
+Porcentaje de aumento a 15 días: -37.12% - Acción: vender
+Precio anterior: 585200.44 - Precio predicción 7 días: 614460.47
+
+Nombre: Arnau Puigmal (ID: 1431)
+Precio actual: 1413930.00
+Precio hace 15 días: 2500000.00
+Precio hace 7 días: 1681764.00
+Precio hace 5 días: 1579978.00
+Porcentaje de aumento a 15 días: -37.25% - Acción: vender
+Precio anterior: 1077238.95 - Precio predicción 7 días: 1131100.89
+
+Nombre: David Gil Mohedano (ID: 804)
+Precio actual: 1198725.00
+Precio hace 15 días: 2100000.00
+Precio hace 7 días: 1424786.00
+Precio hace 5 días: 1344291.00
+Porcentaje de aumento a 15 días: -37.32% - Acción: vender
+Precio anterior: 887745.75 - Precio predicción 7 días: 932133.04
+
+Nombre: Houboulang Mendes (ID: 1476)
+Precio actual: 1419787.00
+Precio hace 15 días: 2500000.00
+Precio hace 7 días: 1707438.00
+Precio hace 5 días: 1602106.00
+Porcentaje de aumento a 15 días: -37.36% - Acción: vender
+Precio anterior: 1057681.81 - Precio predicción 7 días: 1110565.90
+
+Nombre: Gonçalo Mendes Paciência (ID: 1512)
+Precio actual: 4981847.00
+Precio hace 15 días: 8000000.00
+Precio hace 7 días: 6022345.00
+Precio hace 5 días: 5648675.00
+Porcentaje de aumento a 15 días: -37.37% - Acción: vender
+Precio anterior: 3703400.56 - Precio predicción 7 días: 3888570.59
+
+Nombre: David Remeseiro Salgueiro (ID: 317)
+Precio actual: 2848194.00
+Precio hace 15 días: 5000000.00
+Precio hace 7 días: 3421428.00
+Precio hace 5 días: 3212726.00
+Porcentaje de aumento a 15 días: -37.37% - Acción: vender
+Precio anterior: 2112786.27 - Precio predicción 7 días: 2218425.58
+
+Nombre: Alberto Soro (ID: 885)
+Precio actual: 846258.00
+Precio hace 15 días: 1500000.00
+Precio hace 7 días: 1012342.00
+Precio hace 5 días: 951487.00
+Porcentaje de aumento a 15 días: -37.41% - Acción: vender
+Precio anterior: 636576.09 - Precio predicción 7 días: 668404.89
+
+Nombre: Joan Jordán Moreno (ID: 296)
+Precio actual: 4975782.00
+Precio hace 15 días: 8500000.00
+Precio hace 7 días: 5992858.00
+Precio hace 5 días: 5630071.00
+Porcentaje de aumento a 15 días: -37.43% - Acción: vender
+Precio anterior: 3588091.48 - Precio predicción 7 días: 3767496.05
+
+Nombre: Andrés Martín (ID: 1040)
+Precio actual: 845287.00
+Precio hace 15 días: 1500000.00
+Precio hace 7 días: 1007769.00
+Precio hace 5 días: 950343.00
+Porcentaje de aumento a 15 días: -37.64% - Acción: vender
+Precio anterior: 638989.38 - Precio predicción 7 días: 670938.85
+
+Nombre: Alejandro Sola López-Ocaña (ID: 1497)
+Precio actual: 847118.00
+Precio hace 15 días: 1500000.00
+Precio hace 7 días: 1013551.00
+Precio hace 5 días: 952499.00
+Porcentaje de aumento a 15 días: -37.71% - Acción: vender
+Precio anterior: 638210.21 - Precio predicción 7 días: 670120.72
+
+Nombre: Antonio Sánchez (ID: 1069)
+Precio actual: 2860588.00
+Precio hace 15 días: 5000000.00
+Precio hace 7 días: 3437657.00
+Precio hace 5 días: 3237929.00
+Porcentaje de aumento a 15 días: -37.73% - Acción: vender
+Precio anterior: 2123417.81 - Precio predicción 7 días: 2229588.70
+
+Nombre: Manuel Javier Vallejo Galván (ID: 568)
+Precio actual: 2256884.00
+Precio hace 15 días: 3997192.00
+Precio hace 7 días: 2726159.00
+Precio hace 5 días: 2557762.00
+Porcentaje de aumento a 15 días: -37.75% - Acción: vender
+Precio anterior: 1622503.64 - Precio predicción 7 días: 1703628.83
+
+Nombre: Robert Navarro (ID: 1214)
+Precio actual: 2036878.00
+Precio hace 15 días: 3600000.00
+Precio hace 7 días: 2457522.00
+Precio hace 5 días: 2308161.00
+Porcentaje de aumento a 15 días: -37.85% - Acción: vender
+Precio anterior: 1503436.28 - Precio predicción 7 días: 1578608.09
+
+Nombre: Ignacio Vidal Miralles (ID: 642)
+Precio actual: 2262075.00
+Precio hace 15 días: 4000000.00
+Precio hace 7 días: 2732542.00
+Precio hace 5 días: 2563905.00
+Porcentaje de aumento a 15 días: -37.92% - Acción: vender
+Precio anterior: 1671252.11 - Precio predicción 7 días: 1754814.72
+
+Nombre: Íñigo Eguaras (ID: 1413)
+Precio actual: 2554487.00
+Precio hace 15 días: 4500000.00
+Precio hace 7 días: 3070932.00
+Precio hace 5 días: 2883038.00
+Porcentaje de aumento a 15 días: -37.96% - Acción: vender
+Precio anterior: 1906271.27 - Precio predicción 7 días: 2001584.83
+
+Nombre: Iván Alejo Peralta (ID: 812)
+Precio actual: 2549076.00
+Precio hace 15 días: 4500000.00
+Precio hace 7 días: 3082110.00
+Precio hace 5 días: 2891002.00
+Porcentaje de aumento a 15 días: -37.97% - Acción: vender
+Precio anterior: 1877640.85 - Precio predicción 7 días: 1971522.89
+
+Nombre: Amath Ndiaye (ID: 1093)
+Precio actual: 3179872.00
+Precio hace 15 días: 5700000.00
+Precio hace 7 días: 3817472.00
+Precio hace 5 días: 3591454.00
+Porcentaje de aumento a 15 días: -38.06% - Acción: vender
+Precio anterior: 2384773.57 - Precio predicción 7 días: 2504012.25
+
+Nombre: José María Martín-Bejarano (ID: 816)
+Precio actual: 1009646.00
+Precio hace 15 días: 1800000.00
+Precio hace 7 días: 1217342.00
+Precio hace 5 días: 1142000.00
+Porcentaje de aumento a 15 días: -38.06% - Acción: vender
+Precio anterior: 744891.36 - Precio predicción 7 días: 782135.92
+
+Nombre: Marcos do Nascimento Teixeira (ID: 1478)
+Precio actual: 4780134.00
+Precio hace 15 días: 8000000.00
+Precio hace 7 días: 5773482.00
+Precio hace 5 días: 5426504.00
+Porcentaje de aumento a 15 días: -38.11% - Acción: vender
+Precio anterior: 3526495.72 - Precio predicción 7 días: 3702820.51
+
+Nombre: Beñat Turrientes (ID: 1215)
+Precio actual: 1227770.00
+Precio hace 15 días: 2200000.00
+Precio hace 7 días: 1485525.00
+Precio hace 5 días: 1393801.00
+Porcentaje de aumento a 15 días: -38.41% - Acción: vender
+Precio anterior: 904758.72 - Precio predicción 7 días: 949996.66
+
+Nombre: Dominik Greif (ID: 1184)
+Precio actual: 1330195.00
+Precio hace 15 días: 2400000.00
+Precio hace 7 días: 1598968.00
+Precio hace 5 días: 1501052.00
+Porcentaje de aumento a 15 días: -38.42% - Acción: vender
+Precio anterior: 993908.41 - Precio predicción 7 días: 1043603.83
+
+Nombre: Salvador Sánchez Ponce (ID: 822)
+Precio actual: 2445846.00
+Precio hace 15 días: 4400000.00
+Precio hace 7 días: 2958966.00
+Precio hace 5 días: 2772416.00
+Porcentaje de aumento a 15 días: -38.57% - Acción: vender
+Precio anterior: 1748165.76 - Precio predicción 7 días: 1835574.05
+
+Nombre: Dani García Carrillo (ID: 80)
+Precio actual: 2506074.00
+Precio hace 15 días: 4500000.00
+Precio hace 7 días: 3037853.00
+Precio hace 5 días: 2845227.00
+Porcentaje de aumento a 15 días: -38.68% - Acción: vender
+Precio anterior: 1848803.81 - Precio predicción 7 días: 1941244.00
+
+Nombre: Jaime Seoane (ID: 1473)
+Precio actual: 2496179.00
+Precio hace 15 días: 4500000.00
+Precio hace 7 días: 3021079.00
+Precio hace 5 días: 2831587.00
+Porcentaje de aumento a 15 días: -38.72% - Acción: vender
+Precio anterior: 1839808.92 - Precio predicción 7 días: 1931799.37
+
+Nombre: Leonardo Carrilho Baptistão (ID: 1522)
+Precio actual: 2773354.00
+Precio hace 15 días: 5000000.00
+Precio hace 7 días: 3365584.00
+Precio hace 5 días: 3155243.00
+Porcentaje de aumento a 15 días: -38.73% - Acción: vender
+Precio anterior: 1975646.69 - Precio predicción 7 días: 2074429.03
+
+Nombre: Alejandro Fernández Iglesias (ID: 817)
+Precio actual: 4076286.00
+Precio hace 15 días: 7000000.00
+Precio hace 7 días: 4955646.00
+Precio hace 5 días: 4637133.00
+Porcentaje de aumento a 15 días: -38.86% - Acción: vender
+Precio anterior: 2891132.19 - Precio predicción 7 días: 3035688.80
+
+Nombre: Alexander Callens (ID: 1582)
+Precio actual: 1860388.00
+Precio hace 15 días: 3360000.00
+Precio hace 7 días: 2257592.00
+Precio hace 5 días: 2110936.00
+Porcentaje de aumento a 15 días: -38.94% - Acción: vender
+Precio anterior: 1358842.11 - Precio predicción 7 días: 1426784.21
+
+Nombre: Andriy Lunin (ID: 908)
+Precio actual: 2974707.00
+Precio hace 15 días: 5340000.00
+Precio hace 7 días: 3602742.00
+Precio hace 5 días: 3377064.00
+Porcentaje de aumento a 15 días: -38.96% - Acción: vender
+Precio anterior: 2189042.29 - Precio predicción 7 días: 2298494.41
+
+Nombre: Santiago Arzamendia Duarte (ID: 1145)
+Precio actual: 1380641.00
+Precio hace 15 días: 2500000.00
+Precio hace 7 días: 1677771.00
+Precio hace 5 días: 1571955.00
+Porcentaje de aumento a 15 días: -38.97% - Acción: vender
+Precio anterior: 1010561.24 - Precio predicción 7 días: 1061089.31
+
+Nombre: Abdón Prats (ID: 1081)
+Precio actual: 2440647.00
+Precio hace 15 días: 4400000.00
+Precio hace 7 días: 2962183.00
+Precio hace 5 días: 2777766.00
+Porcentaje de aumento a 15 días: -39.02% - Acción: vender
+Precio anterior: 1792161.85 - Precio predicción 7 días: 1881769.94
+
+Nombre: Francis Coquelin (ID: 307)
+Precio actual: 4907194.00
+Precio hace 15 días: 8700000.00
+Precio hace 7 días: 5975318.00
+Precio hace 5 días: 5589693.00
+Porcentaje de aumento a 15 días: -39.14% - Acción: vender
+Precio anterior: 3476334.74 - Precio predicción 7 días: 3650151.48
+
+Nombre: Samuel Castillejo Azuaga (ID: 1498)
+Precio actual: 4571767.00
+Precio hace 15 días: 8000000.00
+Precio hace 7 días: 5571780.00
+Precio hace 5 días: 5208408.00
+Porcentaje de aumento a 15 días: -39.30% - Acción: vender
+Precio anterior: 3309364.37 - Precio predicción 7 días: 3474832.59
+
+Nombre: Francisco Portill (ID: 1417)
+Precio actual: 2986910.00
+Precio hace 15 días: 5430000.00
+Precio hace 7 días: 3639620.00
+Precio hace 5 días: 3409274.00
+Porcentaje de aumento a 15 días: -39.34% - Acción: vender
+Precio anterior: 2182094.11 - Precio predicción 7 días: 2291198.82
+
+Nombre: Jagoba Arrasate (ID: 1358)
+Precio actual: 3732592.00
+Precio hace 15 días: 5600000.00
+Precio hace 7 días: 4681657.00
+Precio hace 5 días: 4336849.00
+Porcentaje de aumento a 15 días: -39.57% - Acción: vender
+Precio anterior: 2638792.07 - Precio predicción 7 días: 2770731.67
+
+Nombre: Tomás Alarcón (ID: 1144)
+Precio actual: 3297524.00
+Precio hace 15 días: 5995789.00
+Precio hace 7 días: 4026519.00
+Precio hace 5 días: 3763052.00
+Porcentaje de aumento a 15 días: -39.61% - Acción: vender
+Precio anterior: 2319546.75 - Precio predicción 7 días: 2435524.09
+
+Nombre: Javier Aguirre (ID: 1366)
+Precio actual: 3653776.00
+Precio hace 15 días: 5500000.00
+Precio hace 7 días: 4599154.00
+Precio hace 5 días: 4256991.00
+Porcentaje de aumento a 15 días: -39.77% - Acción: vender
+Precio anterior: 2565551.71 - Precio predicción 7 días: 2693829.29
+
+Nombre: Juan Brandáriz Movilla (ID: 1427)
+Precio actual: 1245053.00
+Precio hace 15 días: 2300000.00
+Precio hace 7 días: 1521762.00
+Precio hace 5 días: 1420867.00
+Porcentaje de aumento a 15 días: -39.82% - Acción: vender
+Precio anterior: 903545.10 - Precio predicción 7 días: 948722.36
+
+Nombre: Kaiky Fernandes Melo (ID: 1508)
+Precio actual: 3257763.00
+Precio hace 15 días: 6000000.00
+Precio hace 7 días: 3991763.00
+Precio hace 5 días: 3725541.00
+Porcentaje de aumento a 15 días: -39.99% - Acción: vender
+Precio anterior: 2282257.87 - Precio predicción 7 días: 2396370.76
+
+Nombre: Marcos André de Sousa Mendonça (ID: 1293)
+Precio actual: 2704140.00
+Precio hace 15 días: 5000000.00
+Precio hace 7 días: 3311733.00
+Precio hace 5 días: 3093377.00
+Porcentaje de aumento a 15 días: -40.11% - Acción: vender
+Precio anterior: 1953106.15 - Precio predicción 7 días: 2050761.46
+
+Nombre: Karim Rekik (ID: 943)
+Precio actual: 3837073.00
+Precio hace 15 días: 7000000.00
+Precio hace 7 días: 4701907.00
+Precio hace 5 días: 4389625.00
+Porcentaje de aumento a 15 días: -40.17% - Acción: vender
+Precio anterior: 2759667.59 - Precio predicción 7 días: 2897650.97
+
+Nombre: Laureano Antonio Villa Suárez (ID: 1388)
+Precio actual: 3618660.00
+Precio hace 15 días: 6600000.00
+Precio hace 7 días: 4447233.00
+Precio hace 5 días: 4148158.00
+Porcentaje de aumento a 15 días: -40.30% - Acción: vender
+Precio anterior: 2593318.55 - Precio predicción 7 días: 2722984.48
+
+Nombre: Martín Merquelanz Castellanos (ID: 855)
+Precio actual: 1814275.00
+Precio hace 15 días: 3400000.00
+Precio hace 7 días: 2239371.00
+Precio hace 5 días: 2086235.00
+Porcentaje de aumento a 15 días: -40.66% - Acción: vender
+Precio anterior: 1295935.18 - Precio predicción 7 días: 1360731.94
+
+Nombre: Clément Grenier (ID: 1354)
+Precio actual: 2682754.00
+Precio hace 15 días: 5000000.00
+Precio hace 7 días: 3307260.00
+Precio hace 5 días: 3082746.00
+Porcentaje de aumento a 15 días: -40.69% - Acción: vender
+Precio anterior: 1951099.69 - Precio predicción 7 días: 2048654.67
+
+Nombre: Ibrahima Kebe (ID: 1446)
+Precio actual: 1535888.00
+Precio hace 15 días: 2900000.00
+Precio hace 7 días: 1891515.00
+Precio hace 5 días: 1763440.00
+Porcentaje de aumento a 15 días: -40.95% - Acción: vender
+Precio anterior: 1109009.97 - Precio predicción 7 días: 1164460.47
+
+Nombre: Ernesto Valverde (ID: 1481)
+Precio actual: 3349186.00
+Precio hace 15 días: 5300000.00
+Precio hace 7 días: 4115844.00
+Precio hace 5 días: 3838785.00
+Porcentaje de aumento a 15 días: -42.71% - Acción: vender
+Precio anterior: 2459166.47 - Precio predicción 7 días: 2582124.79
+
+Nombre: Sergio González (ID: 1359)
+Precio actual: 2498119.00
+Precio hace 15 días: 4000000.00
+Precio hace 7 días: 3122761.00
+Precio hace 5 días: 2896347.00
+Porcentaje de aumento a 15 días: -43.38% - Acción: vender
+Precio anterior: 1781179.91 - Precio predicción 7 días: 1870238.91
+

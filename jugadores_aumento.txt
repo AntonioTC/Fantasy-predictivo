@@ -1,0 +1,2985 @@
+Jugadores con mayores aumentos:
+Nombre: Antoine Griezmann (ID: 666)
+Precio actual: 72494913.00
+Porcentaje de aumento en 5 días: 12.24%
+Porcentaje de aumento en 7 días: 18.30%
+Predicción de precio: [112320358.30 / 117936376.22 / 123833195.03] (-0,5% / = / +0,5%) 
+Ganancia potencial: 45441463.22 ( 62.68% )
+Acción a tomar: muy recomendable
+
+Nombre: Jesús Navas González (ID: 284)
+Precio actual: 10863097.00
+Porcentaje de aumento en 5 días: -3.25%
+Porcentaje de aumento en 7 días: -4.84%
+Predicción de precio: [19588270.66 / 20567684.19 / 21596068.40] (-0,5% / = / +0,5%) 
+Ganancia potencial: 9704587.19 ( 89.34% )
+Acción a tomar: muy recomendable
+
+Nombre: Vinicius Júnior (ID: 247)
+Precio actual: 95256809.00
+Porcentaje de aumento en 5 días: 5.05%
+Porcentaje de aumento en 7 días: 8.98%
+Porcentaje de aumento en 15 días: 35.65%
+Predicción de precio: [98436460.25 / 103358283.26 / 108526197.42] (-0,5% / = / +0,5%) 
+Ganancia potencial: 8101474.26 ( 8.50% )
+Acción a tomar: recomendable
+
+Nombre: Robert Lewandowski (ID: 1505)
+Precio actual: 91642646.00
+Porcentaje de aumento en 5 días: 4.20%
+Porcentaje de aumento en 7 días: 7.78%
+Porcentaje de aumento en 15 días: 31.33%
+Predicción de precio: [94655649.65 / 99388432.14 / 104357853.74] (-0,5% / = / +0,5%) 
+Ganancia potencial: 7745786.14 ( 8.45% )
+Acción a tomar: recomendable
+
+Nombre: Gabriel Veiga (ID: 974)
+Precio actual: 32099343.00
+Porcentaje de aumento en 5 días: 16.36%
+Porcentaje de aumento en 7 días: 23.10%
+Porcentaje de aumento en 15 días: 54.83%
+Predicción de precio: [36879614.97 / 38723595.72 / 40659775.50] (-0,5% / = / +0,5%) 
+Ganancia potencial: 6624252.72 ( 20.64% )
+Acción a tomar: muy recomendable
+
+Nombre: Rodrygo Silva de Goes (ID: 557)
+Precio actual: 63745604.00
+Porcentaje de aumento en 5 días: 7.27%
+Porcentaje de aumento en 7 días: 10.88%
+Porcentaje de aumento en 15 días: 34.69%
+Predicción de precio: [66813763.29 / 70154451.46 / 73662174.03] (-0,5% / = / +0,5%) 
+Ganancia potencial: 6408847.46 ( 10.05% )
+Acción a tomar: muy recomendable
+
+Nombre: Marc-André Ter Stegen (ID: 93)
+Precio actual: 52079461.00
+Porcentaje de aumento en 5 días: 8.10%
+Porcentaje de aumento en 7 días: 12.85%
+Porcentaje de aumento en 15 días: 41.09%
+Predicción de precio: [55683077.08 / 58467230.93 / 61390592.48] (-0,5% / = / +0,5%) 
+Ganancia potencial: 6387769.93 ( 12.27% )
+Acción a tomar: muy recomendable
+
+Nombre: Thibaut Courtois (ID: 230)
+Precio actual: 48864956.00
+Porcentaje de aumento en 5 días: 9.06%
+Porcentaje de aumento en 7 días: 13.47%
+Porcentaje de aumento en 15 días: 42.91%
+Predicción de precio: [52557327.22 / 55185193.58 / 57944453.26] (-0,5% / = / +0,5%) 
+Ganancia potencial: 6320237.58 ( 12.93% )
+Acción a tomar: muy recomendable
+
+Nombre: Vedat Muriqi (ID: 1352)
+Precio actual: 30034567.00
+Porcentaje de aumento en 5 días: 13.76%
+Porcentaje de aumento en 7 días: 20.66%
+Porcentaje de aumento en 15 días: 54.45%
+Predicción de precio: [33644644.13 / 35326876.34 / 37093220.15] (-0,5% / = / +0,5%) 
+Ganancia potencial: 5292309.34 ( 17.62% )
+Acción a tomar: muy recomendable
+
+Nombre: José Luis Sanmartín (ID: 704)
+Precio actual: 9153667.00
+Porcentaje de aumento en 5 días: 16.13%
+Predicción de precio: [13682141.88 / 14366248.97 / 15084561.42] (-0,5% / = / +0,5%) 
+Ganancia potencial: 5212581.97 ( 56.95% )
+Acción a tomar: muy recomendable
+
+Nombre: Takefusa Kubo (ID: 1197)
+Precio actual: 46954965.00
+Porcentaje de aumento en 5 días: 8.13%
+Porcentaje de aumento en 7 días: 11.92%
+Porcentaje de aumento en 15 días: 37.70%
+Predicción de precio: [49637281.86 / 52119145.95 / 54725103.25] (-0,5% / = / +0,5%) 
+Ganancia potencial: 5164180.95 ( 11.00% )
+Acción a tomar: muy recomendable
+
+Nombre: Daniel Ceballos Fernández (ID: 1320)
+Precio actual: 12476548.00
+Porcentaje de aumento en 5 días: -13.73%
+Predicción de precio: [16621999.76 / 17453099.75 / 18325754.74] (-0,5% / = / +0,5%) 
+Ganancia potencial: 4976551.75 ( 39.89% )
+Acción a tomar: muy recomendable
+
+Nombre: Iago Aspas Juncal (ID: 159)
+Precio actual: 41257863.00
+Porcentaje de aumento en 5 días: 8.23%
+Porcentaje de aumento en 7 días: 12.43%
+Porcentaje de aumento en 15 días: 33.34%
+Predicción de precio: [43730363.58 / 45916881.76 / 48212725.85] (-0,5% / = / +0,5%) 
+Ganancia potencial: 4659018.76 ( 11.29% )
+Acción a tomar: muy recomendable
+
+Nombre: Isaac Palazón (ID: 1032)
+Precio actual: 35766702.00
+Porcentaje de aumento en 5 días: 9.72%
+Porcentaje de aumento en 7 días: 14.10%
+Porcentaje de aumento en 15 días: 39.42%
+Predicción de precio: [38444316.61 / 40366532.44 / 42384859.07] (-0,5% / = / +0,5%) 
+Ganancia potencial: 4599830.44 ( 12.86% )
+Acción a tomar: muy recomendable
+
+Nombre: Brais Méndez Portela (ID: 150)
+Precio actual: 34977228.00
+Porcentaje de aumento en 5 días: 10.56%
+Porcentaje de aumento en 7 días: 14.53%
+Porcentaje de aumento en 15 días: 37.27%
+Predicción de precio: [37655324.66 / 39538090.89 / 41514995.43] (-0,5% / = / +0,5%) 
+Ganancia potencial: 4560862.89 ( 13.04% )
+Acción a tomar: muy recomendable
+
+Nombre: Óscar de Marcos Arana (ID: 72)
+Precio actual: 8781947.00
+Porcentaje de aumento en 5 días: 11.89%
+Porcentaje de aumento en 7 días: 17.49%
+Predicción de precio: [12615656.87 / 13246439.71 / 13908761.70] (-0,5% / = / +0,5%) 
+Ganancia potencial: 4464492.71 ( 50.84% )
+Acción a tomar: muy recomendable
+
+Nombre: Asier Villalibre (ID: 90)
+Precio actual: 6564444.00
+Porcentaje de aumento en 5 días: -14.57%
+Porcentaje de aumento en 7 días: -19.76%
+Predicción de precio: [10084562.90 / 10588791.05 / 11118230.60] (-0,5% / = / +0,5%) 
+Ganancia potencial: 4024347.05 ( 61.31% )
+Acción a tomar: muy recomendable
+
+Nombre: Nicholas Williams Arthuer (ID: 1318)
+Precio actual: 40603901.00
+Porcentaje de aumento en 5 días: 7.11%
+Porcentaje de aumento en 7 días: 10.48%
+Porcentaje de aumento en 15 días: 30.18%
+Predicción de precio: [42380435.57 / 44499457.35 / 46724430.22] (-0,5% / = / +0,5%) 
+Ganancia potencial: 3895556.35 ( 9.59% )
+Acción a tomar: recomendable
+
+Nombre: Inigo Ruiz de Galarreta (ID: 1070)
+Precio actual: 5546633.00
+Porcentaje de aumento en 5 días: 5.66%
+Porcentaje de aumento en 7 días: 7.16%
+Predicción de precio: [8946110.64 / 9393416.17 / 9863086.98] (-0,5% / = / +0,5%) 
+Ganancia potencial: 3846783.17 ( 69.35% )
+Acción a tomar: muy recomendable
+
+Nombre: Borja Iglesias Quintas (ID: 179)
+Precio actual: 33594617.00
+Porcentaje de aumento en 5 días: 7.95%
+Porcentaje de aumento en 7 días: 12.18%
+Porcentaje de aumento en 15 días: 31.43%
+Predicción de precio: [35552026.12 / 37329627.43 / 39196108.80] (-0,5% / = / +0,5%) 
+Ganancia potencial: 3735010.43 ( 11.12% )
+Acción a tomar: muy recomendable
+
+Nombre: David Olatukunbo Alaba (ID: 1157)
+Precio actual: 34193459.00
+Porcentaje de aumento en 5 días: 8.05%
+Porcentaje de aumento en 7 días: 11.74%
+Porcentaje de aumento en 15 días: 32.64%
+Predicción de precio: [36057234.69 / 37860096.43 / 39753101.25] (-0,5% / = / +0,5%) 
+Ganancia potencial: 3666637.43 ( 10.72% )
+Acción a tomar: muy recomendable
+
+Nombre: Mikel Oyarzabal (ID: 264)
+Precio actual: 37012066.00
+Porcentaje de aumento en 5 días: 7.86%
+Porcentaje de aumento en 7 días: 10.86%
+Porcentaje de aumento en 15 días: 30.50%
+Predicción de precio: [38722417.90 / 40658538.79 / 42691465.73] (-0,5% / = / +0,5%) 
+Ganancia potencial: 3646472.79 ( 9.85% )
+Acción a tomar: recomendable
+
+Nombre: Omar Mascarell González (ID: 1291)
+Precio actual: 7836417.00
+Porcentaje de aumento en 5 días: -6.79%
+Predicción de precio: [10922866.29 / 11469009.60 / 12042460.08] (-0,5% / = / +0,5%) 
+Ganancia potencial: 3632592.60 ( 46.36% )
+Acción a tomar: muy recomendable
+
+Nombre: Martín Zubimendi (ID: 889)
+Precio actual: 35229236.00
+Porcentaje de aumento en 5 días: 6.79%
+Porcentaje de aumento en 7 días: 10.33%
+Porcentaje de aumento en 15 días: 27.46%
+Predicción de precio: [36737495.40 / 38574370.17 / 40503088.67] (-0,5% / = / +0,5%) 
+Ganancia potencial: 3345134.17 ( 9.50% )
+Acción a tomar: recomendable
+
+Nombre: Alejandro Remiro Gargallo (ID: 274)
+Precio actual: 31586210.00
+Porcentaje de aumento en 5 días: 7.15%
+Porcentaje de aumento en 7 días: 11.11%
+Porcentaje de aumento en 15 días: 33.40%
+Predicción de precio: [33202983.19 / 34863132.35 / 36606288.97] (-0,5% / = / +0,5%) 
+Ganancia potencial: 3276922.35 ( 10.37% )
+Acción a tomar: muy recomendable
+
+Nombre: Eduardo Celmi Camavinga (ID: 1300)
+Precio actual: 43518507.00
+Porcentaje de aumento en 5 días: 4.49%
+Porcentaje de aumento en 7 días: 7.09%
+Porcentaje de aumento en 15 días: 23.11%
+Predicción de precio: [44311759.19 / 46527347.15 / 48853714.51] (-0,5% / = / +0,5%) 
+Ganancia potencial: 3008840.15 ( 6.91% )
+Acción a tomar: recomendable
+
+Nombre: David García Zubiría (ID: 650)
+Precio actual: 27307822.00
+Porcentaje de aumento en 5 días: 8.18%
+Porcentaje de aumento en 7 días: 11.88%
+Porcentaje de aumento en 15 días: 32.54%
+Predicción de precio: [28806540.40 / 30246867.42 / 31759210.79] (-0,5% / = / +0,5%) 
+Ganancia potencial: 2939045.42 ( 10.76% )
+Acción a tomar: muy recomendable
+
+Nombre: Unai Simón Mendibil (ID: 68)
+Precio actual: 27073845.00
+Porcentaje de aumento en 5 días: 8.25%
+Porcentaje de aumento en 7 días: 11.53%
+Porcentaje de aumento en 15 días: 32.54%
+Predicción de precio: [28512511.94 / 29938137.53 / 31435044.41] (-0,5% / = / +0,5%) 
+Ganancia potencial: 2864292.53 ( 10.58% )
+Acción a tomar: muy recomendable
+
+Nombre: Iñaki Williams Arthuer (ID: 91)
+Precio actual: 30651525.00
+Porcentaje de aumento en 5 días: 5.63%
+Porcentaje de aumento en 7 días: 8.51%
+Porcentaje de aumento en 15 días: 20.87%
+Predicción de precio: [31696509.64 / 33281335.12 / 34945401.88] (-0,5% / = / +0,5%) 
+Ganancia potencial: 2629810.12 ( 8.58% )
+Acción a tomar: recomendable
+
+Nombre: Oihan Sancet Tirapu (ID: 766)
+Precio actual: 35345179.00
+Porcentaje de aumento en 5 días: 5.50%
+Porcentaje de aumento en 7 días: 7.85%
+Porcentaje de aumento en 15 días: 22.82%
+Predicción de precio: [36129277.96 / 37935741.86 / 39832528.95] (-0,5% / = / +0,5%) 
+Ganancia potencial: 2590562.86 ( 7.33% )
+Acción a tomar: recomendable
+
+Nombre: Robin Le Normand (ID: 255)
+Precio actual: 36500280.00
+Porcentaje de aumento en 5 días: 4.48%
+Porcentaje de aumento en 7 días: 7.24%
+Porcentaje de aumento en 15 días: 19.84%
+Predicción de precio: [37146590.50 / 39003920.03 / 40954116.03] (-0,5% / = / +0,5%) 
+Ganancia potencial: 2503640.03 ( 6.86% )
+Acción a tomar: recomendable
+
+Nombre: Alejandro Baena (ID: 1022)
+Precio actual: 17188188.00
+Porcentaje de aumento en 5 días: 10.59%
+Porcentaje de aumento en 7 días: 15.96%
+Porcentaje de aumento en 15 días: 36.24%
+Predicción de precio: [18704482.02 / 19639706.12 / 20621691.43] (-0,5% / = / +0,5%) 
+Ganancia potencial: 2451518.12 ( 14.26% )
+Acción a tomar: muy recomendable
+
+Nombre: Antonio Raíllo (ID: 1090)
+Precio actual: 16904731.00
+Porcentaje de aumento en 5 días: 10.86%
+Porcentaje de aumento en 7 días: 15.34%
+Porcentaje de aumento en 15 días: 34.94%
+Predicción de precio: [18235397.46 / 19147167.33 / 20104525.69] (-0,5% / = / +0,5%) 
+Ganancia potencial: 2242436.33 ( 13.27% )
+Acción a tomar: muy recomendable
+
+Nombre: Uroš Račić (ID: 875)
+Precio actual: 5357122.00
+Porcentaje de aumento en 5 días: -15.04%
+Predicción de precio: [7201310.55 / 7561376.08 / 7939444.88] (-0,5% / = / +0,5%) 
+Ganancia potencial: 2204254.08 ( 41.15% )
+Acción a tomar: muy recomendable
+
+Nombre: Pablo Martín Páez Gavira (ID: 1221)
+Precio actual: 49122755.00
+Porcentaje de aumento en 5 días: 1.34%
+Porcentaje de aumento en 7 días: 3.54%
+Porcentaje de aumento en 15 días: 19.02%
+Predicción de precio: [48861495.06 / 51304569.82 / 53869798.31] (-0,5% / = / +0,5%) 
+Ganancia potencial: 2181814.82 ( 4.44% )
+Acción a tomar: algo recomendable
+
+Nombre: Pedro González (ID: 918)
+Precio actual: 60478576.00
+Porcentaje de aumento en 5 días: 1.53%
+Porcentaje de aumento en 7 días: 3.48%
+Porcentaje de aumento en 15 días: 17.16%
+Predicción de precio: [59545085.19 / 62522339.45 / 65648456.42] (-0,5% / = / +0,5%) 
+Ganancia potencial: 2043763.45 ( 3.38% )
+Acción a tomar: algo recomendable
+
+Nombre: Jeremías Ledesma (ID: 947)
+Precio actual: 18465638.00
+Porcentaje de aumento en 5 días: 8.20%
+Porcentaje de aumento en 7 días: 12.20%
+Porcentaje de aumento en 15 días: 32.29%
+Predicción de precio: [19522644.20 / 20498776.41 / 21523715.23] (-0,5% / = / +0,5%) 
+Ganancia potencial: 2033138.41 ( 11.01% )
+Acción a tomar: muy recomendable
+
+Nombre: Yéremi Jesús Pino Santos (ID: 995)
+Precio actual: 30816705.00
+Porcentaje de aumento en 5 días: 3.77%
+Porcentaje de aumento en 7 días: 5.93%
+Porcentaje de aumento en 15 días: 18.76%
+Predicción de precio: [31250741.98 / 32813279.08 / 34453943.03] (-0,5% / = / +0,5%) 
+Ganancia potencial: 1996574.08 ( 6.48% )
+Acción a tomar: recomendable
+
+Nombre: Andreas Bødtker Christensen (ID: 1507)
+Precio actual: 31769078.00
+Porcentaje de aumento en 5 días: 3.71%
+Porcentaje de aumento en 7 días: 6.52%
+Porcentaje de aumento en 15 días: 24.16%
+Predicción de precio: [32145106.58 / 33752361.91 / 35439980.01] (-0,5% / = / +0,5%) 
+Ganancia potencial: 1983283.91 ( 6.24% )
+Acción a tomar: recomendable
+
+Nombre: Mario Hermoso Canseco (ID: 166)
+Precio actual: 20335014.00
+Porcentaje de aumento en 5 días: 7.88%
+Porcentaje de aumento en 7 días: 10.53%
+Porcentaje de aumento en 15 días: 25.36%
+Predicción de precio: [21237318.62 / 22299184.56 / 23414143.78] (-0,5% / = / +0,5%) 
+Ganancia potencial: 1964170.56 ( 9.66% )
+Acción a tomar: recomendable
+
+Nombre: Luka Modrić (ID: 240)
+Precio actual: 24939368.00
+Porcentaje de aumento en 5 días: 5.78%
+Porcentaje de aumento en 7 días: 8.35%
+Porcentaje de aumento en 15 días: 22.65%
+Predicción de precio: [25597134.09 / 26876990.80 / 28220840.34] (-0,5% / = / +0,5%) 
+Ganancia potencial: 1937622.80 ( 7.77% )
+Acción a tomar: recomendable
+
+Nombre: Lucas Robertone (ID: 1414)
+Precio actual: 18389859.00
+Porcentaje de aumento en 5 días: 8.17%
+Porcentaje de aumento en 7 días: 11.39%
+Porcentaje de aumento en 15 días: 29.01%
+Predicción de precio: [19321360.55 / 20287428.58 / 21301800.01] (-0,5% / = / +0,5%) 
+Ganancia potencial: 1897569.58 ( 10.32% )
+Acción a tomar: muy recomendable
+
+Nombre: David Soria Solís (ID: 184)
+Precio actual: 19549034.00
+Porcentaje de aumento en 5 días: 6.51%
+Porcentaje de aumento en 7 días: 9.62%
+Porcentaje de aumento en 15 días: 26.68%
+Predicción de precio: [20269141.15 / 21282598.21 / 22346728.12] (-0,5% / = / +0,5%) 
+Ganancia potencial: 1733564.21 ( 8.87% )
+Acción a tomar: recomendable
+
+Nombre: Jaume Vicent Costa Jordá (ID: 341)
+Precio actual: 3974364.00
+Porcentaje de aumento en 5 días: -8.21%
+Predicción de precio: [5427361.07 / 5698729.12 / 5983665.58] (-0,5% / = / +0,5%) 
+Ganancia potencial: 1724365.12 ( 43.39% )
+Acción a tomar: muy recomendable
+
+Nombre: Daniel Parejo Muñoz (ID: 310)
+Precio actual: 34946223.00
+Porcentaje de aumento en 5 días: 2.57%
+Porcentaje de aumento en 7 días: 4.65%
+Porcentaje de aumento en 15 días: 14.52%
+Predicción de precio: [34923831.63 / 36670023.22 / 38503524.38] (-0,5% / = / +0,5%) 
+Ganancia potencial: 1723800.22 ( 4.93% )
+Acción a tomar: algo recomendable
+
+Nombre: Giorgi Mamardashvili (ID: 1255)
+Precio actual: 18982005.00
+Porcentaje de aumento en 5 días: 6.81%
+Porcentaje de aumento en 7 días: 9.80%
+Porcentaje de aumento en 15 días: 25.32%
+Predicción de precio: [19719498.88 / 20705473.83 / 21740747.52] (-0,5% / = / +0,5%) 
+Ganancia potencial: 1723468.83 ( 9.08% )
+Acción a tomar: recomendable
+
+Nombre: João Félix Sequeira (ID: 541)
+Precio actual: 31806455.00
+Porcentaje de aumento en 5 días: -14.03%
+Porcentaje de aumento en 7 días: -19.09%
+Predicción de precio: [31924007.16 / 33520207.52 / 35196217.89] (-0,5% / = / +0,5%) 
+Ganancia potencial: 1713752.52 ( 5.39% )
+Acción a tomar: recomendable
+
+Nombre: Igor Zubeldia (ID: 265)
+Precio actual: 20523134.00
+Porcentaje de aumento en 5 días: 6.06%
+Porcentaje de aumento en 7 días: 8.66%
+Porcentaje de aumento en 15 días: 19.23%
+Predicción de precio: [21130739.83 / 22187276.82 / 23296640.66] (-0,5% / = / +0,5%) 
+Ganancia potencial: 1664142.82 ( 8.11% )
+Acción a tomar: recomendable
+
+Nombre: Predrag Rajkovic (ID: 1490)
+Precio actual: 12652708.00
+Porcentaje de aumento en 5 días: 10.50%
+Porcentaje de aumento en 7 días: 14.82%
+Porcentaje de aumento en 15 días: 36.69%
+Predicción de precio: [13611910.26 / 14292505.78 / 15007131.06] (-0,5% / = / +0,5%) 
+Ganancia potencial: 1639797.78 ( 12.96% )
+Acción a tomar: muy recomendable
+
+Nombre: Stole Dimitrievski (ID: 1046)
+Precio actual: 11892946.00
+Porcentaje de aumento en 5 días: 10.80%
+Porcentaje de aumento en 7 días: 15.43%
+Porcentaje de aumento en 15 días: 35.67%
+Predicción de precio: [12851504.17 / 13494079.38 / 14168783.35] (-0,5% / = / +0,5%) 
+Ganancia potencial: 1601133.38 ( 13.46% )
+Acción a tomar: muy recomendable
+
+Nombre: José Luis García Vayá (ID: 1308)
+Precio actual: 2878971.00
+Porcentaje de aumento en 5 días: 9.58%
+Predicción de precio: [4232616.34 / 4444247.16 / 4666459.51] (-0,5% / = / +0,5%) 
+Ganancia potencial: 1565276.16 ( 54.37% )
+Acción a tomar: muy recomendable
+
+Nombre: Pablo Maffeo (ID: 1097)
+Precio actual: 13823773.00
+Porcentaje de aumento en 5 días: 9.10%
+Porcentaje de aumento en 7 días: 12.18%
+Porcentaje de aumento en 15 días: 26.59%
+Predicción de precio: [14642422.33 / 15374543.44 / 16143270.62] (-0,5% / = / +0,5%) 
+Ganancia potencial: 1550770.44 ( 11.22% )
+Acción a tomar: muy recomendable
+
+Nombre: Álvaro García (ID: 1029)
+Precio actual: 19528941.00
+Porcentaje de aumento en 5 días: 6.23%
+Porcentaje de aumento en 7 días: 8.45%
+Porcentaje de aumento en 15 días: 19.75%
+Predicción de precio: [20055279.43 / 21058043.41 / 22110945.58] (-0,5% / = / +0,5%) 
+Ganancia potencial: 1529102.41 ( 7.83% )
+Acción a tomar: recomendable
+
+Nombre: Guido Rodríguez (ID: 775)
+Precio actual: 18422443.00
+Porcentaje de aumento en 5 días: 6.25%
+Porcentaje de aumento en 7 días: 8.60%
+Porcentaje de aumento en 15 días: 21.51%
+Predicción de precio: [18963425.71 / 19911596.99 / 20907176.84] (-0,5% / = / +0,5%) 
+Ganancia potencial: 1489153.99 ( 8.08% )
+Acción a tomar: recomendable
+
+Nombre: Luis Ezequiel Ávila (ID: 478)
+Precio actual: 17149649.00
+Porcentaje de aumento en 5 días: 6.46%
+Porcentaje de aumento en 7 días: 9.30%
+Porcentaje de aumento en 15 días: 18.89%
+Predicción de precio: [17732325.26 / 18618941.52 / 19549888.60] (-0,5% / = / +0,5%) 
+Ganancia potencial: 1469292.52 ( 8.57% )
+Acción a tomar: recomendable
+
+Nombre: Umar Sadiq (ID: 1418)
+Precio actual: 17777024.00
+Porcentaje de aumento en 5 días: 5.91%
+Porcentaje de aumento en 7 días: 8.33%
+Porcentaje de aumento en 15 días: 15.48%
+Predicción de precio: [18326324.90 / 19242641.14 / 20204773.20] (-0,5% / = / +0,5%) 
+Ganancia potencial: 1465617.14 ( 8.24% )
+Acción a tomar: recomendable
+
+Nombre: Aimar Oroz Huarte (ID: 1517)
+Precio actual: 14723868.00
+Porcentaje de aumento en 5 días: 7.10%
+Porcentaje de aumento en 7 días: 9.01%
+Porcentaje de aumento en 15 días: 17.81%
+Predicción de precio: [15343652.29 / 16110834.90 / 16916376.65] (-0,5% / = / +0,5%) 
+Ganancia potencial: 1386966.90 ( 9.42% )
+Acción a tomar: recomendable
+
+Nombre: Nahuel Molina (ID: 1491)
+Precio actual: 30221289.00
+Porcentaje de aumento en 5 días: 3.18%
+Porcentaje de aumento en 7 días: 4.73%
+Porcentaje de aumento en 15 días: 19.06%
+Predicción de precio: [30070193.63 / 31573703.31 / 33152388.48] (-0,5% / = / +0,5%) 
+Ganancia potencial: 1352414.31 ( 4.48% )
+Acción a tomar: algo recomendable
+
+Nombre: Fede Valverde (ID: 243)
+Precio actual: 53455080.00
+Porcentaje de aumento en 5 días: -0.00%
+Porcentaje de aumento en 7 días: 1.87%
+Porcentaje de aumento en 15 días: 7.55%
+Predicción de precio: [52154054.75 / 54761757.48 / 57499845.36] (-0,5% / = / +0,5%) 
+Ganancia potencial: 1306677.48 ( 2.44% )
+Acción a tomar: mantener
+
+Nombre: Antonio Rüdiger (ID: 1474)
+Precio actual: 27131948.00
+Porcentaje de aumento en 5 días: 2.91%
+Porcentaje de aumento en 7 días: 4.34%
+Porcentaje de aumento en 15 días: 10.64%
+Predicción de precio: [27019310.73 / 28370276.27 / 29788790.08] (-0,5% / = / +0,5%) 
+Ganancia potencial: 1238328.27 ( 4.56% )
+Acción a tomar: algo recomendable
+
+Nombre: Francisco José García Torres (ID: 1269)
+Precio actual: 15889272.00
+Porcentaje de aumento en 5 días: 4.82%
+Predicción de precio: [16213269.82 / 17023933.31 / 17875129.97] (-0,5% / = / +0,5%) 
+Ganancia potencial: 1134661.31 ( 7.14% )
+Acción a tomar: recomendable
+
+Nombre: Marcos Llorente (ID: 67)
+Precio actual: 28189416.00
+Porcentaje de aumento en 5 días: 2.74%
+Porcentaje de aumento en 7 días: 3.68%
+Porcentaje de aumento en 15 días: 9.22%
+Predicción de precio: [27855199.46 / 29247959.43 / 30710357.40] (-0,5% / = / +0,5%) 
+Ganancia potencial: 1058543.43 ( 3.76% )
+Acción a tomar: algo recomendable
+
+Nombre: Yassine Bounou (ID: 734)
+Precio actual: 17382625.00
+Porcentaje de aumento en 5 días: 4.72%
+Porcentaje de aumento en 7 días: 6.38%
+Porcentaje de aumento en 15 días: 15.50%
+Predicción de precio: [17561132.23 / 18439188.84 / 19361148.28] (-0,5% / = / +0,5%) 
+Ganancia potencial: 1056563.84 ( 6.08% )
+Acción a tomar: recomendable
+
+Nombre: Xavi Hernández (ID: 1361)
+Precio actual: 16915657.00
+Porcentaje de aumento en 5 días: 16.51%
+Porcentaje de aumento en 7 días: 7.73%
+Porcentaje de aumento en 15 días: 27.79%
+Predicción de precio: [17060966.58 / 17914014.91 / 18809715.66] (-0,5% / = / +0,5%) 
+Ganancia potencial: 998357.91 ( 5.90% )
+Acción a tomar: recomendable
+
+Nombre: Ousmane Dembélé (ID: 112)
+Precio actual: 55817441.00
+Porcentaje de aumento en 5 días: -3.17%
+Porcentaje de aumento en 7 días: -0.63%
+Porcentaje de aumento en 15 días: 15.39%
+Predicción de precio: [54073774.66 / 56777463.39 / 59616336.56] (-0,5% / = / +0,5%) 
+Ganancia potencial: 960022.39 ( 1.72% )
+Acción a tomar: mantener
+
+Nombre: Frenkie de Jong (ID: 544)
+Precio actual: 54390725.00
+Porcentaje de aumento en 5 días: -0.11%
+Porcentaje de aumento en 7 días: 0.87%
+Porcentaje de aumento en 15 días: 12.26%
+Predicción de precio: [52695624.89 / 55330406.13 / 58096926.44] (-0,5% / = / +0,5%) 
+Ganancia potencial: 939681.13 ( 1.73% )
+Acción a tomar: mantener
+
+Nombre: Moi Gómez (ID: 680)
+Precio actual: 20365644.00
+Porcentaje de aumento en 5 días: 3.83%
+Porcentaje de aumento en 7 días: 4.81%
+Porcentaje de aumento en 15 días: 9.81%
+Predicción de precio: [20288479.89 / 21302903.89 / 22368049.08] (-0,5% / = / +0,5%) 
+Ganancia potencial: 937259.89 ( 4.60% )
+Acción a tomar: algo recomendable
+
+Nombre: Domingos André Ribeiro Almeida (ID: 1529)
+Precio actual: 19053292.00
+Porcentaje de aumento en 5 días: 3.83%
+Porcentaje de aumento en 7 días: 5.03%
+Porcentaje de aumento en 15 días: 12.30%
+Predicción de precio: [19024579.54 / 19975808.51 / 20974598.94] (-0,5% / = / +0,5%) 
+Ganancia potencial: 922516.51 ( 4.84% )
+Acción a tomar: algo recomendable
+
+Nombre: Luiz Felipe Ramos Marchi (ID: 1519)
+Precio actual: 13827456.00
+Porcentaje de aumento en 5 días: 4.69%
+Porcentaje de aumento en 7 días: 6.47%
+Porcentaje de aumento en 15 días: 13.38%
+Predicción de precio: [14007640.89 / 14708022.94 / 15443424.08] (-0,5% / = / +0,5%) 
+Ganancia potencial: 880566.94 ( 6.37% )
+Acción a tomar: recomendable
+
+Nombre: Raúl de Tomás (ID: 1063)
+Precio actual: 18262235.00
+Porcentaje de aumento en 5 días: 3.69%
+Porcentaje de aumento en 7 días: 4.75%
+Porcentaje de aumento en 15 días: 11.64%
+Predicción de precio: [18224229.88 / 19135441.38 / 20092213.45] (-0,5% / = / +0,5%) 
+Ganancia potencial: 873206.38 ( 4.78% )
+Acción a tomar: algo recomendable
+
+Nombre: Javier Galán Gil (ID: 1204)
+Precio actual: 21260054.00
+Porcentaje de aumento en 5 días: 2.04%
+Porcentaje de aumento en 7 días: 3.95%
+Porcentaje de aumento en 15 días: 16.85%
+Predicción de precio: [21061800.42 / 22114890.44 / 23220634.97] (-0,5% / = / +0,5%) 
+Ganancia potencial: 854836.44 ( 4.02% )
+Acción a tomar: algo recomendable
+
+Nombre: Mikel Vesga Arruti (ID: 92)
+Precio actual: 8384295.00
+Porcentaje de aumento en 5 días: 6.75%
+Porcentaje de aumento en 7 días: 9.22%
+Porcentaje de aumento en 15 días: 22.07%
+Predicción de precio: [8767689.15 / 9206073.61 / 9666377.29] (-0,5% / = / +0,5%) 
+Ganancia potencial: 821778.61 ( 9.80% )
+Acción a tomar: recomendable
+
+Nombre: Oriol Romeu Vidal (ID: 1537)
+Precio actual: 11125033.00
+Porcentaje de aumento en 5 días: 3.31%
+Porcentaje de aumento en 7 días: 3.04%
+Porcentaje de aumento en 15 días: 7.16%
+Predicción de precio: [11354212.11 / 11921922.72 / 12518018.86] (-0,5% / = / +0,5%) 
+Ganancia potencial: 796889.72 ( 7.16% )
+Acción a tomar: recomendable
+
+Nombre: Ander Herrera Agüera (ID: 1531)
+Precio actual: 2210795.00
+Porcentaje de aumento en 5 días: -6.59%
+Porcentaje de aumento en 7 días: -9.33%
+Predicción de precio: [2831278.30 / 2972842.21 / 3121484.32] (-0,5% / = / +0,5%) 
+Ganancia potencial: 762047.21 ( 34.47% )
+Acción a tomar: muy recomendable
+
+Nombre: Myrto Uzuni (ID: 1349)
+Precio actual: 13205589.00
+Porcentaje de aumento en 5 días: 4.02%
+Porcentaje de aumento en 7 días: 4.69%
+Porcentaje de aumento en 15 días: 8.16%
+Predicción de precio: [13274285.81 / 13938000.10 / 14634900.10] (-0,5% / = / +0,5%) 
+Ganancia potencial: 732411.10 ( 5.55% )
+Acción a tomar: recomendable
+
+Nombre: Marko Dmitrovic (ID: 1163)
+Precio actual: 9971895.00
+Porcentaje de aumento en 5 días: 5.00%
+Porcentaje de aumento en 7 días: 7.44%
+Porcentaje de aumento en 15 días: 16.51%
+Predicción de precio: [10171971.45 / 10680570.02 / 11214598.53] (-0,5% / = / +0,5%) 
+Ganancia potencial: 708675.02 ( 7.11% )
+Acción a tomar: recomendable
+
+Nombre: Rui Tiago Dantas da Silva (ID: 1132)
+Precio actual: 11503638.00
+Porcentaje de aumento en 5 días: 4.54%
+Porcentaje de aumento en 7 días: 6.20%
+Porcentaje de aumento en 15 días: 14.85%
+Predicción de precio: [11614133.61 / 12194840.29 / 12804582.30] (-0,5% / = / +0,5%) 
+Ganancia potencial: 691202.29 ( 6.01% )
+Acción a tomar: recomendable
+
+Nombre: Arnau Martinez (ID: 1468)
+Precio actual: 12628974.00
+Porcentaje de aumento en 5 días: 4.08%
+Porcentaje de aumento en 7 días: 5.64%
+Porcentaje de aumento en 15 días: 10.33%
+Predicción de precio: [12670127.93 / 13303634.33 / 13968816.05] (-0,5% / = / +0,5%) 
+Ganancia potencial: 674660.33 ( 5.34% )
+Acción a tomar: recomendable
+
+Nombre: Youssef En-Nesyri (ID: 415)
+Precio actual: 24594616.00
+Porcentaje de aumento en 5 días: 1.60%
+Porcentaje de aumento en 7 días: 2.57%
+Porcentaje de aumento en 15 días: 8.71%
+Predicción de precio: [24021158.16 / 25222216.07 / 26483326.87] (-0,5% / = / +0,5%) 
+Ganancia potencial: 627600.07 ( 2.55% )
+Acción a tomar: algo recomendable
+
+Nombre: Iñigo Lekue (ID: 73)
+Precio actual: 3023291.00
+Porcentaje de aumento en 5 días: -9.77%
+Porcentaje de aumento en 7 días: -14.05%
+Predicción de precio: [3419117.10 / 3590072.95 / 3769576.60] (-0,5% / = / +0,5%) 
+Ganancia potencial: 566781.95 ( 18.75% )
+Acción a tomar: muy recomendable
+
+Nombre: Stefan Savić (ID: 56)
+Precio actual: 21356460.00
+Porcentaje de aumento en 5 días: 1.22%
+Porcentaje de aumento en 7 días: 2.45%
+Porcentaje de aumento en 15 días: 7.20%
+Predicción de precio: [20844442.21 / 21886664.32 / 22980997.53] (-0,5% / = / +0,5%) 
+Ganancia potencial: 530204.32 ( 2.48% )
+Acción a tomar: mantener
+
+Nombre: José Manuel Reina Páez (ID: 1479)
+Precio actual: 8943542.00
+Porcentaje de aumento en 5 días: 4.25%
+Porcentaje de aumento en 7 días: 5.96%
+Porcentaje de aumento en 15 días: 12.82%
+Predicción de precio: [9011047.71 / 9461600.09 / 9934680.10] (-0,5% / = / +0,5%) 
+Ganancia potencial: 518058.09 ( 5.79% )
+Acción a tomar: recomendable
+
+Nombre: Sergio Herrera Pirón (ID: 644)
+Precio actual: 10223305.00
+Porcentaje de aumento en 5 días: 3.64%
+Porcentaje de aumento en 7 días: 4.72%
+Porcentaje de aumento en 15 días: 8.05%
+Predicción de precio: [10163170.44 / 10671328.97 / 11204895.41] (-0,5% / = / +0,5%) 
+Ganancia potencial: 448023.97 ( 4.38% )
+Acción a tomar: algo recomendable
+
+Nombre: Lucas Torró Marset (ID: 873)
+Precio actual: 10463205.00
+Porcentaje de aumento en 5 días: 1.82%
+Porcentaje de aumento en 7 días: 2.23%
+Porcentaje de aumento en 15 días: 4.26%
+Predicción de precio: [10331034.45 / 10847586.17 / 11389965.48] (-0,5% / = / +0,5%) 
+Ganancia potencial: 384381.17 ( 3.67% )
+Acción a tomar: algo recomendable
+
+Nombre: Daniel José Rodríguez Vázquez (ID: 1072)
+Precio actual: 10374821.00
+Porcentaje de aumento en 5 días: 1.57%
+Porcentaje de aumento en 7 días: 1.35%
+Porcentaje de aumento en 15 días: 2.30%
+Predicción de precio: [10193099.05 / 10702754.00 / 11237891.70] (-0,5% / = / +0,5%) 
+Ganancia potencial: 327933.00 ( 3.16% )
+Acción a tomar: algo recomendable
+
+Nombre: José Manuel Arias Copete (ID: 1482)
+Precio actual: 5763074.00
+Porcentaje de aumento en 5 días: 4.22%
+Porcentaje de aumento en 7 días: 5.53%
+Porcentaje de aumento en 15 días: 12.53%
+Predicción de precio: [5780394.96 / 6069414.70 / 6372885.44] (-0,5% / = / +0,5%) 
+Ganancia potencial: 306340.70 ( 5.32% )
+Acción a tomar: recomendable
+
+Nombre: Jesús Vallejo (ID: 1159)
+Precio actual: 5939729.00
+Porcentaje de aumento en 5 días: 3.66%
+Porcentaje de aumento en 7 días: 4.16%
+Porcentaje de aumento en 15 días: 7.55%
+Predicción de precio: [5947954.43 / 6245352.16 / 6557619.76] (-0,5% / = / +0,5%) 
+Ganancia potencial: 305623.16 ( 5.15% )
+Acción a tomar: recomendable
+
+Nombre: Jan Oblak (ID: 53)
+Precio actual: 29552841.00
+Porcentaje de aumento en 5 días: 0.17%
+Porcentaje de aumento en 7 días: 1.08%
+Porcentaje de aumento en 15 días: 7.24%
+Predicción de precio: [28403582.72 / 29823761.85 / 31314949.94] (-0,5% / = / +0,5%) 
+Ganancia potencial: 270920.85 ( 0.92% )
+Acción a tomar: mantener
+
+Nombre: Johan Mojica (ID: 1200)
+Precio actual: 4777124.00
+Porcentaje de aumento en 5 días: 6.29%
+Porcentaje de aumento en 7 días: 4.66%
+Porcentaje de aumento en 15 días: -14.74%
+Predicción de precio: [4791388.54 / 5030957.97 / 5282505.87] (-0,5% / = / +0,5%) 
+Ganancia potencial: 253833.97 ( 5.31% )
+Acción a tomar: recomendable
+
+Nombre: Edgar Paul Akouokou (ID: 1000)
+Precio actual: 2044082.00
+Porcentaje de aumento en 5 días: -13.76%
+Porcentaje de aumento en 7 días: -18.97%
+Predicción de precio: [2152851.58 / 2260494.16 / 2373518.86] (-0,5% / = / +0,5%) 
+Ganancia potencial: 216412.16 ( 10.59% )
+Acción a tomar: muy recomendable
+
+Nombre: Toni Kroos (ID: 246)
+Precio actual: 26017194.00
+Porcentaje de aumento en 5 días: -0.87%
+Porcentaje de aumento en 7 días: 0.30%
+Porcentaje de aumento en 15 días: 3.69%
+Predicción de precio: [24900152.61 / 26145160.24 / 27452418.25] (-0,5% / = / +0,5%) 
+Ganancia potencial: 127966.24 ( 0.49% )
+Acción a tomar: mantener
+
+Nombre: Lucas Ariel Ocampos (ID: 567)
+Precio actual: 14187318.00
+Porcentaje de aumento en 5 días: 1.30%
+Porcentaje de aumento en 7 días: 1.21%
+Porcentaje de aumento en 15 días: 1.61%
+Predicción de precio: [13630730.14 / 14312266.64 / 15027879.97] (-0,5% / = / +0,5%) 
+Ganancia potencial: 124948.64 ( 0.88% )
+Acción a tomar: mantener
+
+Nombre: David López (ID: 1049)
+Precio actual: 3436088.00
+Porcentaje de aumento en 5 días: 1.79%
+Porcentaje de aumento en 7 días: 1.46%
+Porcentaje de aumento en 15 días: 0.59%
+Predicción de precio: [3362614.83 / 3530745.57 / 3707282.85] (-0,5% / = / +0,5%) 
+Ganancia potencial: 94657.57 ( 2.75% )
+Acción a tomar: algo recomendable
+
+Nombre: Koba Leïn Koindredi (ID: 1258)
+Precio actual: 2363921.00
+Porcentaje de aumento en 5 días: -14.59%
+Porcentaje de aumento en 7 días: -19.70%
+Predicción de precio: [2330299.97 / 2446814.97 / 2569155.72] (-0,5% / = / +0,5%) 
+Ganancia potencial: 82893.97 ( 3.51% )
+Acción a tomar: algo recomendable
+
+Nombre: Jon Bautista (ID: 857)
+Precio actual: 807516.00
+Porcentaje de aumento en 5 días: -12.88%
+Porcentaje de aumento en 7 días: -18.12%
+Predicción de precio: [839393.08 / 881362.74 / 925430.88] (-0,5% / = / +0,5%) 
+Ganancia potencial: 73846.74 ( 9.14% )
+Acción a tomar: recomendable
+
+Nombre: Santiago Bueno (ID: 1458)
+Precio actual: 5085928.00
+Porcentaje de aumento en 5 días: -13.77%
+Porcentaje de aumento en 7 días: -18.85%
+Porcentaje de aumento en 15 días: -35.39%
+Predicción de precio: [4913744.30 / 5159431.52 / 5417403.10] (-0,5% / = / +0,5%) 
+Ganancia potencial: 73503.52 ( 1.45% )
+Acción a tomar: mantener
+
+Nombre: William Silva de Carvalho (ID: 127)
+Precio actual: 17015419.00
+Porcentaje de aumento en 5 días: -0.39%
+Porcentaje de aumento en 7 días: 0.02%
+Porcentaje de aumento en 15 días: 1.41%
+Predicción de precio: [16257866.32 / 17070759.63 / 17924297.62] (-0,5% / = / +0,5%) 
+Ganancia potencial: 55340.63 ( 0.33% )
+Acción a tomar: mantener
+
+Nombre: Luiz Henrique André Rosa da Silva (ID: 1528)
+Precio actual: 15647956.00
+Porcentaje de aumento en 5 días: 0.06%
+Porcentaje de aumento en 7 días: 0.32%
+Porcentaje de aumento en 15 días: -0.35%
+Predicción de precio: [14950834.11 / 15698375.82 / 16483294.61] (-0,5% / = / +0,5%) 
+Ganancia potencial: 50419.82 ( 0.32% )
+Acción a tomar: mantener
+
+Nombre: Martin Valjent (ID: 1123)
+Precio actual: 9909126.00
+Porcentaje de aumento en 5 días: -1.21%
+Porcentaje de aumento en 7 días: -1.79%
+Porcentaje de aumento en 15 días: -1.25%
+Predicción de precio: [9481549.78 / 9955627.27 / 10453408.63] (-0,5% / = / +0,5%) 
+Ganancia potencial: 46501.27 ( 0.47% )
+Acción a tomar: mantener
+
+Nombre: Éder Militão (ID: 558)
+Precio actual: 51366421.00
+Porcentaje de aumento en 5 días: -1.88%
+Porcentaje de aumento en 7 días: -1.37%
+Porcentaje de aumento en 15 días: 11.37%
+Predicción de precio: [48958022.55 / 51405923.67 / 53976219.86] (-0,5% / = / +0,5%) 
+Ganancia potencial: 39502.67 ( 0.08% )
+Acción a tomar: mantener
+
+Nombre: Jon Moncayola (ID: 637)
+Precio actual: 9341148.00
+Porcentaje de aumento en 5 días: 0.09%
+Porcentaje de aumento en 7 días: -0.21%
+Porcentaje de aumento en 15 días: -2.78%
+Predicción de precio: [8929028.49 / 9375479.92 / 9844253.91] (-0,5% / = / +0,5%) 
+Ganancia potencial: 34331.92 ( 0.37% )
+Acción a tomar: mantener
+
+Nombre: Cristian Rivero (ID: 1100)
+Precio actual: 242363.00
+Porcentaje de aumento en 5 días: 0.81%
+Porcentaje de aumento en 7 días: 0.41%
+Porcentaje de aumento en 15 días: -3.45%
+Predicción de precio: [232029.39 / 243630.86 / 255812.41] (-0,5% / = / +0,5%) 
+Ganancia potencial: 1267.86 ( 0.52% )
+Acción a tomar: mantener
+
+Nombre: Diego Mariño (ID: 1587)
+Precio actual: 314201.00
+Porcentaje de aumento en 5 días: -4.36%
+Porcentaje de aumento en 7 días: -6.76%
+Porcentaje de aumento en 15 días: -18.08%
+Predicción de precio: [277763.89 / 291652.08 / 306234.69] (-0,5% / = / +0,5%) 
+Ganancia potencial: -22548.92 ( -7.18% )
+Acción a tomar: muy poco recomendable
+
+Nombre: Aurélien Tchouaméni (ID: 1480)
+Precio actual: 27977995.00
+Porcentaje de aumento en 5 días: 1.36%
+Porcentaje de aumento en 7 días: -0.13%
+Porcentaje de aumento en 15 días: -4.86%
+Predicción de precio: [26620333.60 / 27951350.28 / 29348917.80] (-0,5% / = / +0,5%) 
+Ganancia potencial: -26644.72 ( -0.10% )
+Acción a tomar: mantener
+
+Nombre: Raúl Parra (ID: 1567)
+Precio actual: 353519.00
+Porcentaje de aumento en 5 días: -6.16%
+Porcentaje de aumento en 7 días: -9.19%
+Porcentaje de aumento en 15 días: -5.66%
+Predicción de precio: [308850.27 / 324292.78 / 340507.42] (-0,5% / = / +0,5%) 
+Ganancia potencial: -29226.22 ( -8.27% )
+Acción a tomar: muy poco recomendable
+
+Nombre: Raúl García Escudero (ID: 86)
+Precio actual: 3415211.00
+Porcentaje de aumento en 5 días: -12.75%
+Porcentaje de aumento en 7 días: -17.70%
+Predicción de precio: [3194426.67 / 3354148.01 / 3521855.41] (-0,5% / = / +0,5%) 
+Ganancia potencial: -61062.99 ( -1.79% )
+Acción a tomar: mantener
+
+Nombre: Iván Balliu Campeny (ID: 1121)
+Precio actual: 5514924.00
+Porcentaje de aumento en 5 días: -0.36%
+Porcentaje de aumento en 7 días: -1.57%
+Porcentaje de aumento en 15 días: -5.89%
+Predicción de precio: [5168403.90 / 5426824.09 / 5698165.29] (-0,5% / = / +0,5%) 
+Ganancia potencial: -88099.91 ( -1.60% )
+Acción a tomar: mantener
+
+Nombre: Étienne Capoue (ID: 996)
+Precio actual: 12233256.00
+Porcentaje de aumento en 5 días: 0.85%
+Porcentaje de aumento en 7 días: -0.58%
+Porcentaje de aumento en 15 días: -1.07%
+Predicción de precio: [11549829.27 / 12127320.74 / 12733686.77] (-0,5% / = / +0,5%) 
+Ganancia potencial: -105935.26 ( -0.87% )
+Acción a tomar: mantener
+
+Nombre: Víctor Laguardia (ID: 371)
+Precio actual: 2044989.00
+Porcentaje de aumento en 5 días: -4.76%
+Porcentaje de aumento en 7 días: -6.40%
+Porcentaje de aumento en 15 días: -14.83%
+Predicción de precio: [1843424.06 / 1935595.26 / 2032375.03] (-0,5% / = / +0,5%) 
+Ganancia potencial: -109393.74 ( -5.35% )
+Acción a tomar: muy poco recomendable
+
+Nombre: Youba Diarra (ID: 1572)
+Precio actual: 597602.00
+Porcentaje de aumento en 5 días: -11.61%
+Porcentaje de aumento en 7 días: -16.32%
+Porcentaje de aumento en 15 días: -33.97%
+Predicción de precio: [458894.82 / 481839.56 / 505931.54] (-0,5% / = / +0,5%) 
+Ganancia potencial: -115762.44 ( -19.37% )
+Acción a tomar: nada recomendable
+
+Nombre: Ángel Algobia (ID: 1510)
+Precio actual: 597831.00
+Porcentaje de aumento en 5 días: -11.61%
+Porcentaje de aumento en 7 días: -16.32%
+Porcentaje de aumento en 15 días: -34.07%
+Predicción de precio: [458809.17 / 481749.63 / 505837.11] (-0,5% / = / +0,5%) 
+Ganancia potencial: -116081.37 ( -19.42% )
+Acción a tomar: nada recomendable
+
+Nombre: Yuri Berchiche Izeta (ID: 74)
+Precio actual: 9878732.00
+Porcentaje de aumento en 5 días: -0.52%
+Porcentaje de aumento en 7 días: -0.27%
+Porcentaje de aumento en 15 días: 3.52%
+Predicción de precio: [9288685.89 / 9753120.18 / 10240776.19] (-0,5% / = / +0,5%) 
+Ganancia potencial: -125611.82 ( -1.27% )
+Acción a tomar: mantener
+
+Nombre: José Pozo (ID: 1039)
+Precio actual: 669674.00
+Porcentaje de aumento en 5 días: -12.40%
+Porcentaje de aumento en 7 días: -17.33%
+Porcentaje de aumento en 15 días: -35.44%
+Predicción de precio: [505006.47 / 530256.79 / 556769.63] (-0,5% / = / +0,5%) 
+Ganancia potencial: -139417.21 ( -20.82% )
+Acción a tomar: nada recomendable
+
+Nombre: Joan Francesc Ferrer (ID: 1409)
+Precio actual: 1012025.00
+Porcentaje de aumento en 5 días: -14.55%
+Porcentaje de aumento en 7 días: -20.04%
+Porcentaje de aumento en 15 días: -22.50%
+Predicción de precio: [816058.88 / 856861.83 / 899704.92] (-0,5% / = / +0,5%) 
+Ganancia potencial: -155163.17 ( -15.33% )
+Acción a tomar: nada recomendable
+
+Nombre: Dani Martín (ID: 677)
+Precio actual: 774765.00
+Porcentaje de aumento en 5 días: -13.28%
+Porcentaje de aumento en 7 días: -18.44%
+Porcentaje de aumento en 15 días: -37.12%
+Predicción de precio: [585200.44 / 614460.47 / 645183.49] (-0,5% / = / +0,5%) 
+Ganancia potencial: -160304.53 ( -20.69% )
+Acción a tomar: nada recomendable
+
+Nombre: Josep María Chavarría Pérez (ID: 1535)
+Precio actual: 812084.00
+Porcentaje de aumento en 5 días: -13.53%
+Porcentaje de aumento en 7 días: -18.59%
+Porcentaje de aumento en 15 días: -36.66%
+Predicción de precio: [616228.67 / 647040.11 / 679392.11] (-0,5% / = / +0,5%) 
+Ganancia potencial: -165043.89 ( -20.32% )
+Acción a tomar: nada recomendable
+
+Nombre: Luis Milla Manzanares (ID: 853)
+Precio actual: 3465790.00
+Porcentaje de aumento en 5 días: -2.85%
+Porcentaje de aumento en 7 días: -3.86%
+Porcentaje de aumento en 15 días: -6.54%
+Predicción de precio: [3143530.14 / 3300706.65 / 3465741.98] (-0,5% / = / +0,5%) 
+Ganancia potencial: -165083.35 ( -4.76% )
+Acción a tomar: poco recomendable
+
+Nombre: Andrés Martín (ID: 1040)
+Precio actual: 845287.00
+Porcentaje de aumento en 5 días: -13.73%
+Porcentaje de aumento en 7 días: -18.73%
+Porcentaje de aumento en 15 días: -37.64%
+Predicción de precio: [638989.38 / 670938.85 / 704485.80] (-0,5% / = / +0,5%) 
+Ganancia potencial: -174348.15 ( -20.63% )
+Acción a tomar: nada recomendable
+
+Nombre: Alejandro Sola López-Ocaña (ID: 1497)
+Precio actual: 847118.00
+Porcentaje de aumento en 5 días: -13.74%
+Porcentaje de aumento en 7 días: -19.00%
+Porcentaje de aumento en 15 días: -37.71%
+Predicción de precio: [638210.21 / 670120.72 / 703626.75] (-0,5% / = / +0,5%) 
+Ganancia potencial: -176997.28 ( -20.89% )
+Acción a tomar: nada recomendable
+
+Nombre: Alberto Soro (ID: 885)
+Precio actual: 846258.00
+Porcentaje de aumento en 5 días: -13.74%
+Porcentaje de aumento en 7 días: -19.01%
+Porcentaje de aumento en 15 días: -37.41%
+Predicción de precio: [636576.09 / 668404.89 / 701825.13] (-0,5% / = / +0,5%) 
+Ganancia potencial: -177853.11 ( -21.02% )
+Acción a tomar: nada recomendable
+
+Nombre: Dyego Wilverson Ferreira Sousa (ID: 1420)
+Precio actual: 889931.00
+Porcentaje de aumento en 5 días: -13.64%
+Porcentaje de aumento en 7 días: -18.97%
+Porcentaje de aumento en 15 días: -36.94%
+Predicción de precio: [649734.60 / 682221.33 / 716332.40] (-0,5% / = / +0,5%) 
+Ganancia potencial: -207709.67 ( -23.34% )
+Acción a tomar: nada recomendable
+
+Nombre: Domingos Duarte (ID: 673)
+Precio actual: 3726333.00
+Porcentaje de aumento en 5 días: -3.47%
+Porcentaje de aumento en 7 días: -5.67%
+Porcentaje de aumento en 15 días: -14.51%
+Predicción de precio: [3339554.43 / 3506532.15 / 3681858.76] (-0,5% / = / +0,5%) 
+Ganancia potencial: -219800.85 ( -5.90% )
+Acción a tomar: muy poco recomendable
+
+Nombre: Francisco Femenía Far (ID: 1495)
+Precio actual: 1235997.00
+Porcentaje de aumento en 5 días: -11.81%
+Porcentaje de aumento en 7 días: -16.48%
+Porcentaje de aumento en 15 días: -32.96%
+Predicción de precio: [962302.54 / 1010417.67 / 1060938.56] (-0,5% / = / +0,5%) 
+Ganancia potencial: -225579.33 ( -18.25% )
+Acción a tomar: nada recomendable
+
+Nombre: José María Martín-Bejarano (ID: 816)
+Precio actual: 1009646.00
+Porcentaje de aumento en 5 días: -14.33%
+Porcentaje de aumento en 7 días: -19.73%
+Porcentaje de aumento en 15 días: -38.06%
+Predicción de precio: [744891.36 / 782135.92 / 821242.72] (-0,5% / = / +0,5%) 
+Ganancia potencial: -227510.08 ( -22.53% )
+Acción a tomar: nada recomendable
+
+Nombre: Abdul Mumin (ID: 1542)
+Precio actual: 1301339.00
+Porcentaje de aumento en 5 días: -12.29%
+Porcentaje de aumento en 7 días: -15.78%
+Porcentaje de aumento en 15 días: -29.81%
+Predicción de precio: [1007060.06 / 1057413.06 / 1110283.71] (-0,5% / = / +0,5%) 
+Ganancia potencial: -243925.94 ( -18.74% )
+Acción a tomar: nada recomendable
+
+Nombre: Gorka Guruzeta (ID: 1484)
+Precio actual: 3270388.00
+Porcentaje de aumento en 5 días: -5.00%
+Porcentaje de aumento en 7 días: -7.05%
+Porcentaje de aumento en 15 días: -15.13%
+Predicción de precio: [2882306.24 / 3026421.56 / 3177742.63] (-0,5% / = / +0,5%) 
+Ganancia potencial: -243966.44 ( -7.46% )
+Acción a tomar: muy poco recomendable
+
+Nombre: Mamadou Mbaye (ID: 1514)
+Precio actual: 1519144.00
+Porcentaje de aumento en 5 días: -10.63%
+Porcentaje de aumento en 7 días: -15.53%
+Porcentaje de aumento en 15 días: -33.41%
+Predicción de precio: [1211523.86 / 1272100.05 / 1335705.05] (-0,5% / = / +0,5%) 
+Ganancia potencial: -247043.95 ( -16.26% )
+Acción a tomar: nada recomendable
+
+Nombre: Daniel Carvajal Ramos (ID: 231)
+Precio actual: 19965681.00
+Porcentaje de aumento en 5 días: -0.69%
+Porcentaje de aumento en 7 días: -1.22%
+Porcentaje de aumento en 15 días: 0.71%
+Predicción de precio: [18771639.92 / 19710221.92 / 20695733.01] (-0,5% / = / +0,5%) 
+Ganancia potencial: -255459.08 ( -1.28% )
+Acción a tomar: mantener
+
+Nombre: Ivo Grbic (ID: 993)
+Precio actual: 1560862.00
+Porcentaje de aumento en 5 días: -11.35%
+Porcentaje de aumento en 7 días: -15.64%
+Porcentaje de aumento en 15 días: -32.62%
+Predicción de precio: [1238883.07 / 1300827.22 / 1365868.58] (-0,5% / = / +0,5%) 
+Ganancia potencial: -260034.78 ( -16.66% )
+Acción a tomar: nada recomendable
+
+Nombre: David Gil Mohedano (ID: 804)
+Precio actual: 1198725.00
+Porcentaje de aumento en 5 días: -13.32%
+Porcentaje de aumento en 7 días: -18.46%
+Porcentaje de aumento en 15 días: -37.32%
+Predicción de precio: [887745.75 / 932133.04 / 978739.69] (-0,5% / = / +0,5%) 
+Ganancia potencial: -266591.96 ( -22.24% )
+Acción a tomar: nada recomendable
+
+Nombre: Beñat Turrientes (ID: 1215)
+Precio actual: 1227770.00
+Porcentaje de aumento en 5 días: -14.63%
+Porcentaje de aumento en 7 días: -19.95%
+Porcentaje de aumento en 15 días: -38.41%
+Predicción de precio: [904758.72 / 949996.66 / 997496.49] (-0,5% / = / +0,5%) 
+Ganancia potencial: -277773.34 ( -22.62% )
+Acción a tomar: nada recomendable
+
+Nombre: Álvaro Odriozola Arzallus (ID: 901)
+Precio actual: 1765581.00
+Porcentaje de aumento en 5 días: -11.73%
+Porcentaje de aumento en 7 días: -15.11%
+Porcentaje de aumento en 15 días: -26.20%
+Predicción de precio: [1412171.74 / 1482780.32 / 1556919.34] (-0,5% / = / +0,5%) 
+Ganancia potencial: -282800.68 ( -16.02% )
+Acción a tomar: nada recomendable
+
+Nombre: Arnau Puigmal (ID: 1431)
+Precio actual: 1413930.00
+Porcentaje de aumento en 5 días: -13.19%
+Porcentaje de aumento en 7 días: -18.44%
+Porcentaje de aumento en 15 días: -37.25%
+Predicción de precio: [1077238.95 / 1131100.89 / 1187655.94] (-0,5% / = / +0,5%) 
+Ganancia potencial: -282829.11 ( -20.00% )
+Acción a tomar: nada recomendable
+
+Nombre: Dominik Greif (ID: 1184)
+Precio actual: 1330195.00
+Porcentaje de aumento en 5 días: -14.05%
+Porcentaje de aumento en 7 días: -19.43%
+Porcentaje de aumento en 15 días: -38.42%
+Predicción de precio: [993908.41 / 1043603.83 / 1095784.02] (-0,5% / = / +0,5%) 
+Ganancia potencial: -286591.17 ( -21.55% )
+Acción a tomar: nada recomendable
+
+Nombre: Juan Brandáriz Movilla (ID: 1427)
+Precio actual: 1245053.00
+Porcentaje de aumento en 5 días: -15.30%
+Porcentaje de aumento en 7 días: -20.98%
+Porcentaje de aumento en 15 días: -39.82%
+Predicción de precio: [903545.10 / 948722.36 / 996158.48] (-0,5% / = / +0,5%) 
+Ganancia potencial: -296330.64 ( -23.80% )
+Acción a tomar: nada recomendable
+
+Nombre: Jesús Vázquez (ID: 1256)
+Precio actual: 1870797.00
+Porcentaje de aumento en 5 días: -11.25%
+Porcentaje de aumento en 7 días: -15.54%
+Porcentaje de aumento en 15 días: -31.89%
+Predicción de precio: [1489492.88 / 1563967.52 / 1642165.90] (-0,5% / = / +0,5%) 
+Ganancia potencial: -306829.48 ( -16.40% )
+Acción a tomar: nada recomendable
+
+Nombre: Houboulang Mendes (ID: 1476)
+Precio actual: 1419787.00
+Porcentaje de aumento en 5 días: -14.17%
+Porcentaje de aumento en 7 días: -19.37%
+Porcentaje de aumento en 15 días: -37.36%
+Predicción de precio: [1057681.81 / 1110565.90 / 1166094.20] (-0,5% / = / +0,5%) 
+Ganancia potencial: -309221.10 ( -21.78% )
+Acción a tomar: nada recomendable
+
+Nombre: Francisco Beltrán (ID: 148)
+Precio actual: 11898940.00
+Porcentaje de aumento en 5 días: -1.36%
+Porcentaje de aumento en 7 días: -2.53%
+Porcentaje de aumento en 15 días: -2.69%
+Predicción de precio: [11036931.70 / 11588778.29 / 12168217.20] (-0,5% / = / +0,5%) 
+Ganancia potencial: -310161.71 ( -2.61% )
+Acción a tomar: poco recomendable
+
+Nombre: Fabrizio Angileri (ID: 1487)
+Precio actual: 1431642.00
+Porcentaje de aumento en 5 días: -14.15%
+Porcentaje de aumento en 7 días: -19.29%
+Porcentaje de aumento en 15 días: -36.96%
+Predicción de precio: [1065818.55 / 1119109.48 / 1175064.96] (-0,5% / = / +0,5%) 
+Ganancia potencial: -312532.52 ( -21.83% )
+Acción a tomar: nada recomendable
+
+Nombre: Óscar Valentín (ID: 1103)
+Precio actual: 5296243.00
+Porcentaje de aumento en 5 días: -4.62%
+Porcentaje de aumento en 7 días: -6.46%
+Porcentaje de aumento en 15 días: -14.91%
+Predicción de precio: [4743630.85 / 4980812.39 / 5229853.01] (-0,5% / = / +0,5%) 
+Ganancia potencial: -315430.61 ( -5.96% )
+Acción a tomar: muy poco recomendable
+
+Nombre: Juan Antonio Iglesias Sánchez (ID: 1147)
+Precio actual: 1767147.00
+Porcentaje de aumento en 5 días: -11.62%
+Porcentaje de aumento en 7 días: -16.21%
+Porcentaje de aumento en 15 días: -31.99%
+Predicción de precio: [1381122.89 / 1450179.04 / 1522687.99] (-0,5% / = / +0,5%) 
+Ganancia potencial: -316967.96 ( -17.94% )
+Acción a tomar: nada recomendable
+
+Nombre: Santiago Arzamendia Duarte (ID: 1145)
+Precio actual: 1380641.00
+Porcentaje de aumento en 5 días: -14.95%
+Porcentaje de aumento en 7 días: -20.38%
+Porcentaje de aumento en 15 días: -38.97%
+Predicción de precio: [1010561.24 / 1061089.31 / 1114143.77] (-0,5% / = / +0,5%) 
+Ganancia potencial: -319551.69 ( -23.15% )
+Acción a tomar: nada recomendable
+
+Nombre: Williot Swedberg (ID: 1489)
+Precio actual: 1629816.00
+Porcentaje de aumento en 5 días: -13.43%
+Porcentaje de aumento en 7 días: -18.45%
+Porcentaje de aumento en 15 días: -35.98%
+Predicción de precio: [1234459.54 / 1296182.52 / 1360991.64] (-0,5% / = / +0,5%) 
+Ganancia potencial: -333633.48 ( -20.47% )
+Acción a tomar: nada recomendable
+
+Nombre: Alejandro Centelles Plaza (ID: 1426)
+Precio actual: 1851016.00
+Porcentaje de aumento en 5 días: -11.85%
+Porcentaje de aumento en 7 días: -16.44%
+Porcentaje de aumento en 15 días: -32.54%
+Predicción de precio: [1443096.51 / 1515251.34 / 1591013.91] (-0,5% / = / +0,5%) 
+Ganancia potencial: -335764.66 ( -18.14% )
+Acción a tomar: nada recomendable
+
+Nombre: Aitor Fernández Abarisketa (ID: 204)
+Precio actual: 7470462.00
+Porcentaje de aumento en 5 días: -3.01%
+Porcentaje de aumento en 7 días: -4.59%
+Porcentaje de aumento en 15 días: -9.57%
+Predicción de precio: [6790140.93 / 7129647.97 / 7486130.37] (-0,5% / = / +0,5%) 
+Ganancia potencial: -340814.03 ( -4.56% )
+Acción a tomar: poco recomendable
+
+Nombre: Ivan Rakitić (ID: 102)
+Precio actual: 11109335.00
+Porcentaje de aumento en 5 días: -1.25%
+Porcentaje de aumento en 7 días: -2.99%
+Porcentaje de aumento en 15 días: -7.02%
+Predicción de precio: [10254635.98 / 10767367.78 / 11305736.17] (-0,5% / = / +0,5%) 
+Ganancia potencial: -341967.22 ( -3.08% )
+Acción a tomar: poco recomendable
+
+Nombre: Brian Alexis Ocampo Ferreira (ID: 1536)
+Precio actual: 1804449.00
+Porcentaje de aumento en 5 días: -11.94%
+Porcentaje de aumento en 7 días: -16.24%
+Porcentaje de aumento en 15 días: -29.85%
+Predicción de precio: [1385510.78 / 1454786.31 / 1527525.63] (-0,5% / = / +0,5%) 
+Ganancia potencial: -349662.69 ( -19.38% )
+Acción a tomar: nada recomendable
+
+Nombre: Jon Guridi (ID: 856)
+Precio actual: 3909655.00
+Porcentaje de aumento en 5 días: -5.13%
+Porcentaje de aumento en 7 días: -8.27%
+Porcentaje de aumento en 15 días: -19.38%
+Predicción de precio: [3390049.74 / 3559552.23 / 3737529.84] (-0,5% / = / +0,5%) 
+Ganancia potencial: -350102.77 ( -8.95% )
+Acción a tomar: muy poco recomendable
+
+Nombre: Ibrahima Kebe (ID: 1446)
+Precio actual: 1535888.00
+Porcentaje de aumento en 5 días: -15.91%
+Porcentaje de aumento en 7 días: -21.60%
+Porcentaje de aumento en 15 días: -40.95%
+Predicción de precio: [1109009.97 / 1164460.47 / 1222683.49] (-0,5% / = / +0,5%) 
+Ganancia potencial: -371427.53 ( -24.18% )
+Acción a tomar: nada recomendable
+
+Nombre: Gonzalo Melero Manzanares (ID: 228)
+Precio actual: 5345481.00
+Porcentaje de aumento en 5 días: -5.19%
+Porcentaje de aumento en 7 días: -7.32%
+Porcentaje de aumento en 15 días: -14.21%
+Predicción de precio: [4731439.76 / 4968011.75 / 5216412.34] (-0,5% / = / +0,5%) 
+Ganancia potencial: -377469.25 ( -7.06% )
+Acción a tomar: muy poco recomendable
+
+Nombre: Carlos Fernández (ID: 715)
+Precio actual: 2217529.00
+Porcentaje de aumento en 5 días: -11.67%
+Porcentaje de aumento en 7 días: -16.06%
+Porcentaje de aumento en 15 días: -33.14%
+Predicción de precio: [1751771.38 / 1839359.95 / 1931327.95] (-0,5% / = / +0,5%) 
+Ganancia potencial: -378169.05 ( -17.05% )
+Acción a tomar: nada recomendable
+
+Nombre: Álvaro Juan Cruz Armada (ID: 850)
+Precio actual: 3260858.00
+Porcentaje de aumento en 5 días: -8.83%
+Porcentaje de aumento en 7 días: -11.56%
+Porcentaje de aumento en 15 días: -23.32%
+Predicción de precio: [2744622.00 / 2881853.10 / 3025945.76] (-0,5% / = / +0,5%) 
+Ganancia potencial: -379004.90 ( -11.62% )
+Acción a tomar: nada recomendable
+
+Nombre: Antonio Latorre Grueso (ID: 859)
+Precio actual: 2684983.00
+Porcentaje de aumento en 5 días: -5.86%
+Predicción de precio: [2191211.54 / 2300772.11 / 2415810.72] (-0,5% / = / +0,5%) 
+Ganancia potencial: -384210.89 ( -14.31% )
+Acción a tomar: nada recomendable
+
+Nombre: Iván Villar (ID: 140)
+Precio actual: 5064653.00
+Porcentaje de aumento en 5 días: -5.43%
+Porcentaje de aumento en 7 días: -8.05%
+Porcentaje de aumento en 15 días: -17.90%
+Predicción de precio: [4449136.21 / 4671593.02 / 4905172.67] (-0,5% / = / +0,5%) 
+Ganancia potencial: -393059.98 ( -7.76% )
+Acción a tomar: muy poco recomendable
+
+Nombre: Mouctar Diakhaby (ID: 300)
+Precio actual: 8336280.00
+Porcentaje de aumento en 5 días: -3.66%
+Porcentaje de aumento en 7 días: -5.47%
+Porcentaje de aumento en 15 días: -13.10%
+Predicción de precio: [7549991.49 / 7927491.06 / 8323865.61] (-0,5% / = / +0,5%) 
+Ganancia potencial: -408788.94 ( -4.90% )
+Acción a tomar: poco recomendable
+
+Nombre: Eray Ervin Cömert (ID: 1335)
+Precio actual: 2668788.00
+Porcentaje de aumento en 5 días: -10.06%
+Porcentaje de aumento en 7 días: -14.12%
+Porcentaje de aumento en 15 días: -28.51%
+Predicción de precio: [2150308.12 / 2257823.53 / 2370714.70] (-0,5% / = / +0,5%) 
+Ganancia potencial: -410964.47 ( -15.40% )
+Acción a tomar: nada recomendable
+
+Nombre: Miguel Gutiérrez (ID: 1245)
+Precio actual: 8905030.00
+Porcentaje de aumento en 5 días: -1.80%
+Porcentaje de aumento en 7 días: -3.43%
+Porcentaje de aumento en 15 días: -3.23%
+Predicción de precio: [8079985.26 / 8483984.53 / 8908183.75] (-0,5% / = / +0,5%) 
+Ganancia potencial: -421045.47 ( -4.73% )
+Acción a tomar: poco recomendable
+
+Nombre: Thierry Rendall Correia (ID: 742)
+Precio actual: 7424932.00
+Porcentaje de aumento en 5 días: -3.86%
+Porcentaje de aumento en 7 días: -6.79%
+Porcentaje de aumento en 15 días: -16.02%
+Predicción de precio: [6663624.74 / 6996805.98 / 7346646.28] (-0,5% / = / +0,5%) 
+Ganancia potencial: -428126.02 ( -5.77% )
+Acción a tomar: muy poco recomendable
+
+Nombre: Alexander Callens (ID: 1582)
+Precio actual: 1860388.00
+Porcentaje de aumento en 5 días: -14.79%
+Porcentaje de aumento en 7 días: -20.30%
+Porcentaje de aumento en 15 días: -38.94%
+Predicción de precio: [1358842.11 / 1426784.21 / 1498123.42] (-0,5% / = / +0,5%) 
+Ganancia potencial: -433603.79 ( -23.31% )
+Acción a tomar: nada recomendable
+
+Nombre: Rubén Peña Jiménez (ID: 360)
+Precio actual: 4491065.00
+Porcentaje de aumento en 5 días: -6.59%
+Porcentaje de aumento en 7 días: -9.49%
+Porcentaje de aumento en 15 días: -21.24%
+Predicción de precio: [3857574.58 / 4050453.31 / 4252975.98] (-0,5% / = / +0,5%) 
+Ganancia potencial: -440611.69 ( -9.81% )
+Acción a tomar: muy poco recomendable
+
+Nombre: Jon Morcillo (ID: 896)
+Precio actual: 1866946.00
+Porcentaje de aumento en 5 días: -15.21%
+Porcentaje de aumento en 7 días: -20.77%
+Predicción de precio: [1351991.92 / 1419591.52 / 1490571.10] (-0,5% / = / +0,5%) 
+Ganancia potencial: -447354.48 ( -23.96% )
+Acción a tomar: nada recomendable
+
+Nombre: Jaime Mata Arnaiz (ID: 200)
+Precio actual: 3073510.00
+Porcentaje de aumento en 5 días: -9.81%
+Porcentaje de aumento en 7 días: -13.82%
+Porcentaje de aumento en 15 días: -29.24%
+Predicción de precio: [2500648.92 / 2625681.37 / 2756965.44] (-0,5% / = / +0,5%) 
+Ganancia potencial: -447828.63 ( -14.57% )
+Acción a tomar: nada recomendable
+
+Nombre: Martín Merquelanz Castellanos (ID: 855)
+Precio actual: 1814275.00
+Porcentaje de aumento en 5 días: -16.04%
+Porcentaje de aumento en 7 días: -21.76%
+Porcentaje de aumento en 15 días: -40.66%
+Predicción de precio: [1295935.18 / 1360731.94 / 1428768.54] (-0,5% / = / +0,5%) 
+Ganancia potencial: -453543.06 ( -25.00% )
+Acción a tomar: nada recomendable
+
+Nombre: Robert Navarro (ID: 1214)
+Precio actual: 2036878.00
+Porcentaje de aumento en 5 días: -14.48%
+Porcentaje de aumento en 7 días: -19.73%
+Porcentaje de aumento en 15 días: -37.85%
+Predicción de precio: [1503436.28 / 1578608.09 / 1657538.49] (-0,5% / = / +0,5%) 
+Ganancia potencial: -458269.91 ( -22.50% )
+Acción a tomar: nada recomendable
+
+Nombre: Samuel Almeida Costa (ID: 1434)
+Precio actual: 2613512.00
+Porcentaje de aumento en 5 días: -11.04%
+Porcentaje de aumento en 7 días: -15.66%
+Porcentaje de aumento en 15 días: -30.78%
+Predicción de precio: [2048386.06 / 2150805.36 / 2258345.63] (-0,5% / = / +0,5%) 
+Ganancia potencial: -462706.64 ( -17.70% )
+Acción a tomar: nada recomendable
+
+Nombre: Pathé Ciss (ID: 1186)
+Precio actual: 2882800.00
+Porcentaje de aumento en 5 días: -10.92%
+Porcentaje de aumento en 7 días: -15.34%
+Porcentaje de aumento en 15 días: -32.06%
+Predicción de precio: [2302055.30 / 2417158.06 / 2538015.96] (-0,5% / = / +0,5%) 
+Ganancia potencial: -465641.94 ( -16.15% )
+Acción a tomar: nada recomendable
+
+Nombre: Lucas Daniel de la Torre (ID: 1513)
+Precio actual: 2612828.00
+Porcentaje de aumento en 5 días: -10.78%
+Porcentaje de aumento en 7 días: -15.18%
+Porcentaje de aumento en 15 días: -30.24%
+Predicción de precio: [2044509.65 / 2146735.14 / 2254071.89] (-0,5% / = / +0,5%) 
+Ganancia potencial: -466092.86 ( -17.84% )
+Acción a tomar: nada recomendable
+
+Nombre: Julen Agirrezabala (ID: 1219)
+Precio actual: 2388213.00
+Porcentaje de aumento en 5 días: -12.59%
+Porcentaje de aumento en 7 días: -17.72%
+Porcentaje de aumento en 15 días: -35.44%
+Predicción de precio: [1829992.70 / 1921492.34 / 2017566.96] (-0,5% / = / +0,5%) 
+Ganancia potencial: -466720.66 ( -19.54% )
+Acción a tomar: nada recomendable
+
+Nombre: Giovanni González (ID: 1351)
+Precio actual: 2115802.00
+Porcentaje de aumento en 5 días: -13.29%
+Porcentaje de aumento en 7 días: -18.22%
+Porcentaje de aumento en 15 días: -34.48%
+Predicción de precio: [1567408.24 / 1645778.65 / 1728067.58] (-0,5% / = / +0,5%) 
+Ganancia potencial: -470023.35 ( -22.21% )
+Acción a tomar: nada recomendable
+
+Nombre: Martín Montoya Torralbo (ID: 881)
+Precio actual: 2073321.00
+Porcentaje de aumento en 5 días: -13.80%
+Porcentaje de aumento en 7 días: -18.91%
+Porcentaje de aumento en 15 días: -36.84%
+Predicción de precio: [1526215.96 / 1602526.76 / 1682653.10] (-0,5% / = / +0,5%) 
+Ganancia potencial: -470794.24 ( -22.71% )
+Acción a tomar: nada recomendable
+
+Nombre: Largie Ramazani (ID: 1436)
+Precio actual: 4730342.00
+Porcentaje de aumento en 5 días: -6.34%
+Porcentaje de aumento en 7 días: -9.27%
+Porcentaje de aumento en 15 días: -20.23%
+Predicción de precio: [4051022.07 / 4253573.18 / 4466251.84] (-0,5% / = / +0,5%) 
+Ganancia potencial: -476768.82 ( -10.08% )
+Acción a tomar: nada recomendable
+
+Nombre: Mamadou Sylla (ID: 1285)
+Precio actual: 2302722.00
+Porcentaje de aumento en 5 días: -13.49%
+Porcentaje de aumento en 7 días: -18.60%
+Porcentaje de aumento en 15 días: -36.65%
+Predicción de precio: [1736783.88 / 1823623.08 / 1914804.23] (-0,5% / = / +0,5%) 
+Ganancia potencial: -479098.92 ( -20.81% )
+Acción a tomar: nada recomendable
+
+Nombre: Stefan Mitrovic (ID: 1148)
+Precio actual: 4251430.00
+Porcentaje de aumento en 5 días: -7.47%
+Porcentaje de aumento en 7 días: -11.23%
+Porcentaje de aumento en 15 días: -25.36%
+Predicción de precio: [3583035.41 / 3762187.18 / 3950296.54] (-0,5% / = / +0,5%) 
+Ganancia potencial: -489242.82 ( -11.51% )
+Acción a tomar: nada recomendable
+
+Nombre: Aissa Mandi (ID: 118)
+Precio actual: 5638535.00
+Porcentaje de aumento en 5 días: -4.79%
+Porcentaje de aumento en 7 días: -8.13%
+Porcentaje de aumento en 15 días: -19.42%
+Predicción de precio: [4902082.62 / 5147186.75 / 5404546.09] (-0,5% / = / +0,5%) 
+Ganancia potencial: -491348.25 ( -8.71% )
+Acción a tomar: muy poco recomendable
+
+Nombre: Antonio Sivera (ID: 988)
+Precio actual: 5583622.00
+Porcentaje de aumento en 5 días: -5.03%
+Porcentaje de aumento en 7 días: -7.79%
+Porcentaje de aumento en 15 días: -15.90%
+Predicción de precio: [4848039.39 / 5090441.36 / 5344963.43] (-0,5% / = / +0,5%) 
+Ganancia potencial: -493180.64 ( -8.83% )
+Acción a tomar: muy poco recomendable
+
+Nombre: Valery Fernández (ID: 1450)
+Precio actual: 2384039.00
+Porcentaje de aumento en 5 días: -13.25%
+Porcentaje de aumento en 7 días: -18.46%
+Porcentaje de aumento en 15 días: -35.37%
+Predicción de precio: [1795384.30 / 1885153.51 / 1979411.19] (-0,5% / = / +0,5%) 
+Ganancia potencial: -498885.49 ( -20.93% )
+Acción a tomar: nada recomendable
+
+Nombre: Ignacio Vidal Miralles (ID: 642)
+Precio actual: 2262075.00
+Porcentaje de aumento en 5 días: -14.52%
+Porcentaje de aumento en 7 días: -19.78%
+Porcentaje de aumento en 15 días: -37.92%
+Predicción de precio: [1671252.11 / 1754814.72 / 1842555.45] (-0,5% / = / +0,5%) 
+Ganancia potencial: -507260.28 ( -22.42% )
+Acción a tomar: nada recomendable
+
+Nombre: Mikel Merino Zazón (ID: 271)
+Precio actual: 43658051.00
+Porcentaje de aumento en 5 días: -1.71%
+Porcentaje de aumento en 7 días: -1.18%
+Porcentaje de aumento en 15 días: 7.16%
+Predicción de precio: [41095167.69 / 43149926.08 / 45307422.38] (-0,5% / = / +0,5%) 
+Ganancia potencial: -508124.92 ( -1.16% )
+Acción a tomar: mantener
+
+Nombre: Jon Pacheco (ID: 1216)
+Precio actual: 2677628.00
+Porcentaje de aumento en 5 días: -12.47%
+Porcentaje de aumento en 7 días: -17.23%
+Porcentaje de aumento en 15 días: -33.22%
+Predicción de precio: [2056533.22 / 2159359.88 / 2267327.87] (-0,5% / = / +0,5%) 
+Ganancia potencial: -518268.12 ( -19.36% )
+Acción a tomar: nada recomendable
+
+Nombre: Srdjan Babic (ID: 1428)
+Precio actual: 6733080.00
+Porcentaje de aumento en 5 días: -5.66%
+Porcentaje de aumento en 7 días: -8.55%
+Porcentaje de aumento en 15 días: -19.95%
+Predicción de precio: [5905802.10 / 6201092.20 / 6511146.81] (-0,5% / = / +0,5%) 
+Ganancia potencial: -531987.80 ( -7.90% )
+Acción a tomar: muy poco recomendable
+
+Nombre: Lázaro Vinícius Marques (ID: 1548)
+Precio actual: 3248358.00
+Porcentaje de aumento en 5 días: -10.28%
+Porcentaje de aumento en 7 días: -14.34%
+Porcentaje de aumento en 15 días: -30.69%
+Predicción de precio: [2585939.41 / 2715236.38 / 2850998.19] (-0,5% / = / +0,5%) 
+Ganancia potencial: -533121.62 ( -16.41% )
+Acción a tomar: nada recomendable
+
+Nombre: Jaume Domenech Sánchez (ID: 298)
+Precio actual: 2649622.00
+Porcentaje de aumento en 5 días: -13.30%
+Porcentaje de aumento en 7 días: -18.33%
+Porcentaje de aumento en 15 días: -35.68%
+Predicción de precio: [2012681.77 / 2113315.86 / 2218981.65] (-0,5% / = / +0,5%) 
+Ganancia potencial: -536306.14 ( -20.24% )
+Acción a tomar: nada recomendable
+
+Nombre: Aleksandar Sedlar (ID: 1091)
+Precio actual: 3948241.00
+Porcentaje de aumento en 5 días: -8.61%
+Porcentaje de aumento en 7 días: -13.14%
+Porcentaje de aumento en 15 días: -29.17%
+Predicción de precio: [3243977.13 / 3406175.99 / 3576484.79] (-0,5% / = / +0,5%) 
+Ganancia potencial: -542065.01 ( -13.73% )
+Acción a tomar: nada recomendable
+
+Nombre: Dimitri Foulquier (ID: 768)
+Precio actual: 3543066.00
+Porcentaje de aumento en 5 días: -10.65%
+Porcentaje de aumento en 7 días: -14.54%
+Porcentaje de aumento en 15 días: -30.51%
+Predicción de precio: [2852002.66 / 2994602.80 / 3144332.94] (-0,5% / = / +0,5%) 
+Ganancia potencial: -548463.20 ( -15.48% )
+Acción a tomar: nada recomendable
+
+Nombre: Roger Martí Salvador (ID: 222)
+Precio actual: 4102700.00
+Porcentaje de aumento en 5 días: -8.67%
+Porcentaje de aumento en 7 días: -12.59%
+Porcentaje de aumento en 15 días: -28.01%
+Predicción de precio: [3384322.62 / 3553538.75 / 3731215.69] (-0,5% / = / +0,5%) 
+Ganancia potencial: -549161.25 ( -13.39% )
+Acción a tomar: nada recomendable
+
+Nombre: Íñigo Eguaras (ID: 1413)
+Precio actual: 2554487.00
+Porcentaje de aumento en 5 días: -14.06%
+Porcentaje de aumento en 7 días: -19.40%
+Porcentaje de aumento en 15 días: -37.96%
+Predicción de precio: [1906271.27 / 2001584.83 / 2101664.07] (-0,5% / = / +0,5%) 
+Ganancia potencial: -552902.17 ( -21.64% )
+Acción a tomar: nada recomendable
+
+Nombre: Manuel Javier Vallejo Galván (ID: 568)
+Precio actual: 2256884.00
+Porcentaje de aumento en 5 días: -14.55%
+Porcentaje de aumento en 7 días: -19.82%
+Porcentaje de aumento en 15 días: -37.75%
+Predicción de precio: [1622503.64 / 1703628.83 / 1788810.27] (-0,5% / = / +0,5%) 
+Ganancia potencial: -553255.17 ( -24.51% )
+Acción a tomar: nada recomendable
+
+Nombre: Abdón Prats (ID: 1081)
+Precio actual: 2440647.00
+Porcentaje de aumento en 5 días: -14.88%
+Porcentaje de aumento en 7 días: -20.25%
+Porcentaje de aumento en 15 días: -39.02%
+Predicción de precio: [1792161.85 / 1881769.94 / 1975858.44] (-0,5% / = / +0,5%) 
+Ganancia potencial: -558877.06 ( -22.90% )
+Acción a tomar: nada recomendable
+
+Nombre: Luis Rioja (ID: 581)
+Precio actual: 10453271.00
+Porcentaje de aumento en 5 días: -3.03%
+Porcentaje de aumento en 7 días: -5.06%
+Porcentaje de aumento en 15 días: -10.60%
+Predicción de precio: [9421751.45 / 9892839.02 / 10387480.97] (-0,5% / = / +0,5%) 
+Ganancia potencial: -560431.98 ( -5.36% )
+Acción a tomar: muy poco recomendable
+
+Nombre: Jaime Seoane (ID: 1473)
+Precio actual: 2496179.00
+Porcentaje de aumento en 5 días: -14.61%
+Porcentaje de aumento en 7 días: -20.04%
+Porcentaje de aumento en 15 días: -38.72%
+Predicción de precio: [1839808.92 / 1931799.37 / 2028389.34] (-0,5% / = / +0,5%) 
+Ganancia potencial: -564379.63 ( -22.61% )
+Acción a tomar: nada recomendable
+
+Nombre: Dani García Carrillo (ID: 80)
+Precio actual: 2506074.00
+Porcentaje de aumento en 5 días: -14.70%
+Porcentaje de aumento en 7 días: -20.15%
+Porcentaje de aumento en 15 días: -38.68%
+Predicción de precio: [1848803.81 / 1941244.00 / 2038306.20] (-0,5% / = / +0,5%) 
+Ganancia potencial: -564830.00 ( -22.54% )
+Acción a tomar: nada recomendable
+
+Nombre: Iván Alejo Peralta (ID: 812)
+Precio actual: 2549076.00
+Porcentaje de aumento en 5 días: -14.54%
+Porcentaje de aumento en 7 días: -19.91%
+Porcentaje de aumento en 15 días: -37.97%
+Predicción de precio: [1877640.85 / 1971522.89 / 2070099.04] (-0,5% / = / +0,5%) 
+Ganancia potencial: -577553.11 ( -22.66% )
+Acción a tomar: nada recomendable
+
+Nombre: Salvador Sevilla (ID: 1071)
+Precio actual: 3052478.00
+Porcentaje de aumento en 5 días: -12.57%
+Porcentaje de aumento en 7 días: -17.34%
+Porcentaje de aumento en 15 días: -34.40%
+Predicción de precio: [2355613.69 / 2473394.38 / 2597064.09] (-0,5% / = / +0,5%) 
+Ganancia potencial: -579083.62 ( -18.97% )
+Acción a tomar: nada recomendable
+
+Nombre: Abdelkabir Abqar (ID: 1265)
+Precio actual: 4400752.00
+Porcentaje de aumento en 5 días: -8.73%
+Porcentaje de aumento en 7 días: -12.79%
+Porcentaje de aumento en 15 días: -27.83%
+Predicción de precio: [3638851.37 / 3820793.93 / 4011833.63] (-0,5% / = / +0,5%) 
+Ganancia potencial: -579958.07 ( -13.18% )
+Acción a tomar: nada recomendable
+
+Nombre: Óscar Mingueza (ID: 991)
+Precio actual: 4608763.00
+Porcentaje de aumento en 5 días: -8.19%
+Porcentaje de aumento en 7 días: -11.88%
+Porcentaje de aumento en 15 días: -25.62%
+Predicción de precio: [3826069.71 / 4017373.19 / 4218241.85] (-0,5% / = / +0,5%) 
+Ganancia potencial: -591389.81 ( -12.83% )
+Acción a tomar: nada recomendable
+
+Nombre: Youssouf Sabaly (ID: 1133)
+Precio actual: 6138524.00
+Porcentaje de aumento en 5 días: -6.17%
+Porcentaje de aumento en 7 días: -8.90%
+Porcentaje de aumento en 15 días: -17.40%
+Predicción de precio: [5281408.67 / 5545479.10 / 5822753.06] (-0,5% / = / +0,5%) 
+Ganancia potencial: -593044.90 ( -9.66% )
+Acción a tomar: muy poco recomendable
+
+Nombre: Asier Illarramendi Andonegi (ID: 269)
+Precio actual: 3055478.00
+Porcentaje de aumento en 5 días: -12.55%
+Porcentaje de aumento en 7 días: -17.47%
+Porcentaje de aumento en 15 días: -34.26%
+Predicción de precio: [2344886.18 / 2462130.49 / 2585237.01] (-0,5% / = / +0,5%) 
+Ganancia potencial: -593347.51 ( -19.42% )
+Acción a tomar: nada recomendable
+
+Nombre: Fernando Martínez (ID: 1422)
+Precio actual: 6841947.00
+Porcentaje de aumento en 5 días: -4.36%
+Porcentaje de aumento en 7 días: -6.28%
+Porcentaje de aumento en 15 días: -9.09%
+Predicción de precio: [5949875.77 / 6247369.56 / 6559738.04] (-0,5% / = / +0,5%) 
+Ganancia potencial: -594577.44 ( -8.69% )
+Acción a tomar: muy poco recomendable
+
+Nombre: Njegos Petrovic (ID: 1348)
+Precio actual: 3047861.00
+Porcentaje de aumento en 5 días: -13.24%
+Porcentaje de aumento en 7 días: -17.61%
+Porcentaje de aumento en 15 días: -34.23%
+Predicción de precio: [2330582.17 / 2447111.28 / 2569466.84] (-0,5% / = / +0,5%) 
+Ganancia potencial: -600749.72 ( -19.71% )
+Acción a tomar: nada recomendable
+
+Nombre: Rafael Giménez 'Fali' (ID: 805)
+Precio actual: 5226655.00
+Porcentaje de aumento en 5 días: -7.78%
+Porcentaje de aumento en 7 días: -11.49%
+Porcentaje de aumento en 15 días: -25.25%
+Predicción de precio: [4399186.59 / 4619145.92 / 4850103.22] (-0,5% / = / +0,5%) 
+Ganancia potencial: -607509.08 ( -11.62% )
+Acción a tomar: nada recomendable
+
+Nombre: Salvador Sánchez Ponce (ID: 822)
+Precio actual: 2445846.00
+Porcentaje de aumento en 5 días: -14.59%
+Porcentaje de aumento en 7 días: -20.03%
+Porcentaje de aumento en 15 días: -38.57%
+Predicción de precio: [1748165.76 / 1835574.05 / 1927352.75] (-0,5% / = / +0,5%) 
+Ganancia potencial: -610271.95 ( -24.95% )
+Acción a tomar: nada recomendable
+
+Nombre: Tanguy-Austin Nianzou Kouassi (ID: 1515)
+Precio actual: 4282039.00
+Porcentaje de aumento en 5 días: -9.12%
+Porcentaje de aumento en 7 días: -12.63%
+Porcentaje de aumento en 15 días: -25.91%
+Predicción de precio: [3490081.84 / 3664585.94 / 3847815.23] (-0,5% / = / +0,5%) 
+Ganancia potencial: -617453.06 ( -14.42% )
+Acción a tomar: nada recomendable
+
+Nombre: Aihen Muñoz (ID: 260)
+Precio actual: 5850859.00
+Porcentaje de aumento en 5 días: -6.66%
+Porcentaje de aumento en 7 días: -9.64%
+Porcentaje de aumento en 15 días: -20.60%
+Predicción de precio: [4976440.63 / 5225262.66 / 5486525.80] (-0,5% / = / +0,5%) 
+Ganancia potencial: -625596.34 ( -10.69% )
+Acción a tomar: nada recomendable
+
+Nombre: Borja Mayoral (ID: 1329)
+Precio actual: 5345819.00
+Porcentaje de aumento en 5 días: -7.41%
+Porcentaje de aumento en 7 días: -10.52%
+Porcentaje de aumento en 15 días: -22.10%
+Predicción de precio: [4494773.68 / 4719512.36 / 4955487.98] (-0,5% / = / +0,5%) 
+Ganancia potencial: -626306.64 ( -11.72% )
+Acción a tomar: nada recomendable
+
+Nombre: Sergio González (ID: 1359)
+Precio actual: 2498119.00
+Porcentaje de aumento en 5 días: -16.92%
+Porcentaje de aumento en 7 días: -22.98%
+Porcentaje de aumento en 15 días: -43.38%
+Predicción de precio: [1781179.91 / 1870238.91 / 1963750.86] (-0,5% / = / +0,5%) 
+Ganancia potencial: -627880.09 ( -25.13% )
+Acción a tomar: nada recomendable
+
+Nombre: David Remeseiro Salgueiro (ID: 317)
+Precio actual: 2848194.00
+Porcentaje de aumento en 5 días: -14.07%
+Porcentaje de aumento en 7 días: -19.34%
+Porcentaje de aumento en 15 días: -37.37%
+Predicción de precio: [2112786.27 / 2218425.58 / 2329346.86] (-0,5% / = / +0,5%) 
+Ganancia potencial: -629768.42 ( -22.11% )
+Acción a tomar: nada recomendable
+
+Nombre: Antonio Sánchez (ID: 1069)
+Precio actual: 2860588.00
+Porcentaje de aumento en 5 días: -14.29%
+Porcentaje de aumento en 7 días: -19.44%
+Porcentaje de aumento en 15 días: -37.73%
+Predicción de precio: [2123417.81 / 2229588.70 / 2341068.14] (-0,5% / = / +0,5%) 
+Ganancia potencial: -630999.30 ( -22.06% )
+Acción a tomar: nada recomendable
+
+Nombre: Clément Grenier (ID: 1354)
+Precio actual: 2682754.00
+Porcentaje de aumento en 5 días: -15.97%
+Porcentaje de aumento en 7 días: -21.22%
+Porcentaje de aumento en 15 días: -40.69%
+Predicción de precio: [1951099.69 / 2048654.67 / 2151087.40] (-0,5% / = / +0,5%) 
+Ganancia potencial: -634099.33 ( -23.64% )
+Acción a tomar: nada recomendable
+
+Nombre: Rubén Duarte (ID: 365)
+Precio actual: 6753556.00
+Porcentaje de aumento en 5 días: -6.67%
+Porcentaje de aumento en 7 días: -9.61%
+Porcentaje de aumento en 15 días: -21.21%
+Predicción de precio: [5827344.61 / 6118711.84 / 6424647.43] (-0,5% / = / +0,5%) 
+Ganancia potencial: -634844.16 ( -9.40% )
+Acción a tomar: muy poco recomendable
+
+Nombre: Memphis Depay (ID: 1131)
+Precio actual: 17308860.00
+Porcentaje de aumento en 5 días: -1.46%
+Porcentaje de aumento en 7 días: -3.57%
+Porcentaje de aumento en 15 días: -10.10%
+Predicción de precio: [15878305.16 / 16672220.42 / 17505831.44] (-0,5% / = / +0,5%) 
+Ganancia potencial: -636639.58 ( -3.68% )
+Acción a tomar: poco recomendable
+
+Nombre: Miguel De la Fuente (ID: 1283)
+Precio actual: 3274228.00
+Porcentaje de aumento en 5 días: -12.63%
+Porcentaje de aumento en 7 días: -17.70%
+Porcentaje de aumento en 15 días: -35.22%
+Predicción de precio: [2508591.09 / 2634020.64 / 2765721.67] (-0,5% / = / +0,5%) 
+Ganancia potencial: -640207.36 ( -19.55% )
+Acción a tomar: nada recomendable
+
+Nombre: Franco Emanuel Cervi (ID: 1134)
+Precio actual: 3666858.00
+Porcentaje de aumento en 5 días: -10.83%
+Porcentaje de aumento en 7 días: -15.10%
+Porcentaje de aumento en 15 días: -30.15%
+Predicción de precio: [2875230.19 / 3018991.70 / 3169941.28] (-0,5% / = / +0,5%) 
+Ganancia potencial: -647866.30 ( -17.67% )
+Acción a tomar: nada recomendable
+
+Nombre: Jorge Resurrección Merodio (ID: 58)
+Precio actual: 17505876.00
+Porcentaje de aumento en 5 días: -2.18%
+Porcentaje de aumento en 7 días: -3.25%
+Porcentaje de aumento en 15 días: -6.38%
+Predicción de precio: [16052853.03 / 16855495.68 / 17698270.47] (-0,5% / = / +0,5%) 
+Ganancia potencial: -650380.32 ( -3.72% )
+Acción a tomar: poco recomendable
+
+Nombre: Marcos André de Sousa Mendonça (ID: 1293)
+Precio actual: 2704140.00
+Porcentaje de aumento en 5 días: -15.47%
+Porcentaje de aumento en 7 días: -21.10%
+Porcentaje de aumento en 15 días: -40.11%
+Predicción de precio: [1953106.15 / 2050761.46 / 2153299.53] (-0,5% / = / +0,5%) 
+Ganancia potencial: -653378.54 ( -24.16% )
+Acción a tomar: nada recomendable
+
+Nombre: Jorge Cuenca (ID: 1261)
+Precio actual: 5149847.00
+Porcentaje de aumento en 5 días: -7.52%
+Porcentaje de aumento en 7 días: -11.40%
+Porcentaje de aumento en 15 días: -25.42%
+Predicción de precio: [4280325.29 / 4494341.56 / 4719058.63] (-0,5% / = / +0,5%) 
+Ganancia potencial: -655505.44 ( -12.73% )
+Acción a tomar: nada recomendable
+
+Nombre: Alejandro Pozo (ID: 1253)
+Precio actual: 3879022.00
+Porcentaje de aumento en 5 días: -10.37%
+Porcentaje de aumento en 7 días: -14.74%
+Porcentaje de aumento en 15 días: -30.77%
+Predicción de precio: [3063188.41 / 3216347.83 / 3377165.22] (-0,5% / = / +0,5%) 
+Ganancia potencial: -662674.17 ( -17.08% )
+Acción a tomar: nada recomendable
+
+Nombre: Diego Rico Salguero (ID: 1179)
+Precio actual: 4131206.00
+Porcentaje de aumento en 5 días: -10.31%
+Porcentaje de aumento en 7 días: -13.87%
+Porcentaje de aumento en 15 días: -26.72%
+Predicción de precio: [3301925.80 / 3467022.09 / 3640373.20] (-0,5% / = / +0,5%) 
+Ganancia potencial: -664183.91 ( -16.08% )
+Acción a tomar: nada recomendable
+
+Nombre: Carlos Aleñá (ID: 1146)
+Precio actual: 6571970.00
+Porcentaje de aumento en 5 días: -7.89%
+Porcentaje de aumento en 7 días: -11.24%
+Porcentaje de aumento en 15 días: -25.31%
+Predicción de precio: [5625959.17 / 5907257.13 / 6202619.99] (-0,5% / = / +0,5%) 
+Ganancia potencial: -664712.87 ( -10.11% )
+Acción a tomar: nada recomendable
+
+Nombre: Unai López (ID: 82)
+Precio actual: 3923558.00
+Porcentaje de aumento en 5 días: -10.44%
+Porcentaje de aumento en 7 días: -14.60%
+Porcentaje de aumento en 15 días: -29.70%
+Predicción de precio: [3102069.32 / 3257172.79 / 3420031.43] (-0,5% / = / +0,5%) 
+Ganancia potencial: -666385.21 ( -16.98% )
+Acción a tomar: nada recomendable
+
+Nombre: Óscar Melendo (ID: 1051)
+Precio actual: 4834044.00
+Porcentaje de aumento en 5 días: -8.59%
+Porcentaje de aumento en 7 días: -12.09%
+Porcentaje de aumento en 15 días: -24.67%
+Predicción de precio: [3967480.64 / 4165854.67 / 4374147.40] (-0,5% / = / +0,5%) 
+Ganancia potencial: -668189.33 ( -13.82% )
+Acción a tomar: nada recomendable
+
+Nombre: Federico San Emeterio Díaz (ID: 1325)
+Precio actual: 3262173.00
+Porcentaje de aumento en 5 días: -13.46%
+Porcentaje de aumento en 7 días: -18.42%
+Porcentaje de aumento en 15 días: -35.89%
+Predicción de precio: [2467193.81 / 2590553.50 / 2720081.18] (-0,5% / = / +0,5%) 
+Ganancia potencial: -671619.50 ( -20.59% )
+Acción a tomar: nada recomendable
+
+Nombre: Aitor Ruibal García (ID: 882)
+Precio actual: 3506197.00
+Porcentaje de aumento en 5 días: -12.65%
+Porcentaje de aumento en 7 días: -17.24%
+Porcentaje de aumento en 15 días: -33.65%
+Predicción de precio: [2697940.32 / 2832837.34 / 2974479.20] (-0,5% / = / +0,5%) 
+Ganancia potencial: -673359.66 ( -19.20% )
+Acción a tomar: nada recomendable
+
+Nombre: Daniel Vivian (ID: 1222)
+Precio actual: 13040859.00
+Porcentaje de aumento en 5 días: -2.73%
+Porcentaje de aumento en 7 días: -4.82%
+Porcentaje de aumento en 15 días: -10.47%
+Predicción de precio: [11776883.50 / 12365727.67 / 12984014.06] (-0,5% / = / +0,5%) 
+Ganancia potencial: -675131.33 ( -5.18% )
+Acción a tomar: muy poco recomendable
+
+Nombre: Amath Ndiaye (ID: 1093)
+Precio actual: 3179872.00
+Porcentaje de aumento en 5 días: -14.12%
+Porcentaje de aumento en 7 días: -19.33%
+Porcentaje de aumento en 15 días: -38.06%
+Predicción de precio: [2384773.57 / 2504012.25 / 2629212.86] (-0,5% / = / +0,5%) 
+Ganancia potencial: -675859.75 ( -21.25% )
+Acción a tomar: nada recomendable
+
+Nombre: Andriy Lunin (ID: 908)
+Precio actual: 2974707.00
+Porcentaje de aumento en 5 días: -14.71%
+Porcentaje de aumento en 7 días: -20.14%
+Porcentaje de aumento en 15 días: -38.96%
+Predicción de precio: [2189042.29 / 2298494.41 / 2413419.13] (-0,5% / = / +0,5%) 
+Ganancia potencial: -676212.59 ( -22.73% )
+Acción a tomar: nada recomendable
+
+Nombre: Rodrigo Riquelme (ID: 1169)
+Precio actual: 8563490.00
+Porcentaje de aumento en 5 días: -6.21%
+Porcentaje de aumento en 7 días: -8.06%
+Porcentaje de aumento en 15 días: -15.43%
+Predicción de precio: [7508518.84 / 7883944.79 / 8278142.03] (-0,5% / = / +0,5%) 
+Ganancia potencial: -679545.21 ( -7.94% )
+Acción a tomar: muy poco recomendable
+
+Nombre: Rubén García Santos (ID: 652)
+Precio actual: 5443085.00
+Porcentaje de aumento en 5 días: -9.39%
+Porcentaje de aumento en 7 días: -12.60%
+Porcentaje de aumento en 15 días: -24.81%
+Predicción de precio: [4521583.96 / 4747663.16 / 4985046.32] (-0,5% / = / +0,5%) 
+Ganancia potencial: -695421.84 ( -12.78% )
+Acción a tomar: nada recomendable
+
+Nombre: Francisco Portill (ID: 1417)
+Precio actual: 2986910.00
+Porcentaje de aumento en 5 días: -15.20%
+Porcentaje de aumento en 7 días: -20.57%
+Porcentaje de aumento en 15 días: -39.34%
+Predicción de precio: [2182094.11 / 2291198.82 / 2405758.76] (-0,5% / = / +0,5%) 
+Ganancia potencial: -695711.18 ( -23.29% )
+Acción a tomar: nada recomendable
+
+Nombre: Leonardo Carrilho Baptistão (ID: 1522)
+Precio actual: 2773354.00
+Porcentaje de aumento en 5 días: -14.89%
+Porcentaje de aumento en 7 días: -20.17%
+Porcentaje de aumento en 15 días: -38.73%
+Predicción de precio: [1975646.69 / 2074429.03 / 2178150.48] (-0,5% / = / +0,5%) 
+Ganancia potencial: -698924.97 ( -25.20% )
+Acción a tomar: nada recomendable
+
+Nombre: Luis Hernández Rodríguez (ID: 1344)
+Precio actual: 5037833.00
+Porcentaje de aumento en 5 días: -9.10%
+Porcentaje de aumento en 7 días: -12.40%
+Porcentaje de aumento en 15 días: -25.71%
+Predicción de precio: [4120766.39 / 4326804.71 / 4543144.95] (-0,5% / = / +0,5%) 
+Ganancia potencial: -711028.29 ( -14.11% )
+Acción a tomar: nada recomendable
+
+Nombre: Hugo Duro Perales (ID: 1191)
+Precio actual: 5091323.00
+Porcentaje de aumento en 5 días: -8.53%
+Porcentaje de aumento en 7 días: -12.34%
+Porcentaje de aumento en 15 días: -26.38%
+Predicción de precio: [4170442.76 / 4378964.90 / 4597913.14] (-0,5% / = / +0,5%) 
+Ganancia potencial: -712358.10 ( -13.99% )
+Acción a tomar: nada recomendable
+
+Nombre: Cristhian Stuani (ID: 1447)
+Precio actual: 6618258.00
+Porcentaje de aumento en 5 días: -7.75%
+Porcentaje de aumento en 7 días: -11.12%
+Porcentaje de aumento en 15 días: -24.21%
+Predicción de precio: [5624636.75 / 5905868.59 / 6201162.02] (-0,5% / = / +0,5%) 
+Ganancia potencial: -712389.41 ( -10.76% )
+Acción a tomar: nada recomendable
+
+Nombre: Rodrigo Ely (ID: 366)
+Precio actual: 7490392.00
+Porcentaje de aumento en 5 días: -6.54%
+Porcentaje de aumento en 7 días: -8.79%
+Porcentaje de aumento en 15 días: -15.93%
+Predicción de precio: [6452001.26 / 6774601.32 / 7113331.38] (-0,5% / = / +0,5%) 
+Ganancia potencial: -715790.68 ( -9.56% )
+Acción a tomar: muy poco recomendable
+
+Nombre: Ignasi Miquel (ID: 1190)
+Precio actual: 4020521.00
+Porcentaje de aumento en 5 días: -11.50%
+Porcentaje de aumento en 7 días: -16.32%
+Porcentaje de aumento en 15 días: -33.33%
+Predicción de precio: [3143845.30 / 3301037.56 / 3466089.44] (-0,5% / = / +0,5%) 
+Ganancia potencial: -719483.44 ( -17.90% )
+Acción a tomar: nada recomendable
+
+Nombre: Radamel Falcao García Zárate (ID: 1312)
+Precio actual: 3456368.00
+Porcentaje de aumento en 5 días: -13.68%
+Porcentaje de aumento en 7 días: -18.84%
+Porcentaje de aumento en 15 días: -36.81%
+Predicción de precio: [2602026.71 / 2732128.04 / 2868734.44] (-0,5% / = / +0,5%) 
+Ganancia potencial: -724239.96 ( -20.95% )
+Acción a tomar: nada recomendable
+
+Nombre: Rafael Mir Vicente (ID: 1275)
+Precio actual: 7186300.00
+Porcentaje de aumento en 5 días: -6.19%
+Porcentaje de aumento en 7 días: -9.60%
+Porcentaje de aumento en 15 días: -21.28%
+Predicción de precio: [6150756.98 / 6458294.83 / 6781209.57] (-0,5% / = / +0,5%) 
+Ganancia potencial: -728005.17 ( -10.13% )
+Acción a tomar: nada recomendable
+
+Nombre: Carlos Neva (ID: 597)
+Precio actual: 5177788.00
+Porcentaje de aumento en 5 días: -8.74%
+Porcentaje de aumento en 7 días: -12.35%
+Porcentaje de aumento en 15 días: -25.09%
+Predicción de precio: [4237240.58 / 4449102.61 / 4671557.74] (-0,5% / = / +0,5%) 
+Ganancia potencial: -728685.39 ( -14.07% )
+Acción a tomar: nada recomendable
+
+Nombre: Gonzalo Ariel Montiel (ID: 1280)
+Precio actual: 6766633.00
+Porcentaje de aumento en 5 días: -7.07%
+Porcentaje de aumento en 7 días: -10.40%
+Porcentaje de aumento en 15 días: -21.54%
+Predicción de precio: [5743704.01 / 6030889.21 / 6332433.67] (-0,5% / = / +0,5%) 
+Ganancia potencial: -735743.79 ( -10.87% )
+Acción a tomar: nada recomendable
+
+Nombre: Joseph Aidoo (ID: 665)
+Precio actual: 8620149.00
+Porcentaje de aumento en 5 días: -4.58%
+Porcentaje de aumento en 7 días: -7.89%
+Porcentaje de aumento en 15 días: -15.51%
+Predicción de precio: [7506718.90 / 7882054.85 / 8276157.59] (-0,5% / = / +0,5%) 
+Ganancia potencial: -738094.15 ( -8.56% )
+Acción a tomar: muy poco recomendable
+
+Nombre: Axel Witsel (ID: 1477)
+Precio actual: 7648781.00
+Porcentaje de aumento en 5 días: -7.07%
+Porcentaje de aumento en 7 días: -9.97%
+Porcentaje de aumento en 15 días: -22.92%
+Predicción de precio: [6581399.96 / 6910469.96 / 7255993.46] (-0,5% / = / +0,5%) 
+Ganancia potencial: -738311.04 ( -9.65% )
+Acción a tomar: muy poco recomendable
+
+Nombre: Germán Pezzella (ID: 1295)
+Precio actual: 10886276.00
+Porcentaje de aumento en 5 días: -2.35%
+Porcentaje de aumento en 7 días: -2.79%
+Porcentaje de aumento en 15 días: 1.22%
+Predicción de precio: [9658820.95 / 10141762.00 / 10648850.10] (-0,5% / = / +0,5%) 
+Ganancia potencial: -744514.00 ( -6.84% )
+Acción a tomar: muy poco recomendable
+
+Nombre: Claudio Bravo (ID: 905)
+Precio actual: 5253789.00
+Porcentaje de aumento en 5 días: -10.01%
+Porcentaje de aumento en 7 días: -14.08%
+Porcentaje de aumento en 15 días: -28.64%
+Predicción de precio: [4285928.97 / 4500225.41 / 4725236.69] (-0,5% / = / +0,5%) 
+Ganancia potencial: -753563.59 ( -14.34% )
+Acción a tomar: nada recomendable
+
+Nombre: Ernesto Valverde (ID: 1481)
+Precio actual: 3349186.00
+Porcentaje de aumento en 5 días: -15.74%
+Porcentaje de aumento en 7 días: -21.71%
+Porcentaje de aumento en 15 días: -42.71%
+Predicción de precio: [2459166.47 / 2582124.79 / 2711231.03] (-0,5% / = / +0,5%) 
+Ganancia potencial: -767061.21 ( -22.90% )
+Acción a tomar: nada recomendable
+
+Nombre: José Antonio Rodríguez Díaz (ID: 602)
+Precio actual: 4693115.00
+Porcentaje de aumento en 5 días: -10.43%
+Porcentaje de aumento en 7 días: -14.15%
+Porcentaje de aumento en 15 días: -26.95%
+Predicción de precio: [3730708.52 / 3917243.95 / 4113106.15] (-0,5% / = / +0,5%) 
+Ganancia potencial: -775871.05 ( -16.53% )
+Acción a tomar: nada recomendable
+
+Nombre: Hugo Guillamón (ID: 876)
+Precio actual: 6777387.00
+Porcentaje de aumento en 5 días: -8.58%
+Porcentaje de aumento en 7 días: -11.46%
+Porcentaje de aumento en 15 días: -22.37%
+Predicción de precio: [5713824.95 / 5999516.20 / 6299492.01] (-0,5% / = / +0,5%) 
+Ganancia potencial: -777870.80 ( -11.48% )
+Acción a tomar: nada recomendable
+
+Nombre: Saúl Ñíguez Esclápez (ID: 62)
+Precio actual: 5034002.00
+Porcentaje de aumento en 5 días: -11.56%
+Porcentaje de aumento en 7 días: -15.78%
+Porcentaje de aumento en 15 días: -30.71%
+Predicción de precio: [4044873.77 / 4247117.46 / 4459473.33] (-0,5% / = / +0,5%) 
+Ganancia potencial: -786884.54 ( -15.63% )
+Acción a tomar: nada recomendable
+
+Nombre: Enrique Barja (ID: 651)
+Precio actual: 3895925.00
+Porcentaje de aumento en 5 días: -12.83%
+Porcentaje de aumento en 7 días: -17.63%
+Porcentaje de aumento en 15 días: -34.52%
+Predicción de precio: [2960369.20 / 3108387.66 / 3263807.04] (-0,5% / = / +0,5%) 
+Ganancia potencial: -787537.34 ( -20.21% )
+Acción a tomar: nada recomendable
+
+Nombre: Gabriel Armando De Abreu (ID: 301)
+Precio actual: 8941878.00
+Porcentaje de aumento en 5 días: -5.83%
+Porcentaje de aumento en 7 días: -8.81%
+Porcentaje de aumento en 15 días: -19.57%
+Predicción de precio: [7756376.77 / 8144195.61 / 8551405.39] (-0,5% / = / +0,5%) 
+Ganancia potencial: -797682.39 ( -8.92% )
+Acción a tomar: muy poco recomendable
+
+Nombre: Alberto Moreno (ID: 664)
+Precio actual: 4755392.00
+Porcentaje de aumento en 5 días: -10.39%
+Porcentaje de aumento en 7 días: -14.61%
+Porcentaje de aumento en 15 días: -28.79%
+Predicción de precio: [3757408.40 / 3945278.82 / 4142542.76] (-0,5% / = / +0,5%) 
+Ganancia potencial: -810113.18 ( -17.04% )
+Acción a tomar: nada recomendable
+
+Nombre: Alejandro Gómez (ID: 1008)
+Precio actual: 4923230.00
+Porcentaje de aumento en 5 días: -11.35%
+Porcentaje de aumento en 7 días: -15.62%
+Porcentaje de aumento en 15 días: -29.33%
+Predicción de precio: [3914563.03 / 4110291.18 / 4315805.74] (-0,5% / = / +0,5%) 
+Ganancia potencial: -812938.82 ( -16.51% )
+Acción a tomar: nada recomendable
+
+Nombre: Rubén Sobrino Pozuelo (ID: 1176)
+Precio actual: 4909448.00
+Porcentaje de aumento en 5 días: -11.26%
+Porcentaje de aumento en 7 días: -15.94%
+Porcentaje de aumento en 15 días: -32.73%
+Predicción de precio: [3898402.97 / 4093323.11 / 4297989.27] (-0,5% / = / +0,5%) 
+Ganancia potencial: -816124.89 ( -16.62% )
+Acción a tomar: nada recomendable
+
+Nombre: Enrique García Martínez (ID: 1155)
+Precio actual: 3850109.00
+Porcentaje de aumento en 5 días: -13.60%
+Porcentaje de aumento en 7 días: -18.60%
+Porcentaje de aumento en 15 días: -35.77%
+Predicción de precio: [2887701.61 / 3032086.69 / 3183691.02] (-0,5% / = / +0,5%) 
+Ganancia potencial: -818022.31 ( -21.25% )
+Acción a tomar: nada recomendable
+
+Nombre: Sergio Akieme (ID: 1424)
+Precio actual: 5248696.00
+Porcentaje de aumento en 5 días: -9.74%
+Porcentaje de aumento en 7 días: -13.69%
+Porcentaje de aumento en 15 días: -27.56%
+Predicción de precio: [4209580.55 / 4420059.58 / 4641062.56] (-0,5% / = / +0,5%) 
+Ganancia potencial: -828636.42 ( -15.79% )
+Acción a tomar: nada recomendable
+
+Nombre: Unai Vencedor Paris (ID: 880)
+Precio actual: 4196728.00
+Porcentaje de aumento en 5 días: -13.37%
+Porcentaje de aumento en 7 días: -18.16%
+Porcentaje de aumento en 15 días: -34.62%
+Predicción de precio: [3199903.57 / 3359898.75 / 3527893.68] (-0,5% / = / +0,5%) 
+Ganancia potencial: -836829.25 ( -19.94% )
+Acción a tomar: nada recomendable
+
+Nombre: Jules Koundé (ID: 566)
+Precio actual: 47840892.00
+Porcentaje de aumento en 5 días: -2.53%
+Porcentaje de aumento en 7 días: -1.78%
+Porcentaje de aumento en 15 días: 8.15%
+Predicción de precio: [44763205.35 / 47001365.62 / 49351433.90] (-0,5% / = / +0,5%) 
+Ganancia potencial: -839526.38 ( -1.75% )
+Acción a tomar: mantener
+
+Nombre: Jesús Corona (ID: 1328)
+Precio actual: 4770309.00
+Porcentaje de aumento en 5 días: -10.91%
+Porcentaje de aumento en 7 días: -15.04%
+Porcentaje de aumento en 15 días: -29.09%
+Predicción de precio: [3740629.32 / 3927660.79 / 4124043.83] (-0,5% / = / +0,5%) 
+Ganancia potencial: -842648.21 ( -17.66% )
+Acción a tomar: nada recomendable
+
+Nombre: Kaiky Fernandes Melo (ID: 1508)
+Precio actual: 3257763.00
+Porcentaje de aumento en 5 días: -15.52%
+Porcentaje de aumento en 7 días: -21.16%
+Porcentaje de aumento en 15 días: -39.99%
+Predicción de precio: [2282257.87 / 2396370.76 / 2516189.30] (-0,5% / = / +0,5%) 
+Ganancia potencial: -861392.24 ( -26.44% )
+Acción a tomar: nada recomendable
+
+Nombre: Tomás Alarcón (ID: 1144)
+Precio actual: 3297524.00
+Porcentaje de aumento en 5 días: -15.31%
+Porcentaje de aumento en 7 días: -20.82%
+Porcentaje de aumento en 15 días: -39.61%
+Predicción de precio: [2319546.75 / 2435524.09 / 2557300.29] (-0,5% / = / +0,5%) 
+Ganancia potencial: -861999.91 ( -26.14% )
+Acción a tomar: nada recomendable
+
+Nombre: Théo Bongonda (ID: 1532)
+Precio actual: 4733972.00
+Porcentaje de aumento en 5 días: -11.19%
+Porcentaje de aumento en 7 días: -15.67%
+Porcentaje de aumento en 15 días: -30.35%
+Predicción de precio: [3674825.45 / 3858566.73 / 4051495.06] (-0,5% / = / +0,5%) 
+Ganancia potencial: -875405.27 ( -18.49% )
+Acción a tomar: nada recomendable
+
+Nombre: José Andrés Guardado Hernández (ID: 124)
+Precio actual: 4132979.00
+Porcentaje de aumento en 5 días: -13.03%
+Porcentaje de aumento en 7 días: -17.81%
+Porcentaje de aumento en 15 días: -34.21%
+Predicción de precio: [3088006.76 / 3242407.10 / 3404527.45] (-0,5% / = / +0,5%) 
+Ganancia potencial: -890571.90 ( -21.55% )
+Acción a tomar: nada recomendable
+
+Nombre: Laureano Antonio Villa Suárez (ID: 1388)
+Precio actual: 3618660.00
+Porcentaje de aumento en 5 días: -15.76%
+Porcentaje de aumento en 7 días: -21.38%
+Porcentaje de aumento en 15 días: -40.30%
+Predicción de precio: [2593318.55 / 2722984.48 / 2859133.70] (-0,5% / = / +0,5%) 
+Ganancia potencial: -895675.52 ( -24.75% )
+Acción a tomar: nada recomendable
+
+Nombre: Anssumane Fati (ID: 732)
+Precio actual: 15257526.00
+Porcentaje de aumento en 5 días: -4.03%
+Porcentaje de aumento en 7 días: -6.11%
+Porcentaje de aumento en 15 días: -14.73%
+Predicción de precio: [13668810.89 / 14352251.43 / 15069864.01] (-0,5% / = / +0,5%) 
+Ganancia potencial: -905274.57 ( -5.93% )
+Acción a tomar: muy poco recomendable
+
+Nombre: José Luis Gayá Peña (ID: 302)
+Precio actual: 21012179.00
+Porcentaje de aumento en 5 días: -2.67%
+Porcentaje de aumento en 7 días: -4.00%
+Porcentaje de aumento en 15 días: -4.39%
+Predicción de precio: [19148099.91 / 20105504.90 / 21110780.15] (-0,5% / = / +0,5%) 
+Ganancia potencial: -906674.10 ( -4.31% )
+Acción a tomar: poco recomendable
+
+Nombre: Samuel Dias Lino (ID: 1488)
+Precio actual: 9509603.00
+Porcentaje de aumento en 5 días: -5.24%
+Porcentaje de aumento en 7 días: -9.03%
+Porcentaje de aumento en 15 días: -22.98%
+Predicción de precio: [8178746.28 / 8587683.60 / 9017067.78] (-0,5% / = / +0,5%) 
+Ganancia potencial: -921919.40 ( -9.69% )
+Acción a tomar: muy poco recomendable
+
+Nombre: Lucas Vázquez Iglesias (ID: 245)
+Precio actual: 5315772.00
+Porcentaje de aumento en 5 días: -12.19%
+Porcentaje de aumento en 7 días: -16.85%
+Porcentaje de aumento en 15 días: -33.44%
+Predicción de precio: [4169614.18 / 4378094.89 / 4596999.64] (-0,5% / = / +0,5%) 
+Ganancia potencial: -937677.11 ( -17.64% )
+Acción a tomar: nada recomendable
+
+Nombre: Karim Rekik (ID: 943)
+Precio actual: 3837073.00
+Porcentaje de aumento en 5 días: -15.48%
+Porcentaje de aumento en 7 días: -21.21%
+Porcentaje de aumento en 15 días: -40.17%
+Predicción de precio: [2759667.59 / 2897650.97 / 3042533.52] (-0,5% / = / +0,5%) 
+Ganancia potencial: -939422.03 ( -24.48% )
+Acción a tomar: nada recomendable
+
+Nombre: Adrián Embarba (ID: 1064)
+Precio actual: 7431708.00
+Porcentaje de aumento en 5 días: -8.18%
+Porcentaje de aumento en 7 días: -11.75%
+Porcentaje de aumento en 15 días: -22.62%
+Predicción de precio: [6178310.48 / 6487226.00 / 6811587.30] (-0,5% / = / +0,5%) 
+Ganancia potencial: -944482.00 ( -12.71% )
+Acción a tomar: nada recomendable
+
+Nombre: Marc Cardona (ID: 1177)
+Precio actual: 4081001.00
+Porcentaje de aumento en 5 días: -13.94%
+Porcentaje de aumento en 7 días: -19.13%
+Porcentaje de aumento en 15 días: -36.70%
+Predicción de precio: [2984513.28 / 3133738.95 / 3290425.90] (-0,5% / = / +0,5%) 
+Ganancia potencial: -947262.05 ( -23.21% )
+Acción a tomar: nada recomendable
+
+Nombre: Abner Vinícius da Silva Santos (ID: 1576)
+Precio actual: 4254620.00
+Porcentaje de aumento en 5 días: -13.43%
+Porcentaje de aumento en 7 días: -18.39%
+Porcentaje de aumento en 15 días: -35.13%
+Predicción de precio: [3146987.23 / 3304336.59 / 3469553.42] (-0,5% / = / +0,5%) 
+Ganancia potencial: -950283.41 ( -22.34% )
+Acción a tomar: nada recomendable
+
+Nombre: Miguel Ángel Sánchez (ID: 1442)
+Precio actual: 4007071.00
+Porcentaje de aumento en 5 días: -17.51%
+Porcentaje de aumento en 7 días: -23.69%
+Porcentaje de aumento en 15 días: -35.13%
+Predicción de precio: [2905361.32 / 3050629.38 / 3203160.85] (-0,5% / = / +0,5%) 
+Ganancia potencial: -956441.62 ( -23.87% )
+Acción a tomar: nada recomendable
+
+Nombre: Javier Aguirre (ID: 1366)
+Precio actual: 3653776.00
+Porcentaje de aumento en 5 días: -17.42%
+Porcentaje de aumento en 7 días: -23.58%
+Porcentaje de aumento en 15 días: -39.77%
+Predicción de precio: [2565551.71 / 2693829.29 / 2828520.76] (-0,5% / = / +0,5%) 
+Ganancia potencial: -959946.71 ( -26.27% )
+Acción a tomar: nada recomendable
+
+Nombre: Jagoba Arrasate (ID: 1358)
+Precio actual: 3732592.00
+Porcentaje de aumento en 5 días: -17.19%
+Porcentaje de aumento en 7 días: -23.31%
+Porcentaje de aumento en 15 días: -39.57%
+Predicción de precio: [2638792.07 / 2770731.67 / 2909268.25] (-0,5% / = / +0,5%) 
+Ganancia potencial: -961860.33 ( -25.77% )
+Acción a tomar: nada recomendable
+
+Nombre: Mohamed-Ali Cho (ID: 1483)
+Precio actual: 8635033.00
+Porcentaje de aumento en 5 días: -7.67%
+Porcentaje de aumento en 7 días: -11.08%
+Porcentaje de aumento en 15 días: -24.70%
+Predicción de precio: [7301676.12 / 7666759.93 / 8050097.92] (-0,5% / = / +0,5%) 
+Ganancia potencial: -968273.07 ( -11.21% )
+Acción a tomar: nada recomendable
+
+Nombre: Jørgen Strand Larsen (ID: 1541)
+Precio actual: 8760325.00
+Porcentaje de aumento en 5 días: -7.42%
+Porcentaje de aumento en 7 días: -10.36%
+Porcentaje de aumento en 15 días: -20.56%
+Predicción de precio: [7396590.54 / 7766420.07 / 8154741.07] (-0,5% / = / +0,5%) 
+Ganancia potencial: -993904.93 ( -11.35% )
+Acción a tomar: nada recomendable
+
+Nombre: Óscar Trejo (ID: 1107)
+Precio actual: 7305694.00
+Porcentaje de aumento en 5 días: -9.11%
+Porcentaje de aumento en 7 días: -12.86%
+Porcentaje de aumento en 15 días: -26.79%
+Predicción de precio: [5992824.39 / 6292465.61 / 6607088.89] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1013228.39 ( -13.87% )
+Acción a tomar: nada recomendable
+
+Nombre: Renato Tapia (ID: 898)
+Precio actual: 5730649.00
+Porcentaje de aumento en 5 días: -11.54%
+Porcentaje de aumento en 7 días: -15.17%
+Porcentaje de aumento en 15 días: -30.19%
+Predicción de precio: [4484625.56 / 4708856.84 / 4944299.68] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1021792.16 ( -17.83% )
+Acción a tomar: nada recomendable
+
+Nombre: Ander Barrenetxea Muguruza (ID: 701)
+Precio actual: 7200965.00
+Porcentaje de aumento en 5 días: -10.30%
+Porcentaje de aumento en 7 días: -13.98%
+Porcentaje de aumento en 15 días: -26.98%
+Predicción de precio: [5884269.67 / 6178483.15 / 6487407.31] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1022481.85 ( -14.20% )
+Acción a tomar: nada recomendable
+
+Nombre: Edinson Roberto Cavani Gómez (ID: 1534)
+Precio actual: 4672295.00
+Porcentaje de aumento en 5 días: -14.24%
+Porcentaje de aumento en 7 días: -18.76%
+Porcentaje de aumento en 15 días: -32.83%
+Predicción de precio: [3472595.87 / 3646225.66 / 3828536.95] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1026069.34 ( -21.96% )
+Acción a tomar: nada recomendable
+
+Nombre: Alejandro Fernández Iglesias (ID: 817)
+Precio actual: 4076286.00
+Porcentaje de aumento en 5 días: -14.96%
+Porcentaje de aumento en 7 días: -20.45%
+Porcentaje de aumento en 15 días: -38.86%
+Predicción de precio: [2891132.19 / 3035688.80 / 3187473.24] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1040597.20 ( -25.53% )
+Acción a tomar: nada recomendable
+
+Nombre: Quique Setién (ID: 1558)
+Precio actual: 4686498.00
+Porcentaje de aumento en 5 días: -16.91%
+Porcentaje de aumento en 7 días: -23.01%
+Porcentaje de aumento en 15 días: -34.64%
+Predicción de precio: [3468383.62 / 3641802.80 / 3823892.94] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1044695.20 ( -22.29% )
+Acción a tomar: nada recomendable
+
+Nombre: Pablo Barrios (ID: 1565)
+Precio actual: 5502982.00
+Porcentaje de aumento en 5 días: -13.23%
+Porcentaje de aumento en 7 días: -18.00%
+Porcentaje de aumento en 15 días: -33.89%
+Predicción de precio: [4240712.49 / 4452748.11 / 4675385.52] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1050233.89 ( -19.08% )
+Acción a tomar: nada recomendable
+
+Nombre: Willian José (ID: 1193)
+Precio actual: 4979621.00
+Porcentaje de aumento en 5 días: -13.43%
+Porcentaje de aumento en 7 días: -18.36%
+Porcentaje de aumento en 15 días: -35.64%
+Predicción de precio: [3733989.68 / 3920689.17 / 4116723.62] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1058931.83 ( -21.27% )
+Acción a tomar: nada recomendable
+
+Nombre: Iddrisu Baba (ID: 1073)
+Precio actual: 5822440.00
+Porcentaje de aumento en 5 días: -11.95%
+Porcentaje de aumento en 7 días: -16.56%
+Porcentaje de aumento en 15 días: -31.36%
+Predicción de precio: [4536193.73 / 4763003.41 / 5001153.58] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1059436.59 ( -18.20% )
+Acción a tomar: nada recomendable
+
+Nombre: Ángel Correa (ID: 65)
+Precio actual: 12426176.00
+Porcentaje de aumento en 5 días: -5.67%
+Porcentaje de aumento en 7 días: -7.79%
+Porcentaje de aumento en 15 días: -15.06%
+Predicción de precio: [10823328.75 / 11364495.19 / 11932719.94] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1061680.81 ( -8.54% )
+Acción a tomar: muy poco recomendable
+
+Nombre: Raphael Dias Belloli (ID: 1504)
+Precio actual: 38234037.00
+Porcentaje de aumento en 5 días: -0.86%
+Porcentaje de aumento en 7 días: -2.77%
+Porcentaje de aumento en 15 días: -8.47%
+Predicción de precio: [35389475.20 / 37158948.96 / 39016896.40] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1075088.04 ( -2.81% )
+Acción a tomar: poco recomendable
+
+Nombre: Marcos do Nascimento Teixeira (ID: 1478)
+Precio actual: 4780134.00
+Porcentaje de aumento en 5 días: -14.68%
+Porcentaje de aumento en 7 días: -19.82%
+Porcentaje de aumento en 15 días: -38.11%
+Predicción de precio: [3526495.72 / 3702820.51 / 3887961.53] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1077313.49 ( -22.54% )
+Acción a tomar: nada recomendable
+
+Nombre: Andoni Gorosabel (ID: 257)
+Precio actual: 7377775.00
+Porcentaje de aumento en 5 días: -9.30%
+Porcentaje de aumento en 7 días: -12.73%
+Porcentaje de aumento en 15 días: -24.76%
+Predicción de precio: [5999003.34 / 6298953.51 / 6613901.18] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1078821.49 ( -14.62% )
+Acción a tomar: nada recomendable
+
+Nombre: Gonçalo Mendes Paciência (ID: 1512)
+Precio actual: 4981847.00
+Porcentaje de aumento en 5 días: -14.62%
+Porcentaje de aumento en 7 días: -19.87%
+Porcentaje de aumento en 15 días: -37.37%
+Predicción de precio: [3703400.56 / 3888570.59 / 4082999.12] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1093276.41 ( -21.95% )
+Acción a tomar: nada recomendable
+
+Nombre: Samuel Castillejo Azuaga (ID: 1498)
+Precio actual: 4571767.00
+Porcentaje de aumento en 5 días: -15.15%
+Porcentaje de aumento en 7 días: -20.74%
+Porcentaje de aumento en 15 días: -39.30%
+Predicción de precio: [3309364.37 / 3474832.59 / 3648574.22] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1096934.41 ( -23.99% )
+Acción a tomar: nada recomendable
+
+Nombre: José Luis Morales Nogales (ID: 217)
+Precio actual: 4998649.00
+Porcentaje de aumento en 5 días: -13.24%
+Porcentaje de aumento en 7 días: -18.22%
+Porcentaje de aumento en 15 días: -35.31%
+Predicción de precio: [3708045.38 / 3893447.65 / 4088120.03] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1105201.35 ( -22.11% )
+Acción a tomar: nada recomendable
+
+Nombre: Ante Budimir (ID: 942)
+Precio actual: 10894576.00
+Porcentaje de aumento en 5 días: -6.47%
+Porcentaje de aumento en 7 días: -9.32%
+Porcentaje de aumento en 15 días: -19.12%
+Predicción de precio: [9309967.69 / 9775466.08 / 10264239.38] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1119109.92 ( -10.27% )
+Acción a tomar: nada recomendable
+
+Nombre: Manuel Trigueros Muñoz (ID: 348)
+Precio actual: 5532903.00
+Porcentaje de aumento en 5 días: -12.21%
+Porcentaje de aumento en 7 días: -16.96%
+Porcentaje de aumento en 15 días: -33.22%
+Predicción de precio: [4199380.14 / 4409349.15 / 4629816.61] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1123553.85 ( -20.31% )
+Acción a tomar: nada recomendable
+
+Nombre: Erik Lamela (ID: 1187)
+Precio actual: 8707000.00
+Porcentaje de aumento en 5 días: -8.10%
+Porcentaje de aumento en 7 días: -11.53%
+Porcentaje de aumento en 15 días: -22.56%
+Predicción de precio: [7213372.20 / 7574040.81 / 7952742.85] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1132959.19 ( -13.01% )
+Acción a tomar: nada recomendable
+
+Nombre: Eric García Martret (ID: 1130)
+Precio actual: 4934856.00
+Porcentaje de aumento en 5 días: -13.59%
+Porcentaje de aumento en 7 días: -18.78%
+Porcentaje de aumento en 15 días: -36.17%
+Predicción de precio: [3620784.27 / 3801823.48 / 3991914.66] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1133032.52 ( -22.96% )
+Acción a tomar: nada recomendable
+
+Nombre: Óliver Torres Muñoz (ID: 675)
+Precio actual: 6878464.00
+Porcentaje de aumento en 5 días: -10.72%
+Porcentaje de aumento en 7 días: -14.90%
+Porcentaje de aumento en 15 días: -29.00%
+Predicción de precio: [5471159.25 / 5744717.21 / 6031953.07] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1133746.79 ( -16.48% )
+Acción a tomar: nada recomendable
+
+Nombre: Nemanja Maksimovic (ID: 197)
+Precio actual: 7381367.00
+Porcentaje de aumento en 5 días: -9.66%
+Porcentaje de aumento en 7 días: -13.44%
+Porcentaje de aumento en 15 días: -27.95%
+Predicción de precio: [5944607.26 / 6241837.62 / 6553929.50] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1139529.38 ( -15.44% )
+Acción a tomar: nada recomendable
+
+Nombre: Agustín Federico Marchesín (ID: 1493)
+Precio actual: 5185666.00
+Porcentaje de aumento en 5 días: -14.47%
+Porcentaje de aumento en 7 días: -19.77%
+Porcentaje de aumento en 15 días: -36.92%
+Predicción de precio: [3806119.74 / 3996425.73 / 4196247.02] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1189240.27 ( -22.93% )
+Acción a tomar: nada recomendable
+
+Nombre: Dakonam Ortega Djené (ID: 192)
+Precio actual: 7226639.00
+Porcentaje de aumento en 5 días: -10.99%
+Porcentaje de aumento en 7 días: -15.03%
+Porcentaje de aumento en 15 días: -29.90%
+Predicción de precio: [5735300.37 / 6022065.38 / 6323168.65] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1204573.62 ( -16.67% )
+Acción a tomar: nada recomendable
+
+Nombre: Joan Jordán Moreno (ID: 296)
+Precio actual: 4975782.00
+Porcentaje de aumento en 5 días: -14.38%
+Porcentaje de aumento en 7 días: -19.60%
+Porcentaje de aumento en 15 días: -37.43%
+Predicción de precio: [3588091.48 / 3767496.05 / 3955870.85] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1208285.95 ( -24.28% )
+Acción a tomar: nada recomendable
+
+Nombre: Alejandro Berenguer Remiro (ID: 927)
+Precio actual: 10369316.00
+Porcentaje de aumento en 5 días: -7.15%
+Porcentaje de aumento en 7 días: -10.03%
+Porcentaje de aumento en 15 días: -18.60%
+Predicción de precio: [8717891.35 / 9153785.92 / 9611475.22] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1215530.08 ( -11.72% )
+Acción a tomar: nada recomendable
+
+Nombre: Jesús Joaquín Fernández Sáez (ID: 786)
+Precio actual: 8343886.00
+Porcentaje de aumento en 5 días: -10.01%
+Porcentaje de aumento en 7 días: -13.93%
+Porcentaje de aumento en 15 días: -29.20%
+Predicción de precio: [6784198.02 / 7123407.92 / 7479578.32] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1220478.08 ( -14.63% )
+Acción a tomar: nada recomendable
+
+Nombre: Rubén Alcaraz (ID: 1332)
+Precio actual: 5614373.00
+Porcentaje de aumento en 5 días: -13.09%
+Porcentaje de aumento en 7 días: -18.11%
+Porcentaje de aumento en 15 días: -34.61%
+Predicción de precio: [4172066.38 / 4380669.70 / 4599703.18] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1233703.30 ( -21.97% )
+Acción a tomar: nada recomendable
+
+Nombre: Francis Coquelin (ID: 307)
+Precio actual: 4907194.00
+Porcentaje de aumento en 5 días: -15.08%
+Porcentaje de aumento en 7 días: -20.47%
+Porcentaje de aumento en 15 días: -39.14%
+Predicción de precio: [3476334.74 / 3650151.48 / 3832659.05] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1257042.52 ( -25.62% )
+Acción a tomar: nada recomendable
+
+Nombre: Marcos Acuña (ID: 912)
+Precio actual: 10353310.00
+Porcentaje de aumento en 5 días: -8.08%
+Porcentaje de aumento en 7 días: -11.26%
+Porcentaje de aumento en 15 días: -23.19%
+Predicción de precio: [8628388.66 / 9059808.10 / 9512798.50] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1293501.90 ( -12.49% )
+Acción a tomar: nada recomendable
+
+Nombre: Valentín Mariano José Castellanos (ID: 1500)
+Precio actual: 10777680.00
+Porcentaje de aumento en 5 días: -6.91%
+Porcentaje de aumento en 7 días: -9.07%
+Porcentaje de aumento en 15 días: -14.46%
+Predicción de precio: [9015154.23 / 9465911.95 / 9939207.54] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1311768.05 ( -12.17% )
+Acción a tomar: nada recomendable
+
+Nombre: Iker Muniain Goñi (ID: 81)
+Precio actual: 17913576.00
+Porcentaje de aumento en 5 días: -4.43%
+Porcentaje de aumento en 7 días: -6.85%
+Porcentaje de aumento en 15 días: -15.68%
+Predicción de precio: [15810963.60 / 16601511.78 / 17431587.37] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1312064.22 ( -7.32% )
+Acción a tomar: muy poco recomendable
+
+Nombre: Rodrigo Javier de Paul (ID: 1088)
+Precio actual: 18702667.00
+Porcentaje de aumento en 5 días: -4.93%
+Porcentaje de aumento en 7 días: -7.67%
+Porcentaje de aumento en 15 días: -20.81%
+Predicción de precio: [16561550.64 / 17389628.17 / 18259109.58] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1313038.83 ( -7.02% )
+Acción a tomar: muy poco recomendable
+
+Nombre: Yunus Musah (ID: 913)
+Precio actual: 6982509.00
+Porcentaje de aumento en 5 días: -12.94%
+Porcentaje de aumento en 7 días: -17.17%
+Porcentaje de aumento en 15 días: -33.09%
+Predicción de precio: [5385476.27 / 5654750.08 / 5937487.58] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1327758.92 ( -19.02% )
+Acción a tomar: nada recomendable
+
+Nombre: Juan Miguel Jiménez López (ID: 135)
+Precio actual: 7689883.00
+Porcentaje de aumento en 5 días: -9.88%
+Porcentaje de aumento en 7 días: -13.30%
+Porcentaje de aumento en 15 días: -20.47%
+Predicción de precio: [5976290.91 / 6275105.45 / 6588860.72] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1414777.55 ( -18.40% )
+Acción a tomar: nada recomendable
+
+Nombre: Thomas Lemar (ID: 59)
+Precio actual: 11021678.00
+Porcentaje de aumento en 5 días: -8.46%
+Porcentaje de aumento en 7 días: -12.41%
+Porcentaje de aumento en 15 días: -26.91%
+Predicción de precio: [9142941.65 / 9600088.73 / 10080093.17] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1421589.27 ( -12.90% )
+Acción a tomar: nada recomendable
+
+Nombre: Fernando Francisco Fernando (ID: 669)
+Precio actual: 7686568.00
+Porcentaje de aumento en 5 días: -11.85%
+Porcentaje de aumento en 7 días: -16.54%
+Porcentaje de aumento en 15 días: -32.17%
+Predicción de precio: [5941262.77 / 6238325.91 / 6550242.20] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1448242.09 ( -18.84% )
+Acción a tomar: nada recomendable
+
+Nombre: Álvaro Morata (ID: 1486)
+Precio actual: 19505869.00
+Porcentaje de aumento en 5 días: -3.94%
+Porcentaje de aumento en 7 días: -7.24%
+Porcentaje de aumento en 15 días: -19.68%
+Predicción de precio: [17156364.69 / 18014182.93 / 18914892.07] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1491686.07 ( -7.65% )
+Acción a tomar: muy poco recomendable
+
+Nombre: Ferland Mendy (ID: 559)
+Precio actual: 11932231.00
+Porcentaje de aumento en 5 días: -9.00%
+Porcentaje de aumento en 7 días: -11.72%
+Porcentaje de aumento en 15 días: -22.36%
+Predicción de precio: [9857340.66 / 10350207.69 / 10867718.07] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1582023.31 ( -13.26% )
+Acción a tomar: nada recomendable
+
+Nombre: Viktor Tsygankov (ID: 1577)
+Precio actual: 23995440.00
+Porcentaje de aumento en 5 días: -3.85%
+Porcentaje de aumento en 7 días: -6.04%
+Porcentaje de aumento en 15 días: -11.71%
+Predicción de precio: [21279608.59 / 22343589.02 / 23460768.48] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1651850.98 ( -6.88% )
+Acción a tomar: muy poco recomendable
+
+Nombre: Manuel Pellegrini (ID: 1367)
+Precio actual: 5828427.00
+Porcentaje de aumento en 5 días: -17.06%
+Porcentaje de aumento en 7 días: -23.23%
+Porcentaje de aumento en 15 días: -29.55%
+Predicción de precio: [3901849.46 / 4096941.94 / 4301789.03] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1731485.06 ( -29.71% )
+Acción a tomar: nada recomendable
+
+Nombre: Alfonso Pedraza Sag (ID: 344)
+Precio actual: 8607151.00
+Porcentaje de aumento en 5 días: -12.78%
+Porcentaje de aumento en 7 días: -17.65%
+Porcentaje de aumento en 15 días: -33.69%
+Predicción de precio: [6522368.95 / 6848487.40 / 7190911.77] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1758663.60 ( -20.43% )
+Acción a tomar: nada recomendable
+
+Nombre: Franck Yannick Kessié (ID: 1506)
+Precio actual: 8466232.00
+Porcentaje de aumento en 5 días: -13.82%
+Porcentaje de aumento en 7 días: -18.63%
+Porcentaje de aumento en 15 días: -34.96%
+Predicción de precio: [6338721.45 / 6655657.52 / 6988440.40] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1810574.48 ( -21.39% )
+Acción a tomar: nada recomendable
+
+Nombre: Juan Foyth (ID: 944)
+Precio actual: 13486123.00
+Porcentaje de aumento en 5 días: -8.46%
+Porcentaje de aumento en 7 días: -11.88%
+Porcentaje de aumento en 15 días: -23.40%
+Predicción de precio: [11111919.51 / 11667515.48 / 12250891.26] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1818607.52 ( -13.49% )
+Acción a tomar: nada recomendable
+
+Nombre: Reinildo Isnard Mandava (ID: 1353)
+Precio actual: 10503878.00
+Porcentaje de aumento en 5 días: -11.70%
+Porcentaje de aumento en 7 días: -15.80%
+Porcentaje de aumento en 15 días: -30.02%
+Predicción de precio: [8217093.33 / 8627947.99 / 9059345.39] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1875930.01 ( -17.86% )
+Acción a tomar: nada recomendable
+
+Nombre: Yeray Álvarez López (ID: 77)
+Precio actual: 14548567.00
+Porcentaje de aumento en 5 días: -7.96%
+Porcentaje de aumento en 7 días: -11.52%
+Porcentaje de aumento en 15 días: -23.99%
+Predicción de precio: [12059697.65 / 12662682.54 / 13295816.66] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1885884.46 ( -12.96% )
+Acción a tomar: nada recomendable
+
+Nombre: El Bilal Touré (ID: 1547)
+Precio actual: 8023455.00
+Porcentaje de aumento en 5 días: -13.39%
+Porcentaje de aumento en 7 días: -17.66%
+Porcentaje de aumento en 15 días: -25.86%
+Predicción de precio: [5842435.38 / 6134557.15 / 6441285.00] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1888897.85 ( -23.54% )
+Acción a tomar: nada recomendable
+
+Nombre: Carlo Ancelotti (ID: 1368)
+Precio actual: 10287056.00
+Porcentaje de aumento en 5 días: -15.65%
+Porcentaje de aumento en 7 días: -21.91%
+Porcentaje de aumento en 15 días: -15.22%
+Predicción de precio: [7894861.34 / 8289604.40 / 8704084.62] (-0,5% / = / +0,5%) 
+Ganancia potencial: -1997451.60 ( -19.42% )
+Acción a tomar: nada recomendable
+
+Nombre: Raúl Albiol Tortajada (ID: 574)
+Precio actual: 9303134.00
+Porcentaje de aumento en 5 días: -13.35%
+Porcentaje de aumento en 7 días: -17.94%
+Porcentaje de aumento en 15 días: -33.72%
+Predicción de precio: [6927209.57 / 7273570.05 / 7637248.55] (-0,5% / = / +0,5%) 
+Ganancia potencial: -2029563.95 ( -21.82% )
+Acción a tomar: nada recomendable
+
+Nombre: Ferran Torres (ID: 1327)
+Precio actual: 11487430.00
+Porcentaje de aumento en 5 días: -11.20%
+Porcentaje de aumento en 7 días: -16.13%
+Porcentaje de aumento en 15 días: -33.07%
+Predicción de precio: [8850039.55 / 9292541.53 / 9757168.61] (-0,5% / = / +0,5%) 
+Ganancia potencial: -2194888.47 ( -19.11% )
+Acción a tomar: nada recomendable
+
+Nombre: Imanol Alguacil (ID: 1369)
+Precio actual: 6740997.00
+Porcentaje de aumento en 5 días: -17.02%
+Porcentaje de aumento en 7 días: -23.26%
+Porcentaje de aumento en 15 días: -23.61%
+Predicción de precio: [4094196.09 / 4298905.89 / 4513851.19] (-0,5% / = / +0,5%) 
+Ganancia potencial: -2442091.11 ( -36.23% )
+Acción a tomar: nada recomendable
+
+Nombre: Diego Simeone (ID: 1357)
+Precio actual: 7632005.00
+Porcentaje de aumento en 5 días: -16.59%
+Porcentaje de aumento en 7 días: -22.74%
+Porcentaje de aumento en 15 días: -23.12%
+Predicción de precio: [4754895.16 / 4992639.92 / 5242271.92] (-0,5% / = / +0,5%) 
+Ganancia potencial: -2639365.08 ( -34.58% )
+Acción a tomar: nada recomendable
+
+Nombre: Enes Ünal (ID: 334)
+Precio actual: 16057206.00
+Porcentaje de aumento en 5 días: -11.74%
+Porcentaje de aumento en 7 días: -15.95%
+Porcentaje de aumento en 15 días: -31.14%
+Predicción de precio: [12571976.84 / 13200575.69 / 13860604.47] (-0,5% / = / +0,5%) 
+Ganancia potencial: -2856630.31 ( -17.79% )
+Acción a tomar: nada recomendable
+
+Nombre: Gerard Moreno Balagueró (ID: 356)
+Precio actual: 29980415.00
+Porcentaje de aumento en 5 días: -6.03%
+Porcentaje de aumento en 7 días: -9.01%
+Porcentaje de aumento en 15 días: -17.66%
+Predicción de precio: [25698679.83 / 26983613.82 / 28332794.51] (-0,5% / = / +0,5%) 
+Ganancia potencial: -2996801.18 ( -10.00% )
+Acción a tomar: muy poco recomendable
+
+Nombre: Yannick Ferreira Carrasco (ID: 793)
+Precio actual: 24324476.00
+Porcentaje de aumento en 5 días: -7.69%
+Porcentaje de aumento en 7 días: -12.04%
+Porcentaje de aumento en 15 días: -26.27%
+Predicción de precio: [20033342.05 / 21035009.15 / 22086759.61] (-0,5% / = / +0,5%) 
+Ganancia potencial: -3289466.85 ( -13.52% )
+Acción a tomar: nada recomendable
+
+Nombre: David Silva (ID: 868)
+Precio actual: 12295967.00
+Porcentaje de aumento en 5 días: -15.79%
+Porcentaje de aumento en 7 días: -21.27%
+Porcentaje de aumento en 15 días: -35.58%
+Predicción de precio: [8507453.37 / 8932826.04 / 9379467.34] (-0,5% / = / +0,5%) 
+Ganancia potencial: -3363140.96 ( -27.35% )
+Acción a tomar: nada recomendable
+
+Nombre: Nabil Fekir (ID: 681)
+Precio actual: 22848817.00
+Porcentaje de aumento en 5 días: -11.35%
+Porcentaje de aumento en 7 días: -15.44%
+Porcentaje de aumento en 15 días: -30.98%
+Predicción de precio: [17858385.06 / 18751304.32 / 19688869.53] (-0,5% / = / +0,5%) 
+Ganancia potencial: -4097512.68 ( -17.93% )
+Acción a tomar: nada recomendable
+
+Nombre: José María Giménez de Vargas (ID: 55)
+Precio actual: 19524871.00
+Porcentaje de aumento en 5 días: -13.19%
+Porcentaje de aumento en 7 días: -18.04%
+Porcentaje de aumento en 15 días: -31.51%
+Predicción de precio: [14496981.77 / 15221830.86 / 15982922.40] (-0,5% / = / +0,5%) 
+Ganancia potencial: -4303040.14 ( -22.04% )
+Acción a tomar: nada recomendable
+
+Nombre: Samuel Chukwueze (ID: 350)
+Precio actual: 25070416.00
+Porcentaje de aumento en 5 días: -9.93%
+Porcentaje de aumento en 7 días: -12.36%
+Porcentaje de aumento en 15 días: -3.98%
+Predicción de precio: [17873397.64 / 18767067.52 / 19705420.89] (-0,5% / = / +0,5%) 
+Ganancia potencial: -6303348.48 ( -25.14% )
+Acción a tomar: nada recomendable
+
+Nombre: Cenk Özkacar (ID: 1525)
+Precio actual: 2916505.00
+Porcentaje de aumento en 5 días: -12.41%
+Predicción de precio: [-3587794.43 / -3767184.15 / -3955543.35] (-0,5% / = / +0,5%) 
+Ganancia potencial: -6683689.15 ( -229.17% )
+Acción a tomar: nada recomendable
+
+Nombre: Aritz Elustondo (ID: 259)
+Precio actual: 7528990.00
+Porcentaje de aumento en 5 días: -12.42%
+Porcentaje de aumento en 7 días: -17.22%
+Porcentaje de aumento en 15 días: -32.89%
+Predicción de precio: [0.00 / 0.00 / 0.00] (-0,5% / = / +0,5%) 
+Ganancia potencial: -7528990.00 ( -100.00% )
+Acción a tomar: nada recomendable
+
