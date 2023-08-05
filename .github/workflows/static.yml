@@ -52,6 +52,6 @@ jobs:
         uses: actions/deploy-pages@v2
           # Set the base directory for GitHub Pages (replace 'docs/_site' with the build destination of your Jekyll site)
         with:
-          folder: docs/_site
+          folder: _site
           # Set the default HTML file to redirect to
           indexHtml: jugadores_compraventa.html
