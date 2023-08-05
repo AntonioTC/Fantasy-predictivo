@@ -31,27 +31,13 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-
-      - name: Build and deploy Jekyll site
-        uses: helaili/jekyll-action@2.0.0
-        with:
-          # Set the base directory for Jekyll (replace 'docs' with the directory containing 'jugadores_compraventa.html')
-          source: docs
-          # Set the build destination (replace 'docs/_site' with the build destination of your Jekyll site)
-          destination: docs/_site
-
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
       - name: Upload artifact
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-pages-artifact@v2
         with:
-          # Upload the generated Jekyll site
-          name: jekyll-site
-          path: docs/_site
-
+          # Upload entire repository
+          path: '.'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
-          # Set the base directory for GitHub Pages (replace 'docs/_site' with the build destination of your Jekyll site)
-        with:
-          folder: _site
-          # Set the default HTML file to redirect to
-          indexHtml: jugadores_compraventa.html
