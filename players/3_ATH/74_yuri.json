@@ -1,0 +1,166 @@
+{
+    "playerStats": [
+        {
+            "stats": {
+                "mins_played": [
+                    24,
+                    1
+                ],
+                "goals": [
+                    0,
+                    0
+                ],
+                "goal_assist": [
+                    0,
+                    0
+                ],
+                "offtarget_att_assist": [
+                    0,
+                    0
+                ],
+                "pen_area_entries": [
+                    0,
+                    0
+                ],
+                "penalty_won": [
+                    0,
+                    0
+                ],
+                "penalty_save": [
+                    0,
+                    0
+                ],
+                "saves": [
+                    0,
+                    0
+                ],
+                "effective_clearance": [
+                    1,
+                    0
+                ],
+                "penalty_failed": [
+                    0,
+                    0
+                ],
+                "own_goals": [
+                    0,
+                    0
+                ],
+                "goals_conceded": [
+                    0,
+                    0
+                ],
+                "yellow_card": [
+                    0,
+                    0
+                ],
+                "second_yellow_card": [
+                    0,
+                    0
+                ],
+                "red_card": [
+                    0,
+                    0
+                ],
+                "total_scoring_att": [
+                    0,
+                    0
+                ],
+                "won_contest": [
+                    0,
+                    0
+                ],
+                "ball_recovery": [
+                    1,
+                    0
+                ],
+                "poss_lost_all": [
+                    5,
+                    0
+                ],
+                "penalty_conceded": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    1
+                ]
+            },
+            "weekNumber": 3,
+            "totalPoints": 2,
+            "isInIdealFormation": false
+        }
+    ],
+    "points": 2,
+    "weekPoints": 2,
+    "averagePoints": 2,
+    "id": "74",
+    "team": {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t174/color/t174_athletic-club.png",
+        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t174/gray/t174_athletic-club.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t174/white/t174_athletic-club.png",
+        "name": "Athletic Club",
+        "id": "3",
+        "shortName": "ATH",
+        "slug": "athletic-club",
+        "dspId": 68,
+        "store": ""
+    },
+    "name": "Yuri Berchiche Izeta",
+    "lastSeasonPoints": 105,
+    "nickname": "Yuri",
+    "slug": "yuri",
+    "positionId": 2,
+    "position": "Defensa",
+    "marketValue": {
+        "13/07/2023": 8000000,
+        "14/07/2023": 7994385,
+        "15/07/2023": 7988995,
+        "16/07/2023": 8916545,
+        "17/07/2023": 9212247,
+        "18/07/2023": 9542663,
+        "19/07/2023": 9674135,
+        "20/07/2023": 9712849,
+        "21/07/2023": 9675510,
+        "22/07/2023": 9772400,
+        "23/07/2023": 9857556,
+        "24/07/2023": 9874141,
+        "25/07/2023": 9860771,
+        "26/07/2023": 9905465,
+        "27/07/2023": 9887872,
+        "28/07/2023": 9930649,
+        "29/07/2023": 9930849,
+        "30/07/2023": 9948912,
+        "31/07/2023": 9939552,
+        "01/08/2023": 9897664,
+        "02/08/2023": 9878732,
+        "03/08/2023": 9856750,
+        "04/08/2023": 9795754,
+        "05/08/2023": 9707476,
+        "06/08/2023": 9684762,
+        "07/08/2023": 9650361,
+        "08/08/2023": 9517864,
+        "09/08/2023": 9299883,
+        "10/08/2023": 9062508,
+        "11/08/2023": 8821701,
+        "12/08/2023": 8572376,
+        "13/08/2023": 8299577,
+        "14/08/2023": 8025024,
+        "15/08/2023": 7752090,
+        "16/08/2023": 7486716,
+        "17/08/2023": 7228699,
+        "18/08/2023": 6983800,
+        "19/08/2023": 6764558,
+        "20/08/2023": 6571719,
+        "21/08/2023": 6377581,
+        "22/08/2023": 6188587,
+        "23/08/2023": 6006281,
+        "24/08/2023": 5829146,
+        "25/08/2023": 5675210,
+        "26/08/2023": 5521775,
+        "27/08/2023": 5370699,
+        "28/08/2023": 5228684
+    },
+    "playerStatus": "doubtful"
+}

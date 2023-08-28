@@ -1,0 +1,165 @@
+{
+    "playerStats": [
+        {
+            "stats": {
+                "mins_played": [
+                    7,
+                    1
+                ],
+                "goals": [
+                    0,
+                    0
+                ],
+                "goal_assist": [
+                    0,
+                    0
+                ],
+                "offtarget_att_assist": [
+                    0,
+                    0
+                ],
+                "pen_area_entries": [
+                    0,
+                    0
+                ],
+                "penalty_won": [
+                    0,
+                    0
+                ],
+                "penalty_save": [
+                    0,
+                    0
+                ],
+                "saves": [
+                    0,
+                    0
+                ],
+                "effective_clearance": [
+                    0,
+                    0
+                ],
+                "penalty_failed": [
+                    0,
+                    0
+                ],
+                "own_goals": [
+                    0,
+                    0
+                ],
+                "goals_conceded": [
+                    0,
+                    0
+                ],
+                "yellow_card": [
+                    0,
+                    0
+                ],
+                "second_yellow_card": [
+                    0,
+                    0
+                ],
+                "red_card": [
+                    0,
+                    0
+                ],
+                "total_scoring_att": [
+                    0,
+                    0
+                ],
+                "won_contest": [
+                    0,
+                    0
+                ],
+                "ball_recovery": [
+                    1,
+                    0
+                ],
+                "poss_lost_all": [
+                    0,
+                    0
+                ],
+                "penalty_conceded": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    1
+                ]
+            },
+            "weekNumber": 1,
+            "totalPoints": 2,
+            "isInIdealFormation": false
+        }
+    ],
+    "points": 2,
+    "averagePoints": 2,
+    "id": "58",
+    "team": {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t175/color/t175_atletico-de-madrid.png",
+        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t175/gray/t175_atletico-de-madrid.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t175/white/t175_atletico-de-madrid.png",
+        "name": "Atl\u00e9tico de Madrid",
+        "id": "2",
+        "shortName": "ATM",
+        "slug": "atletico-de-madrid",
+        "dspId": 70,
+        "store": ""
+    },
+    "name": "Jorge Resurrecci\u00f3n Merodio",
+    "lastSeasonPoints": 151,
+    "nickname": "Koke",
+    "slug": "koke",
+    "positionId": 3,
+    "position": "Centrocampista",
+    "marketValue": {
+        "13/07/2023": 19000000,
+        "14/07/2023": 18986665,
+        "15/07/2023": 18973864,
+        "16/07/2023": 18911115,
+        "17/07/2023": 18841271,
+        "18/07/2023": 18699335,
+        "19/07/2023": 18683304,
+        "20/07/2023": 18676732,
+        "21/07/2023": 18699731,
+        "22/07/2023": 18617822,
+        "23/07/2023": 18505784,
+        "24/07/2023": 18382454,
+        "25/07/2023": 18250032,
+        "26/07/2023": 18094042,
+        "27/07/2023": 18008233,
+        "28/07/2023": 17895494,
+        "29/07/2023": 17785395,
+        "30/07/2023": 17697360,
+        "31/07/2023": 17662623,
+        "01/08/2023": 17607042,
+        "02/08/2023": 17505876,
+        "03/08/2023": 17461507,
+        "04/08/2023": 17436819,
+        "05/08/2023": 17441415,
+        "06/08/2023": 17434327,
+        "07/08/2023": 17465845,
+        "08/08/2023": 17507428,
+        "09/08/2023": 17573880,
+        "10/08/2023": 17679070,
+        "11/08/2023": 17714024,
+        "12/08/2023": 17843419,
+        "13/08/2023": 17842346,
+        "14/08/2023": 17848010,
+        "15/08/2023": 17695187,
+        "16/08/2023": 17302876,
+        "17/08/2023": 16867188,
+        "18/08/2023": 16451590,
+        "19/08/2023": 16012536,
+        "20/08/2023": 15512991,
+        "21/08/2023": 15025662,
+        "22/08/2023": 14535346,
+        "23/08/2023": 14065570,
+        "24/08/2023": 13609125,
+        "25/08/2023": 13172669,
+        "26/08/2023": 12761582,
+        "27/08/2023": 12365601,
+        "28/08/2023": 11990099
+    },
+    "playerStatus": "injured"
+}
