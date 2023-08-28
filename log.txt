@@ -1,8 +1,7 @@
-[22:32:47.112] INFO - Eliminando anteriores archivos (data/, players/)
-[22:32:47.113] INFO - API endpoint https://api.laligafantasymarca.com/api/v3/player
-[22:32:47.113] INFO - API endpoint market-values https://api.laligafantasymarca.com/api/v3/player/ID_JUGADOR/market-value
-[22:33:43.765] ERROR - Jugador 69 [NO ENCONTRADO]
-[22:33:47.637] CRITICAL - HTTPSConnectionPool(host='api.laligafantasymarca.com', port=443): Read timed out. (read timeout=30)
+[22:36:34.916] INFO - Eliminando anteriores archivos (data/, players/)
+[22:36:34.917] INFO - API endpoint https://api.laligafantasymarca.com/api/v3/player
+[22:36:34.917] INFO - API endpoint market-values https://api.laligafantasymarca.com/api/v3/player/ID_JUGADOR/market-value
+[22:37:35.430] CRITICAL - HTTPSConnectionPool(host='api.laligafantasymarca.com', port=443): Read timed out. (read timeout=30)
 Traceback (most recent call last):
   File "C:\Users\Msi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\urllib3\connectionpool.py", line 466, in _make_request
     six.raise_from(e, None)
