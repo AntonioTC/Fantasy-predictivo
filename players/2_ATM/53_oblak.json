@@ -185,8 +185,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -230,7 +230,7 @@
                 ],
                 "goals_conceded": [
                     0,
-                    0
+                    4
                 ],
                 "yellow_card": [
                     0,
@@ -266,17 +266,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    3
                 ]
             },
             "weekNumber": 3,
-            "totalPoints": 1,
+            "totalPoints": 10,
             "isInIdealFormation": false
         }
     ],
-    "points": 15,
-    "weekPoints": 1,
-    "averagePoints": 5,
+    "points": 24,
+    "weekPoints": 10,
+    "averagePoints": 8,
     "id": "53",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t175/color/t175_atletico-de-madrid.png",

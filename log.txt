@@ -1,66 +1,72 @@
-[23:28:46.663] INFO - Eliminando anteriores archivos (data/, players/)
-[23:28:46.677] INFO - API endpoint https://api.laligafantasymarca.com/api/v3/player
-[23:28:46.677] INFO - API endpoint market-values https://api.laligafantasymarca.com/api/v3/player/ID_JUGADOR/market-value
-[23:28:48.191] ERROR - Jugador 57 [NO ENCONTRADO]
-[23:28:49.010] ERROR - Jugador 61 [out_of_league]
-[23:28:51.598] INFO - Escribiendo historial market-value del jugador 62 (47 values)
-[23:28:51.605] INFO - Jugador 62 almacenado correctamente
-[23:28:55.543] ERROR - Jugador 60 [NO ENCONTRADO]
-[23:28:57.665] ERROR - Jugador 54 [NO ENCONTRADO]
-[23:28:58.510] ERROR - Jugador 52 [NO ENCONTRADO]
-[23:28:59.548] INFO - Escribiendo historial market-value del jugador 59 (47 values)
-[23:28:59.552] INFO - Jugador 59 almacenado correctamente
-[23:28:59.991] ERROR - Jugador 70 [NO ENCONTRADO]
-[23:29:04.110] INFO - Escribiendo historial market-value del jugador 55 (47 values)
-[23:29:04.116] INFO - Jugador 55 almacenado correctamente
-[23:29:05.154] ERROR - Jugador 63 [NO ENCONTRADO]
-[23:29:05.316] INFO - Escribiendo historial market-value del jugador 65 (47 values)
-[23:29:05.320] INFO - Jugador 65 almacenado correctamente
-[23:29:08.527] ERROR - Jugador 71 [out_of_league]
-[23:29:08.579] ERROR - Jugador 69 [NO ENCONTRADO]
-[23:29:09.229] INFO - Escribiendo historial market-value del jugador 56 (47 values)
-[23:29:09.234] INFO - Jugador 56 almacenado correctamente
-[23:29:09.519] ERROR - Jugador 66 [NO ENCONTRADO]
-[23:29:10.052] INFO - Escribiendo historial market-value del jugador 74 (47 values)
-[23:29:10.057] INFO - Jugador 74 almacenado correctamente
-[23:29:12.259] INFO - Escribiendo historial market-value del jugador 78 (19 values)
-[23:29:12.264] INFO - Jugador 78 almacenado correctamente
-[23:29:14.249] INFO - Escribiendo historial market-value del jugador 72 (40 values)
-[23:29:14.254] INFO - Jugador 72 almacenado correctamente
-[23:29:16.722] ERROR - Jugador 75 [out_of_league]
-[23:29:22.096] INFO - Escribiendo historial market-value del jugador 53 (47 values)
-[23:29:22.101] INFO - Jugador 53 almacenado correctamente
-[23:29:23.612] INFO - Escribiendo historial market-value del jugador 82 (47 values)
-[23:29:23.619] INFO - Jugador 82 almacenado correctamente
-[23:29:24.907] ERROR - Jugador 79 [out_of_league]
-[23:29:25.146] INFO - Escribiendo historial market-value del jugador 80 (47 values)
-[23:29:25.151] INFO - Jugador 80 almacenado correctamente
-[23:29:25.487] ERROR - Jugador 84 [out_of_league]
-[23:29:30.488] INFO - Escribiendo historial market-value del jugador 77 (47 values)
-[23:29:30.492] INFO - Jugador 77 almacenado correctamente
-[23:29:31.286] ERROR - Jugador 76 [NO ENCONTRADO]
-[23:29:32.135] ERROR - Jugador 88 [NO ENCONTRADO]
-[23:29:32.582] INFO - Escribiendo historial market-value del jugador 73 (40 values)
-[23:29:32.587] INFO - Jugador 73 almacenado correctamente
-[23:29:34.149] INFO - Escribiendo historial market-value del jugador 58 (47 values)
-[23:29:34.153] INFO - Jugador 58 almacenado correctamente
-[23:29:34.549] ERROR - Jugador 83 [NO ENCONTRADO]
-[23:29:35.084] ERROR - Jugador 89 [NO ENCONTRADO]
-[23:29:42.003] INFO - Escribiendo historial market-value del jugador 86 (40 values)
-[23:29:42.008] INFO - Jugador 86 almacenado correctamente
-[23:29:42.120] ERROR - Jugador 85 [NO ENCONTRADO]
-[23:29:42.158] INFO - Escribiendo historial market-value del jugador 90 (40 values)
-[23:29:42.164] INFO - Jugador 90 almacenado correctamente
-[23:29:42.277] INFO - Escribiendo historial market-value del jugador 81 (47 values)
-[23:29:42.282] INFO - Jugador 81 almacenado correctamente
-[23:29:57.406] INFO - Escribiendo historial market-value del jugador 92 (47 values)
-[23:29:57.411] INFO - Jugador 92 almacenado correctamente
-[23:29:59.430] INFO - Escribiendo historial market-value del jugador 93 (47 values)
-[23:29:59.435] INFO - Jugador 93 almacenado correctamente
-[23:30:00.211] INFO - Escribiendo historial market-value del jugador 91 (47 values)
-[23:30:00.216] INFO - Jugador 91 almacenado correctamente
-[23:30:03.571] ERROR - Jugador 94 [out_of_league]
-[23:30:03.576] CRITICAL - HTTPSConnectionPool(host='api.laligafantasymarca.com', port=443): Read timed out. (read timeout=30)
+[23:30:58.420] INFO - Eliminando anteriores archivos (data/, players/)
+[23:30:58.424] INFO - API endpoint https://api.laligafantasymarca.com/api/v3/player
+[23:30:58.424] INFO - API endpoint market-values https://api.laligafantasymarca.com/api/v3/player/ID_JUGADOR/market-value
+[23:30:58.717] ERROR - Jugador 63 [NO ENCONTRADO]
+[23:30:58.734] ERROR - Jugador 54 [NO ENCONTRADO]
+[23:30:58.924] ERROR - Jugador 64 [NO ENCONTRADO]
+[23:30:59.153] ERROR - Jugador 66 [NO ENCONTRADO]
+[23:30:59.239] ERROR - Jugador 60 [NO ENCONTRADO]
+[23:30:59.285] ERROR - Jugador 61 [out_of_league]
+[23:30:59.512] ERROR - Jugador 69 [NO ENCONTRADO]
+[23:31:01.571] INFO - Escribiendo historial market-value del jugador 55 (47 values)
+[23:31:01.574] INFO - Jugador 55 almacenado correctamente
+[23:31:13.170] ERROR - Jugador 52 [NO ENCONTRADO]
+[23:31:16.733] INFO - Escribiendo historial market-value del jugador 62 (47 values)
+[23:31:16.739] INFO - Jugador 62 almacenado correctamente
+[23:31:17.062] INFO - Escribiendo historial market-value del jugador 53 (47 values)
+[23:31:17.067] INFO - Jugador 53 almacenado correctamente
+[23:31:17.377] INFO - Escribiendo historial market-value del jugador 58 (47 values)
+[23:31:17.381] INFO - Jugador 58 almacenado correctamente
+[23:31:17.975] ERROR - Jugador 57 [NO ENCONTRADO]
+[23:31:18.165] ERROR - Jugador 75 [out_of_league]
+[23:31:20.292] INFO - Escribiendo historial market-value del jugador 67 (47 values)
+[23:31:20.297] INFO - Jugador 67 almacenado correctamente
+[23:31:22.594] INFO - Escribiendo historial market-value del jugador 77 (47 values)
+[23:31:22.597] INFO - Jugador 77 almacenado correctamente
+[23:31:24.683] INFO - Escribiendo historial market-value del jugador 59 (47 values)
+[23:31:24.687] INFO - Jugador 59 almacenado correctamente
+[23:31:25.792] ERROR - Jugador 71 [out_of_league]
+[23:31:26.749] INFO - Escribiendo historial market-value del jugador 65 (47 values)
+[23:31:26.752] INFO - Jugador 65 almacenado correctamente
+[23:31:27.927] INFO - Escribiendo historial market-value del jugador 82 (47 values)
+[23:31:27.932] INFO - Jugador 82 almacenado correctamente
+[23:31:28.163] ERROR - Jugador 83 [NO ENCONTRADO]
+[23:31:28.860] INFO - Escribiendo historial market-value del jugador 56 (47 values)
+[23:31:28.865] INFO - Jugador 56 almacenado correctamente
+[23:31:31.735] INFO - Escribiendo historial market-value del jugador 74 (47 values)
+[23:31:31.740] INFO - Jugador 74 almacenado correctamente
+[23:31:34.368] ERROR - Jugador 84 [out_of_league]
+[23:31:34.751] ERROR - Jugador 87 [NO ENCONTRADO]
+[23:31:36.045] INFO - Escribiendo historial market-value del jugador 73 (40 values)
+[23:31:36.050] INFO - Jugador 73 almacenado correctamente
+[23:31:36.914] ERROR - Jugador 89 [NO ENCONTRADO]
+[23:31:42.068] INFO - Escribiendo historial market-value del jugador 91 (47 values)
+[23:31:42.076] INFO - Jugador 91 almacenado correctamente
+[23:31:45.190] ERROR - Jugador 88 [NO ENCONTRADO]
+[23:31:46.764] INFO - Escribiendo historial market-value del jugador 81 (47 values)
+[23:31:46.769] INFO - Jugador 81 almacenado correctamente
+[23:31:48.154] INFO - Escribiendo historial market-value del jugador 68 (47 values)
+[23:31:48.162] INFO - Jugador 68 almacenado correctamente
+[23:31:48.395] ERROR - Jugador 96 [NO ENCONTRADO]
+[23:31:50.152] INFO - Escribiendo historial market-value del jugador 72 (40 values)
+[23:31:50.156] INFO - Jugador 72 almacenado correctamente
+[23:31:50.686] ERROR - Jugador 79 [out_of_league]
+[23:31:54.725] INFO - Escribiendo historial market-value del jugador 92 (47 values)
+[23:31:54.730] INFO - Jugador 92 almacenado correctamente
+[23:31:55.601] ERROR - Jugador 95 [out_of_league]
+[23:31:56.354] INFO - Escribiendo historial market-value del jugador 78 (19 values)
+[23:31:56.358] INFO - Jugador 78 almacenado correctamente
+[23:31:57.074] ERROR - Jugador 85 [NO ENCONTRADO]
+[23:31:59.948] INFO - Escribiendo historial market-value del jugador 80 (47 values)
+[23:31:59.952] INFO - Jugador 80 almacenado correctamente
+[23:32:05.282] INFO - Escribiendo historial market-value del jugador 90 (40 values)
+[23:32:05.287] INFO - Jugador 90 almacenado correctamente
+[23:32:09.757] INFO - Escribiendo historial market-value del jugador 86 (40 values)
+[23:32:09.762] INFO - Jugador 86 almacenado correctamente
+[23:32:12.188] ERROR - Jugador 94 [out_of_league]
+[23:32:12.374] INFO - Escribiendo historial market-value del jugador 93 (47 values)
+[23:32:12.379] INFO - Jugador 93 almacenado correctamente
+[23:32:12.387] CRITICAL - HTTPSConnectionPool(host='api.laligafantasymarca.com', port=443): Read timed out. (read timeout=30)
 Traceback (most recent call last):
   File "C:\Users\Msi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\urllib3\connectionpool.py", line 466, in _make_request
     six.raise_from(e, None)
