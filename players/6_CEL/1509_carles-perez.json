@@ -1,0 +1,137 @@
+{
+    "playerStats": [
+        {
+            "stats": {
+                "mins_played": [
+                    63,
+                    2
+                ],
+                "goals": [
+                    0,
+                    0
+                ],
+                "goal_assist": [
+                    0,
+                    0
+                ],
+                "offtarget_att_assist": [
+                    0,
+                    0
+                ],
+                "pen_area_entries": [
+                    1,
+                    0
+                ],
+                "penalty_won": [
+                    0,
+                    0
+                ],
+                "penalty_save": [
+                    0,
+                    0
+                ],
+                "saves": [
+                    0,
+                    0
+                ],
+                "effective_clearance": [
+                    0,
+                    0
+                ],
+                "penalty_failed": [
+                    0,
+                    0
+                ],
+                "own_goals": [
+                    0,
+                    0
+                ],
+                "goals_conceded": [
+                    1,
+                    0
+                ],
+                "yellow_card": [
+                    0,
+                    0
+                ],
+                "second_yellow_card": [
+                    0,
+                    0
+                ],
+                "red_card": [
+                    0,
+                    0
+                ],
+                "total_scoring_att": [
+                    0,
+                    0
+                ],
+                "won_contest": [
+                    0,
+                    0
+                ],
+                "ball_recovery": [
+                    4,
+                    0
+                ],
+                "poss_lost_all": [
+                    12,
+                    -1
+                ],
+                "penalty_conceded": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    1
+                ]
+            },
+            "weekNumber": 1,
+            "totalPoints": 2,
+            "isInIdealFormation": false
+        }
+    ],
+    "points": 2,
+    "averagePoints": 2,
+    "id": "1509",
+    "team": {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t176/color/t176_rc-celta.png",
+        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t176/gray/t176_rc-celta.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t176/white/t176_rc-celta.png",
+        "name": "RC Celta",
+        "id": "6",
+        "shortName": "CEL",
+        "slug": "rc-celta",
+        "dspId": 71,
+        "store": ""
+    },
+    "name": "Carles P\u00e9rez",
+    "lastSeasonPoints": 155,
+    "nickname": "Carles P\u00e9rez",
+    "slug": "carles-perez",
+    "positionId": 4,
+    "position": "Delantero",
+    "marketValue": {
+        "13/07/2023": 10000000,
+        "11/08/2023": 9617376,
+        "12/08/2023": 9264655,
+        "13/08/2023": 9123834,
+        "14/08/2023": 9115356,
+        "15/08/2023": 8970484,
+        "16/08/2023": 8813753,
+        "17/08/2023": 8669137,
+        "18/08/2023": 8579722,
+        "19/08/2023": 8438056,
+        "20/08/2023": 8246042,
+        "21/08/2023": 8017366,
+        "22/08/2023": 7789701,
+        "23/08/2023": 7560399,
+        "24/08/2023": 7328021,
+        "25/08/2023": 7112153,
+        "26/08/2023": 6897678,
+        "27/08/2023": 6675687,
+        "28/08/2023": 6459716
+    },
+    "playerStatus": "injured"
+}

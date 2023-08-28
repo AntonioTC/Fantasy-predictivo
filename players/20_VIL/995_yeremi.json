@@ -1,0 +1,166 @@
+{
+    "playerStats": [
+        {
+            "stats": {
+                "mins_played": [
+                    0,
+                    0
+                ],
+                "goals": [
+                    0,
+                    0
+                ],
+                "goal_assist": [
+                    0,
+                    0
+                ],
+                "offtarget_att_assist": [
+                    0,
+                    0
+                ],
+                "pen_area_entries": [
+                    0,
+                    0
+                ],
+                "penalty_won": [
+                    0,
+                    0
+                ],
+                "penalty_save": [
+                    0,
+                    0
+                ],
+                "saves": [
+                    0,
+                    0
+                ],
+                "effective_clearance": [
+                    0,
+                    0
+                ],
+                "penalty_failed": [
+                    0,
+                    0
+                ],
+                "own_goals": [
+                    0,
+                    0
+                ],
+                "goals_conceded": [
+                    0,
+                    0
+                ],
+                "yellow_card": [
+                    0,
+                    0
+                ],
+                "second_yellow_card": [
+                    0,
+                    0
+                ],
+                "red_card": [
+                    0,
+                    0
+                ],
+                "total_scoring_att": [
+                    0,
+                    0
+                ],
+                "won_contest": [
+                    0,
+                    0
+                ],
+                "ball_recovery": [
+                    0,
+                    0
+                ],
+                "poss_lost_all": [
+                    0,
+                    0
+                ],
+                "penalty_conceded": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 3,
+            "totalPoints": 0,
+            "isInIdealFormation": false
+        }
+    ],
+    "points": 0,
+    "weekPoints": 0,
+    "averagePoints": 0,
+    "id": "995",
+    "team": {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t449/color/t449_villarreal-cf.png",
+        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t449/gray/t449_villarreal-cf.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t449/white/t449_villarreal-cf.png",
+        "name": "Villarreal CF",
+        "id": "20",
+        "shortName": "VIL",
+        "slug": "villarreal-cf",
+        "dspId": 189,
+        "store": ""
+    },
+    "name": "Y\u00e9remi Jes\u00fas Pino Santos",
+    "lastSeasonPoints": 175,
+    "nickname": "Y\u00e9remy Pino",
+    "slug": "yeremi",
+    "positionId": 4,
+    "position": "Delantero",
+    "marketValue": {
+        "13/07/2023": 26000000,
+        "14/07/2023": 25981753,
+        "15/07/2023": 25964235,
+        "16/07/2023": 25872070,
+        "17/07/2023": 25978703,
+        "18/07/2023": 25949055,
+        "19/07/2023": 26244298,
+        "20/07/2023": 26436771,
+        "21/07/2023": 26834762,
+        "22/07/2023": 27222508,
+        "23/07/2023": 27669184,
+        "24/07/2023": 28057061,
+        "25/07/2023": 28582742,
+        "26/07/2023": 29090417,
+        "27/07/2023": 29425661,
+        "28/07/2023": 29697508,
+        "29/07/2023": 29930926,
+        "30/07/2023": 30155813,
+        "31/07/2023": 30369840,
+        "01/08/2023": 30675225,
+        "02/08/2023": 30816705,
+        "03/08/2023": 30812071,
+        "04/08/2023": 30764241,
+        "05/08/2023": 30652155,
+        "06/08/2023": 30493215,
+        "07/08/2023": 30263823,
+        "08/08/2023": 29831627,
+        "09/08/2023": 29167180,
+        "10/08/2023": 28548468,
+        "11/08/2023": 27923306,
+        "12/08/2023": 27383422,
+        "13/08/2023": 26839513,
+        "14/08/2023": 26286037,
+        "15/08/2023": 25591119,
+        "16/08/2023": 24881474,
+        "17/08/2023": 24167392,
+        "18/08/2023": 23479671,
+        "19/08/2023": 22831176,
+        "20/08/2023": 22190260,
+        "21/08/2023": 21565050,
+        "22/08/2023": 20941025,
+        "23/08/2023": 20312675,
+        "24/08/2023": 19714887,
+        "25/08/2023": 19122440,
+        "26/08/2023": 18599956,
+        "27/08/2023": 18116710,
+        "28/08/2023": 17653720
+    },
+    "playerStatus": "doubtful"
+}

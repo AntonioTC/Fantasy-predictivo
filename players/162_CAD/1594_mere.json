@@ -1,0 +1,131 @@
+{
+    "playerStats": [
+        {
+            "stats": {
+                "mins_played": [
+                    3,
+                    1
+                ],
+                "goals": [
+                    0,
+                    0
+                ],
+                "goal_assist": [
+                    0,
+                    0
+                ],
+                "offtarget_att_assist": [
+                    0,
+                    0
+                ],
+                "pen_area_entries": [
+                    0,
+                    0
+                ],
+                "penalty_won": [
+                    0,
+                    0
+                ],
+                "penalty_save": [
+                    0,
+                    0
+                ],
+                "saves": [
+                    0,
+                    0
+                ],
+                "effective_clearance": [
+                    1,
+                    0
+                ],
+                "penalty_failed": [
+                    0,
+                    0
+                ],
+                "own_goals": [
+                    0,
+                    0
+                ],
+                "goals_conceded": [
+                    0,
+                    0
+                ],
+                "yellow_card": [
+                    0,
+                    0
+                ],
+                "second_yellow_card": [
+                    0,
+                    0
+                ],
+                "red_card": [
+                    0,
+                    0
+                ],
+                "total_scoring_att": [
+                    0,
+                    0
+                ],
+                "won_contest": [
+                    0,
+                    0
+                ],
+                "ball_recovery": [
+                    0,
+                    0
+                ],
+                "poss_lost_all": [
+                    2,
+                    0
+                ],
+                "penalty_conceded": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    1
+                ]
+            },
+            "weekNumber": 1,
+            "totalPoints": 2,
+            "isInIdealFormation": false
+        }
+    ],
+    "points": 2,
+    "averagePoints": 2,
+    "id": "1594",
+    "team": {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t1737/color/t1737_cadiz-cf.png",
+        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t1737/gray/t1737_cadiz-cf.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t1737/white/t1737_cadiz-cf.png",
+        "name": "C\u00e1diz CF",
+        "id": "162",
+        "shortName": "CAD",
+        "slug": "cadiz-cf",
+        "dspId": 67,
+        "store": ""
+    },
+    "name": "Jorge Mer\u00e9",
+    "lastSeasonPoints": 36,
+    "nickname": "Mer\u00e9",
+    "slug": "mere",
+    "positionId": 2,
+    "position": "Defensa",
+    "marketValue": {
+        "13/07/2023": 1700000,
+        "17/08/2023": 1640895,
+        "18/08/2023": 1583889,
+        "19/08/2023": 1542958,
+        "20/08/2023": 1495346,
+        "21/08/2023": 1447766,
+        "22/08/2023": 1400726,
+        "23/08/2023": 1354528,
+        "24/08/2023": 1311117,
+        "25/08/2023": 1271129,
+        "26/08/2023": 1231842,
+        "27/08/2023": 1195683,
+        "28/08/2023": 1161361
+    },
+    "playerStatus": "doubtful"
+}

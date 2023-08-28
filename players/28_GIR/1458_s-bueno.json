@@ -1,0 +1,166 @@
+{
+    "playerStats": [
+        {
+            "stats": {
+                "mins_played": [
+                    0,
+                    0
+                ],
+                "goals": [
+                    0,
+                    0
+                ],
+                "goal_assist": [
+                    0,
+                    0
+                ],
+                "offtarget_att_assist": [
+                    0,
+                    0
+                ],
+                "pen_area_entries": [
+                    0,
+                    0
+                ],
+                "penalty_won": [
+                    0,
+                    0
+                ],
+                "penalty_save": [
+                    0,
+                    0
+                ],
+                "saves": [
+                    0,
+                    0
+                ],
+                "effective_clearance": [
+                    0,
+                    0
+                ],
+                "penalty_failed": [
+                    0,
+                    0
+                ],
+                "own_goals": [
+                    0,
+                    0
+                ],
+                "goals_conceded": [
+                    0,
+                    0
+                ],
+                "yellow_card": [
+                    0,
+                    0
+                ],
+                "second_yellow_card": [
+                    0,
+                    0
+                ],
+                "red_card": [
+                    0,
+                    0
+                ],
+                "total_scoring_att": [
+                    0,
+                    0
+                ],
+                "won_contest": [
+                    0,
+                    0
+                ],
+                "ball_recovery": [
+                    0,
+                    0
+                ],
+                "poss_lost_all": [
+                    0,
+                    0
+                ],
+                "penalty_conceded": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 3,
+            "totalPoints": 0,
+            "isInIdealFormation": false
+        }
+    ],
+    "points": 0,
+    "weekPoints": 0,
+    "averagePoints": 0,
+    "id": "1458",
+    "team": {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t2893/color/t2893_girona-fc.png",
+        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t2893/gray/t2893_girona-fc.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t2893/white/t2893_girona-fc.png",
+        "name": "Girona\u00a0FC",
+        "id": "28",
+        "shortName": "GIR",
+        "slug": "girona-fc",
+        "dspId": 151,
+        "store": ""
+    },
+    "name": "Santiago Bueno",
+    "lastSeasonPoints": 121,
+    "nickname": "Santi Bueno",
+    "slug": "s-bueno",
+    "positionId": 2,
+    "position": "Defensa",
+    "marketValue": {
+        "13/07/2023": 8500000,
+        "14/07/2023": 8494034,
+        "15/07/2023": 8488307,
+        "16/07/2023": 8314312,
+        "17/07/2023": 8085096,
+        "18/07/2023": 7871495,
+        "19/07/2023": 7644727,
+        "20/07/2023": 7437917,
+        "21/07/2023": 7239198,
+        "22/07/2023": 7045070,
+        "23/07/2023": 6852020,
+        "24/07/2023": 6655258,
+        "25/07/2023": 6464429,
+        "26/07/2023": 6267331,
+        "27/07/2023": 6075470,
+        "28/07/2023": 5898231,
+        "29/07/2023": 5725696,
+        "30/07/2023": 5561678,
+        "31/07/2023": 5395712,
+        "01/08/2023": 5234626,
+        "02/08/2023": 5085928,
+        "03/08/2023": 4930748,
+        "04/08/2023": 4778745,
+        "05/08/2023": 4628606,
+        "06/08/2023": 4490886,
+        "07/08/2023": 4356194,
+        "08/08/2023": 4221607,
+        "09/08/2023": 4087965,
+        "10/08/2023": 3959194,
+        "11/08/2023": 3831840,
+        "12/08/2023": 3705521,
+        "13/08/2023": 3583232,
+        "14/08/2023": 3462635,
+        "15/08/2023": 3343591,
+        "16/08/2023": 3230433,
+        "17/08/2023": 3118730,
+        "18/08/2023": 3012023,
+        "19/08/2023": 2913164,
+        "20/08/2023": 2820155,
+        "21/08/2023": 2729254,
+        "22/08/2023": 2638919,
+        "23/08/2023": 2551237,
+        "24/08/2023": 2466428,
+        "25/08/2023": 2385481,
+        "26/08/2023": 2312626,
+        "27/08/2023": 2242940,
+        "28/08/2023": 2175850
+    },
+    "playerStatus": "ok"
+}

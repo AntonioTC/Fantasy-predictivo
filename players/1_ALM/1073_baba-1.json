@@ -1,0 +1,348 @@
+{
+    "playerStats": [
+        {
+            "stats": {
+                "mins_played": [
+                    77,
+                    2
+                ],
+                "goals": [
+                    0,
+                    0
+                ],
+                "goal_assist": [
+                    0,
+                    0
+                ],
+                "offtarget_att_assist": [
+                    0,
+                    0
+                ],
+                "pen_area_entries": [
+                    0,
+                    0
+                ],
+                "penalty_won": [
+                    0,
+                    0
+                ],
+                "penalty_save": [
+                    0,
+                    0
+                ],
+                "saves": [
+                    0,
+                    0
+                ],
+                "effective_clearance": [
+                    0,
+                    0
+                ],
+                "penalty_failed": [
+                    0,
+                    0
+                ],
+                "own_goals": [
+                    0,
+                    0
+                ],
+                "goals_conceded": [
+                    2,
+                    -1
+                ],
+                "yellow_card": [
+                    0,
+                    0
+                ],
+                "second_yellow_card": [
+                    0,
+                    0
+                ],
+                "red_card": [
+                    0,
+                    0
+                ],
+                "total_scoring_att": [
+                    0,
+                    0
+                ],
+                "won_contest": [
+                    0,
+                    0
+                ],
+                "ball_recovery": [
+                    8,
+                    1
+                ],
+                "poss_lost_all": [
+                    5,
+                    0
+                ],
+                "penalty_conceded": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    1
+                ]
+            },
+            "weekNumber": 1,
+            "totalPoints": 3,
+            "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "mins_played": [
+                    89,
+                    2
+                ],
+                "goals": [
+                    0,
+                    0
+                ],
+                "goal_assist": [
+                    0,
+                    0
+                ],
+                "offtarget_att_assist": [
+                    0,
+                    0
+                ],
+                "pen_area_entries": [
+                    1,
+                    0
+                ],
+                "penalty_won": [
+                    0,
+                    0
+                ],
+                "penalty_save": [
+                    0,
+                    0
+                ],
+                "saves": [
+                    0,
+                    0
+                ],
+                "effective_clearance": [
+                    1,
+                    0
+                ],
+                "penalty_failed": [
+                    0,
+                    0
+                ],
+                "own_goals": [
+                    0,
+                    0
+                ],
+                "goals_conceded": [
+                    3,
+                    -1
+                ],
+                "yellow_card": [
+                    0,
+                    0
+                ],
+                "second_yellow_card": [
+                    0,
+                    0
+                ],
+                "red_card": [
+                    0,
+                    0
+                ],
+                "total_scoring_att": [
+                    1,
+                    0
+                ],
+                "won_contest": [
+                    1,
+                    0
+                ],
+                "ball_recovery": [
+                    9,
+                    1
+                ],
+                "poss_lost_all": [
+                    8,
+                    0
+                ],
+                "penalty_conceded": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    2
+                ]
+            },
+            "weekNumber": 2,
+            "totalPoints": 4,
+            "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "mins_played": [
+                    90,
+                    2
+                ],
+                "goals": [
+                    0,
+                    0
+                ],
+                "goal_assist": [
+                    0,
+                    0
+                ],
+                "offtarget_att_assist": [
+                    0,
+                    0
+                ],
+                "pen_area_entries": [
+                    0,
+                    0
+                ],
+                "penalty_won": [
+                    0,
+                    0
+                ],
+                "penalty_save": [
+                    0,
+                    0
+                ],
+                "saves": [
+                    0,
+                    0
+                ],
+                "effective_clearance": [
+                    2,
+                    0
+                ],
+                "penalty_failed": [
+                    0,
+                    0
+                ],
+                "own_goals": [
+                    0,
+                    0
+                ],
+                "goals_conceded": [
+                    1,
+                    0
+                ],
+                "yellow_card": [
+                    0,
+                    0
+                ],
+                "second_yellow_card": [
+                    0,
+                    0
+                ],
+                "red_card": [
+                    0,
+                    0
+                ],
+                "total_scoring_att": [
+                    0,
+                    0
+                ],
+                "won_contest": [
+                    3,
+                    1
+                ],
+                "ball_recovery": [
+                    10,
+                    2
+                ],
+                "poss_lost_all": [
+                    9,
+                    0
+                ],
+                "penalty_conceded": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    2
+                ]
+            },
+            "weekNumber": 3,
+            "totalPoints": 7,
+            "isInIdealFormation": false
+        }
+    ],
+    "points": 14,
+    "weekPoints": 7,
+    "averagePoints": 4.666666666666667,
+    "id": "1073",
+    "team": {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t1564/color/t1564_ud-almeria.png",
+        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t1564/gray/t1564_ud-almeria.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t1564/white/t1564_ud-almeria.png",
+        "name": "UD\u00a0Almer\u00eda",
+        "id": "1",
+        "shortName": "ALM",
+        "slug": "ud-almeria",
+        "dspId": 56,
+        "store": ""
+    },
+    "name": "Iddrisu Baba",
+    "lastSeasonPoints": 89,
+    "nickname": "Baba",
+    "slug": "baba-1",
+    "positionId": 3,
+    "position": "Centrocampista",
+    "marketValue": {
+        "13/07/2023": 8500000,
+        "14/07/2023": 8494034,
+        "15/07/2023": 8488307,
+        "16/07/2023": 8655872,
+        "17/07/2023": 8641191,
+        "18/07/2023": 8483076,
+        "19/07/2023": 8337654,
+        "20/07/2023": 8148444,
+        "21/07/2023": 7939445,
+        "22/07/2023": 7759140,
+        "23/07/2023": 7551582,
+        "24/07/2023": 7338882,
+        "25/07/2023": 7159133,
+        "26/07/2023": 6977638,
+        "27/07/2023": 6798134,
+        "28/07/2023": 6612666,
+        "29/07/2023": 6452881,
+        "30/07/2023": 6280000,
+        "31/07/2023": 6119344,
+        "01/08/2023": 5959295,
+        "02/08/2023": 5822440,
+        "03/08/2023": 5675655,
+        "04/08/2023": 5534708,
+        "05/08/2023": 5414032,
+        "06/08/2023": 5286475,
+        "07/08/2023": 5156390,
+        "08/08/2023": 5036188,
+        "09/08/2023": 4923286,
+        "10/08/2023": 4814353,
+        "11/08/2023": 4710571,
+        "12/08/2023": 4650741,
+        "13/08/2023": 4579870,
+        "14/08/2023": 4502163,
+        "15/08/2023": 4418641,
+        "16/08/2023": 4350593,
+        "17/08/2023": 4266599,
+        "18/08/2023": 4190520,
+        "19/08/2023": 4112517,
+        "20/08/2023": 4018982,
+        "21/08/2023": 3970871,
+        "22/08/2023": 3916545,
+        "23/08/2023": 3880800,
+        "24/08/2023": 3833660,
+        "25/08/2023": 3827942,
+        "26/08/2023": 3791521,
+        "27/08/2023": 3730038,
+        "28/08/2023": 3768883
+    },
+    "playerStatus": "ok"
+}

@@ -1,0 +1,165 @@
+{
+    "playerStats": [
+        {
+            "stats": {
+                "mins_played": [
+                    24,
+                    1
+                ],
+                "goals": [
+                    0,
+                    0
+                ],
+                "goal_assist": [
+                    0,
+                    0
+                ],
+                "offtarget_att_assist": [
+                    0,
+                    0
+                ],
+                "pen_area_entries": [
+                    0,
+                    0
+                ],
+                "penalty_won": [
+                    0,
+                    0
+                ],
+                "penalty_save": [
+                    0,
+                    0
+                ],
+                "saves": [
+                    0,
+                    0
+                ],
+                "effective_clearance": [
+                    0,
+                    0
+                ],
+                "penalty_failed": [
+                    0,
+                    0
+                ],
+                "own_goals": [
+                    0,
+                    0
+                ],
+                "goals_conceded": [
+                    1,
+                    0
+                ],
+                "yellow_card": [
+                    0,
+                    0
+                ],
+                "second_yellow_card": [
+                    0,
+                    0
+                ],
+                "red_card": [
+                    0,
+                    0
+                ],
+                "total_scoring_att": [
+                    0,
+                    0
+                ],
+                "won_contest": [
+                    0,
+                    0
+                ],
+                "ball_recovery": [
+                    2,
+                    0
+                ],
+                "poss_lost_all": [
+                    3,
+                    0
+                ],
+                "penalty_conceded": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 1,
+            "totalPoints": 1,
+            "isInIdealFormation": false
+        }
+    ],
+    "points": 1,
+    "averagePoints": 1,
+    "id": "664",
+    "team": {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t449/color/t449_villarreal-cf.png",
+        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t449/gray/t449_villarreal-cf.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t449/white/t449_villarreal-cf.png",
+        "name": "Villarreal CF",
+        "id": "20",
+        "shortName": "VIL",
+        "slug": "villarreal-cf",
+        "dspId": 189,
+        "store": ""
+    },
+    "name": "Alberto Moreno",
+    "lastSeasonPoints": 67,
+    "nickname": "Alberto Moreno",
+    "slug": "alberto-moreno",
+    "positionId": 2,
+    "position": "Defensa",
+    "marketValue": {
+        "13/07/2023": 7000000,
+        "14/07/2023": 6995087,
+        "15/07/2023": 6990370,
+        "16/07/2023": 6970248,
+        "17/07/2023": 6834992,
+        "18/07/2023": 6677983,
+        "19/07/2023": 6529801,
+        "20/07/2023": 6380534,
+        "21/07/2023": 6244323,
+        "22/07/2023": 6082592,
+        "23/07/2023": 5974170,
+        "24/07/2023": 5838469,
+        "25/07/2023": 5696133,
+        "26/07/2023": 5568703,
+        "27/07/2023": 5442708,
+        "28/07/2023": 5306838,
+        "29/07/2023": 5176248,
+        "30/07/2023": 5065289,
+        "31/07/2023": 4959894,
+        "01/08/2023": 4853702,
+        "02/08/2023": 4755392,
+        "03/08/2023": 4667324,
+        "04/08/2023": 4579653,
+        "05/08/2023": 4492117,
+        "06/08/2023": 4433818,
+        "07/08/2023": 4368249,
+        "08/08/2023": 4288021,
+        "09/08/2023": 4173593,
+        "10/08/2023": 4066056,
+        "11/08/2023": 3962635,
+        "12/08/2023": 3862368,
+        "13/08/2023": 3752334,
+        "14/08/2023": 3642580,
+        "15/08/2023": 3530085,
+        "16/08/2023": 3420296,
+        "17/08/2023": 3312876,
+        "18/08/2023": 3211215,
+        "19/08/2023": 3115186,
+        "20/08/2023": 3016477,
+        "21/08/2023": 2919785,
+        "22/08/2023": 2824110,
+        "23/08/2023": 2730200,
+        "24/08/2023": 2643253,
+        "25/08/2023": 2559400,
+        "26/08/2023": 2478104,
+        "27/08/2023": 2398212,
+        "28/08/2023": 2320356
+    },
+    "playerStatus": "injured"
+}

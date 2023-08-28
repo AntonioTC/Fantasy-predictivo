@@ -1,0 +1,135 @@
+{
+    "playerStats": [
+        {
+            "stats": {
+                "mins_played": [
+                    90,
+                    2
+                ],
+                "goals": [
+                    0,
+                    0
+                ],
+                "goal_assist": [
+                    0,
+                    0
+                ],
+                "offtarget_att_assist": [
+                    0,
+                    0
+                ],
+                "pen_area_entries": [
+                    1,
+                    0
+                ],
+                "penalty_won": [
+                    0,
+                    0
+                ],
+                "penalty_save": [
+                    0,
+                    0
+                ],
+                "saves": [
+                    0,
+                    0
+                ],
+                "effective_clearance": [
+                    1,
+                    0
+                ],
+                "penalty_failed": [
+                    0,
+                    0
+                ],
+                "own_goals": [
+                    0,
+                    0
+                ],
+                "goals_conceded": [
+                    0,
+                    3
+                ],
+                "yellow_card": [
+                    0,
+                    0
+                ],
+                "second_yellow_card": [
+                    0,
+                    0
+                ],
+                "red_card": [
+                    0,
+                    0
+                ],
+                "total_scoring_att": [
+                    0,
+                    0
+                ],
+                "won_contest": [
+                    1,
+                    0
+                ],
+                "ball_recovery": [
+                    4,
+                    0
+                ],
+                "poss_lost_all": [
+                    6,
+                    0
+                ],
+                "penalty_conceded": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    2
+                ]
+            },
+            "weekNumber": 1,
+            "totalPoints": 7,
+            "isInIdealFormation": false
+        }
+    ],
+    "points": 7,
+    "averagePoints": 7,
+    "id": "939",
+    "team": {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t178/color/t178_fc-barcelona.png",
+        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t178/gray/t178_fc-barcelona.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t178/white/t178_fc-barcelona.png",
+        "name": "FC Barcelona",
+        "id": "4",
+        "shortName": "BAR",
+        "slug": "fc-barcelona",
+        "dspId": 74,
+        "store": ""
+    },
+    "name": "Ronald Ara\u00fajo",
+    "lastSeasonPoints": 130,
+    "nickname": "Ara\u00fajo",
+    "slug": "r-araujo",
+    "positionId": 2,
+    "position": "Defensa",
+    "marketValue": {
+        "13/07/2023": 46000000,
+        "13/08/2023": 44329563,
+        "14/08/2023": 42766418,
+        "15/08/2023": 43364611,
+        "16/08/2023": 44169092,
+        "17/08/2023": 44718357,
+        "18/08/2023": 44706440,
+        "19/08/2023": 43916196,
+        "20/08/2023": 42854672,
+        "21/08/2023": 41728147,
+        "22/08/2023": 40571760,
+        "23/08/2023": 39482607,
+        "24/08/2023": 38476677,
+        "25/08/2023": 37550174,
+        "26/08/2023": 36633827,
+        "27/08/2023": 35750946,
+        "28/08/2023": 34944148
+    },
+    "playerStatus": "injured"
+}

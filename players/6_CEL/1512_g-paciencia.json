@@ -1,0 +1,165 @@
+{
+    "playerStats": [
+        {
+            "stats": {
+                "mins_played": [
+                    0,
+                    0
+                ],
+                "goals": [
+                    0,
+                    0
+                ],
+                "goal_assist": [
+                    0,
+                    0
+                ],
+                "offtarget_att_assist": [
+                    0,
+                    0
+                ],
+                "pen_area_entries": [
+                    0,
+                    0
+                ],
+                "penalty_won": [
+                    0,
+                    0
+                ],
+                "penalty_save": [
+                    0,
+                    0
+                ],
+                "saves": [
+                    0,
+                    0
+                ],
+                "effective_clearance": [
+                    0,
+                    0
+                ],
+                "penalty_failed": [
+                    0,
+                    0
+                ],
+                "own_goals": [
+                    0,
+                    0
+                ],
+                "goals_conceded": [
+                    0,
+                    0
+                ],
+                "yellow_card": [
+                    0,
+                    0
+                ],
+                "second_yellow_card": [
+                    0,
+                    0
+                ],
+                "red_card": [
+                    0,
+                    0
+                ],
+                "total_scoring_att": [
+                    0,
+                    0
+                ],
+                "won_contest": [
+                    0,
+                    0
+                ],
+                "ball_recovery": [
+                    0,
+                    0
+                ],
+                "poss_lost_all": [
+                    0,
+                    0
+                ],
+                "penalty_conceded": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 1,
+            "totalPoints": 0,
+            "isInIdealFormation": false
+        }
+    ],
+    "points": 0,
+    "averagePoints": 0,
+    "id": "1512",
+    "team": {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t176/color/t176_rc-celta.png",
+        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t176/gray/t176_rc-celta.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t176/white/t176_rc-celta.png",
+        "name": "RC Celta",
+        "id": "6",
+        "shortName": "CEL",
+        "slug": "rc-celta",
+        "dspId": 71,
+        "store": ""
+    },
+    "name": "Gon\u00e7alo Mendes Paci\u00eancia",
+    "lastSeasonPoints": 49,
+    "nickname": "Paciencia",
+    "slug": "g-paciencia",
+    "positionId": 4,
+    "position": "Delantero",
+    "marketValue": {
+        "13/07/2023": 8000000,
+        "14/07/2023": 7994385,
+        "15/07/2023": 7988995,
+        "16/07/2023": 8212656,
+        "17/07/2023": 8174427,
+        "18/07/2023": 7953953,
+        "19/07/2023": 7705567,
+        "20/07/2023": 7469166,
+        "21/07/2023": 7243473,
+        "22/07/2023": 7032753,
+        "23/07/2023": 6824399,
+        "24/07/2023": 6605517,
+        "25/07/2023": 6407538,
+        "26/07/2023": 6217196,
+        "27/07/2023": 6022345,
+        "28/07/2023": 5835131,
+        "29/07/2023": 5648675,
+        "30/07/2023": 5471854,
+        "31/07/2023": 5298189,
+        "01/08/2023": 5135560,
+        "02/08/2023": 4981847,
+        "03/08/2023": 4823781,
+        "04/08/2023": 4672574,
+        "05/08/2023": 4525149,
+        "06/08/2023": 4387671,
+        "07/08/2023": 4256513,
+        "08/08/2023": 4126822,
+        "09/08/2023": 4006209,
+        "10/08/2023": 3896650,
+        "11/08/2023": 3787094,
+        "12/08/2023": 3683198,
+        "13/08/2023": 3573917,
+        "14/08/2023": 3459938,
+        "15/08/2023": 3343237,
+        "16/08/2023": 3228704,
+        "17/08/2023": 3118031,
+        "18/08/2023": 3013372,
+        "19/08/2023": 2916089,
+        "20/08/2023": 2819874,
+        "21/08/2023": 2726871,
+        "22/08/2023": 2634572,
+        "23/08/2023": 2544380,
+        "24/08/2023": 2458183,
+        "25/08/2023": 2379545,
+        "26/08/2023": 2301328,
+        "27/08/2023": 2225833,
+        "28/08/2023": 2152764
+    },
+    "playerStatus": "injured"
+}

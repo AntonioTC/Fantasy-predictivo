@@ -1,0 +1,36 @@
+{
+    "playerStats": [],
+    "points": 0,
+    "averagePoints": 0,
+    "id": "1210",
+    "team": {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t173/color/t173_d-alaves.png",
+        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t173/gray/t173_d-alaves.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t173/white/t173_d-alaves.png",
+        "name": "Deportivo Alav\u00e9s",
+        "id": "21",
+        "shortName": "ALA",
+        "slug": "d-alaves",
+        "dspId": 66,
+        "store": ""
+    },
+    "name": "Giuliano Simeone",
+    "nickname": "Giuliano",
+    "slug": "Giuliano-Simeone",
+    "positionId": 4,
+    "position": "Delantero",
+    "marketValue": {
+        "18/08/2023": 523149,
+        "19/08/2023": 512106,
+        "20/08/2023": 502843,
+        "21/08/2023": 494629,
+        "22/08/2023": 485714,
+        "23/08/2023": 476117,
+        "24/08/2023": 467843,
+        "25/08/2023": 459965,
+        "26/08/2023": 453124,
+        "27/08/2023": 448113,
+        "28/08/2023": 443694
+    },
+    "playerStatus": "injured"
+}
