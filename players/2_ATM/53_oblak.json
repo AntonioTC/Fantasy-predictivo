@@ -253,11 +253,11 @@
                     0
                 ],
                 "ball_recovery": [
-                    7,
+                    9,
                     1
                 ],
                 "poss_lost_all": [
-                    10,
+                    13,
                     -1
                 ],
                 "penalty_conceded": [
