@@ -1,0 +1,1 @@
+                features = np.column_stack((puntos_jornadas, valores))

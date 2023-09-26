@@ -272,11 +272,193 @@
             "weekNumber": 3,
             "totalPoints": 1,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "mins_played": [
+                    85,
+                    2
+                ],
+                "goals": [
+                    0,
+                    0
+                ],
+                "goal_assist": [
+                    0,
+                    0
+                ],
+                "offtarget_att_assist": [
+                    1,
+                    1
+                ],
+                "pen_area_entries": [
+                    2,
+                    1
+                ],
+                "penalty_won": [
+                    0,
+                    0
+                ],
+                "penalty_save": [
+                    0,
+                    0
+                ],
+                "saves": [
+                    0,
+                    0
+                ],
+                "effective_clearance": [
+                    0,
+                    0
+                ],
+                "penalty_failed": [
+                    0,
+                    0
+                ],
+                "own_goals": [
+                    0,
+                    0
+                ],
+                "goals_conceded": [
+                    0,
+                    1
+                ],
+                "yellow_card": [
+                    1,
+                    -1
+                ],
+                "second_yellow_card": [
+                    0,
+                    0
+                ],
+                "red_card": [
+                    0,
+                    0
+                ],
+                "total_scoring_att": [
+                    1,
+                    0
+                ],
+                "won_contest": [
+                    5,
+                    2
+                ],
+                "ball_recovery": [
+                    4,
+                    0
+                ],
+                "poss_lost_all": [
+                    13,
+                    -1
+                ],
+                "penalty_conceded": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    2
+                ]
+            },
+            "weekNumber": 5,
+            "totalPoints": 7,
+            "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "mins_played": [
+                    90,
+                    2
+                ],
+                "goals": [
+                    0,
+                    0
+                ],
+                "goal_assist": [
+                    0,
+                    0
+                ],
+                "offtarget_att_assist": [
+                    0,
+                    0
+                ],
+                "pen_area_entries": [
+                    1,
+                    0
+                ],
+                "penalty_won": [
+                    0,
+                    0
+                ],
+                "penalty_save": [
+                    0,
+                    0
+                ],
+                "saves": [
+                    0,
+                    0
+                ],
+                "effective_clearance": [
+                    1,
+                    0
+                ],
+                "penalty_failed": [
+                    0,
+                    0
+                ],
+                "own_goals": [
+                    0,
+                    0
+                ],
+                "goals_conceded": [
+                    0,
+                    1
+                ],
+                "yellow_card": [
+                    0,
+                    0
+                ],
+                "second_yellow_card": [
+                    0,
+                    0
+                ],
+                "red_card": [
+                    0,
+                    0
+                ],
+                "total_scoring_att": [
+                    0,
+                    0
+                ],
+                "won_contest": [
+                    2,
+                    1
+                ],
+                "ball_recovery": [
+                    4,
+                    0
+                ],
+                "poss_lost_all": [
+                    32,
+                    -2
+                ],
+                "penalty_conceded": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    2
+                ]
+            },
+            "weekNumber": 6,
+            "totalPoints": 4,
+            "isInIdealFormation": false
         }
     ],
-    "points": 8,
-    "weekPoints": 1,
-    "averagePoints": 2.6666666666666665,
+    "points": 19,
+    "weekPoints": 4,
+    "averagePoints": 3.8,
     "id": "567",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t179/color/t179_sevilla-fc.png",
@@ -342,7 +524,36 @@
         "25/08/2023": 13534338,
         "26/08/2023": 13428742,
         "27/08/2023": 13241941,
-        "28/08/2023": 13006620
+        "28/08/2023": 13006620,
+        "29/08/2023": 12714594,
+        "30/08/2023": 12386354,
+        "31/08/2023": 12099061,
+        "01/09/2023": 11830674,
+        "02/09/2023": 11599174,
+        "03/09/2023": 11334746,
+        "04/09/2023": 11047698,
+        "05/09/2023": 10759531,
+        "06/09/2023": 10478103,
+        "07/09/2023": 10223551,
+        "08/09/2023": 9991061,
+        "09/09/2023": 9760774,
+        "10/09/2023": 9541925,
+        "11/09/2023": 9326131,
+        "12/09/2023": 9144433,
+        "13/09/2023": 8974413,
+        "14/09/2023": 8812953,
+        "15/09/2023": 8683566,
+        "16/09/2023": 8564825,
+        "17/09/2023": 8368132,
+        "18/09/2023": 8200581,
+        "19/09/2023": 8138964,
+        "20/09/2023": 8085442,
+        "21/09/2023": 8005524,
+        "22/09/2023": 7973215,
+        "23/09/2023": 7941291,
+        "24/09/2023": 7884859,
+        "25/09/2023": 7861996,
+        "26/09/2023": 7876271
     },
     "playerStatus": "ok"
 }

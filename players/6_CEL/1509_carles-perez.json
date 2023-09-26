@@ -90,10 +90,193 @@
             "weekNumber": 1,
             "totalPoints": 2,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "mins_played": [
+                    0,
+                    0
+                ],
+                "goals": [
+                    0,
+                    0
+                ],
+                "goal_assist": [
+                    0,
+                    0
+                ],
+                "offtarget_att_assist": [
+                    0,
+                    0
+                ],
+                "pen_area_entries": [
+                    0,
+                    0
+                ],
+                "penalty_won": [
+                    0,
+                    0
+                ],
+                "penalty_save": [
+                    0,
+                    0
+                ],
+                "saves": [
+                    0,
+                    0
+                ],
+                "effective_clearance": [
+                    0,
+                    0
+                ],
+                "penalty_failed": [
+                    0,
+                    0
+                ],
+                "own_goals": [
+                    0,
+                    0
+                ],
+                "goals_conceded": [
+                    0,
+                    0
+                ],
+                "yellow_card": [
+                    0,
+                    0
+                ],
+                "second_yellow_card": [
+                    0,
+                    0
+                ],
+                "red_card": [
+                    0,
+                    0
+                ],
+                "total_scoring_att": [
+                    0,
+                    0
+                ],
+                "won_contest": [
+                    0,
+                    0
+                ],
+                "ball_recovery": [
+                    0,
+                    0
+                ],
+                "poss_lost_all": [
+                    0,
+                    0
+                ],
+                "penalty_conceded": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 5,
+            "totalPoints": 0,
+            "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "mins_played": [
+                    0,
+                    0
+                ],
+                "goals": [
+                    0,
+                    0
+                ],
+                "goal_assist": [
+                    0,
+                    0
+                ],
+                "offtarget_att_assist": [
+                    0,
+                    0
+                ],
+                "pen_area_entries": [
+                    0,
+                    0
+                ],
+                "penalty_won": [
+                    0,
+                    0
+                ],
+                "penalty_save": [
+                    0,
+                    0
+                ],
+                "saves": [
+                    0,
+                    0
+                ],
+                "effective_clearance": [
+                    0,
+                    0
+                ],
+                "penalty_failed": [
+                    0,
+                    0
+                ],
+                "own_goals": [
+                    0,
+                    0
+                ],
+                "goals_conceded": [
+                    0,
+                    0
+                ],
+                "yellow_card": [
+                    0,
+                    0
+                ],
+                "second_yellow_card": [
+                    0,
+                    0
+                ],
+                "red_card": [
+                    0,
+                    0
+                ],
+                "total_scoring_att": [
+                    0,
+                    0
+                ],
+                "won_contest": [
+                    0,
+                    0
+                ],
+                "ball_recovery": [
+                    0,
+                    0
+                ],
+                "poss_lost_all": [
+                    0,
+                    0
+                ],
+                "penalty_conceded": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 6,
+            "totalPoints": 0,
+            "isInIdealFormation": false
         }
     ],
     "points": 2,
-    "averagePoints": 2,
+    "weekPoints": 0,
+    "averagePoints": 0.6666666666666666,
     "id": "1509",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t176/color/t176_rc-celta.png",
@@ -131,7 +314,36 @@
         "25/08/2023": 7112153,
         "26/08/2023": 6897678,
         "27/08/2023": 6675687,
-        "28/08/2023": 6459716
+        "28/08/2023": 6459716,
+        "29/08/2023": 6248966,
+        "30/08/2023": 6038058,
+        "31/08/2023": 5837464,
+        "01/09/2023": 5644390,
+        "02/09/2023": 5461600,
+        "03/09/2023": 5286602,
+        "04/09/2023": 5116811,
+        "05/09/2023": 4944304,
+        "06/09/2023": 4782691,
+        "07/09/2023": 4629401,
+        "08/09/2023": 4484612,
+        "09/09/2023": 4345140,
+        "10/09/2023": 4211083,
+        "11/09/2023": 4080027,
+        "12/09/2023": 3956055,
+        "13/09/2023": 3839951,
+        "14/09/2023": 3733239,
+        "15/09/2023": 3633991,
+        "16/09/2023": 3541199,
+        "17/09/2023": 3454984,
+        "18/09/2023": 3360582,
+        "19/09/2023": 3264397,
+        "20/09/2023": 3172730,
+        "21/09/2023": 3082403,
+        "22/09/2023": 2996681,
+        "23/09/2023": 2916724,
+        "24/09/2023": 2837084,
+        "25/09/2023": 2755683,
+        "26/09/2023": 2672551
     },
-    "playerStatus": "injured"
+    "playerStatus": "ok"
 }

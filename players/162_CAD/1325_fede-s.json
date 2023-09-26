@@ -89,7 +89,7 @@
             },
             "weekNumber": 1,
             "totalPoints": 13,
-            "isInIdealFormation": false
+            "isInIdealFormation": true
         },
         {
             "stats": {
@@ -272,11 +272,101 @@
             "weekNumber": 3,
             "totalPoints": -2,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "mins_played": [
+                    0,
+                    0
+                ],
+                "goals": [
+                    0,
+                    0
+                ],
+                "goal_assist": [
+                    0,
+                    0
+                ],
+                "offtarget_att_assist": [
+                    0,
+                    0
+                ],
+                "pen_area_entries": [
+                    0,
+                    0
+                ],
+                "penalty_won": [
+                    0,
+                    0
+                ],
+                "penalty_save": [
+                    0,
+                    0
+                ],
+                "saves": [
+                    0,
+                    0
+                ],
+                "effective_clearance": [
+                    0,
+                    0
+                ],
+                "penalty_failed": [
+                    0,
+                    0
+                ],
+                "own_goals": [
+                    0,
+                    0
+                ],
+                "goals_conceded": [
+                    0,
+                    0
+                ],
+                "yellow_card": [
+                    0,
+                    0
+                ],
+                "second_yellow_card": [
+                    0,
+                    0
+                ],
+                "red_card": [
+                    0,
+                    0
+                ],
+                "total_scoring_att": [
+                    0,
+                    0
+                ],
+                "won_contest": [
+                    0,
+                    0
+                ],
+                "ball_recovery": [
+                    0,
+                    0
+                ],
+                "poss_lost_all": [
+                    0,
+                    0
+                ],
+                "penalty_conceded": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 5,
+            "totalPoints": 0,
+            "isInIdealFormation": false
         }
     ],
     "points": 14,
-    "weekPoints": -2,
-    "averagePoints": 4.666666666666667,
+    "averagePoints": 3.5,
     "id": "1325",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t1737/color/t1737_cadiz-cf.png",
@@ -342,7 +432,36 @@
         "25/08/2023": 3684508,
         "26/08/2023": 3823048,
         "27/08/2023": 3922315,
-        "28/08/2023": 3914225
+        "28/08/2023": 3914225,
+        "29/08/2023": 3876563,
+        "30/08/2023": 3809792,
+        "31/08/2023": 3710447,
+        "01/09/2023": 3612594,
+        "02/09/2023": 3520973,
+        "03/09/2023": 3433253,
+        "04/09/2023": 3351533,
+        "05/09/2023": 3264472,
+        "06/09/2023": 3181234,
+        "07/09/2023": 3105722,
+        "08/09/2023": 3034550,
+        "09/09/2023": 2965273,
+        "10/09/2023": 2895927,
+        "11/09/2023": 2827885,
+        "12/09/2023": 2764202,
+        "13/09/2023": 2708032,
+        "14/09/2023": 2660317,
+        "15/09/2023": 2617838,
+        "16/09/2023": 2582582,
+        "17/09/2023": 2529596,
+        "18/09/2023": 2463632,
+        "19/09/2023": 2395608,
+        "20/09/2023": 2327509,
+        "21/09/2023": 2262517,
+        "22/09/2023": 2200628,
+        "23/09/2023": 2136094,
+        "24/09/2023": 2069279,
+        "25/09/2023": 2002969,
+        "26/09/2023": 1936646
     },
-    "playerStatus": "ok"
+    "playerStatus": "injured"
 }

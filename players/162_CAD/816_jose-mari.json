@@ -272,11 +272,192 @@
             "weekNumber": 3,
             "totalPoints": 0,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "mins_played": [
+                    1,
+                    1
+                ],
+                "goals": [
+                    0,
+                    0
+                ],
+                "goal_assist": [
+                    0,
+                    0
+                ],
+                "offtarget_att_assist": [
+                    0,
+                    0
+                ],
+                "pen_area_entries": [
+                    0,
+                    0
+                ],
+                "penalty_won": [
+                    0,
+                    0
+                ],
+                "penalty_save": [
+                    0,
+                    0
+                ],
+                "saves": [
+                    0,
+                    0
+                ],
+                "effective_clearance": [
+                    0,
+                    0
+                ],
+                "penalty_failed": [
+                    0,
+                    0
+                ],
+                "own_goals": [
+                    0,
+                    0
+                ],
+                "goals_conceded": [
+                    0,
+                    0
+                ],
+                "yellow_card": [
+                    0,
+                    0
+                ],
+                "second_yellow_card": [
+                    0,
+                    0
+                ],
+                "red_card": [
+                    0,
+                    0
+                ],
+                "total_scoring_att": [
+                    0,
+                    0
+                ],
+                "won_contest": [
+                    0,
+                    0
+                ],
+                "ball_recovery": [
+                    0,
+                    0
+                ],
+                "poss_lost_all": [
+                    0,
+                    0
+                ],
+                "penalty_conceded": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    1
+                ]
+            },
+            "weekNumber": 4,
+            "totalPoints": 2,
+            "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "mins_played": [
+                    0,
+                    0
+                ],
+                "goals": [
+                    0,
+                    0
+                ],
+                "goal_assist": [
+                    0,
+                    0
+                ],
+                "offtarget_att_assist": [
+                    0,
+                    0
+                ],
+                "pen_area_entries": [
+                    0,
+                    0
+                ],
+                "penalty_won": [
+                    0,
+                    0
+                ],
+                "penalty_save": [
+                    0,
+                    0
+                ],
+                "saves": [
+                    0,
+                    0
+                ],
+                "effective_clearance": [
+                    0,
+                    0
+                ],
+                "penalty_failed": [
+                    0,
+                    0
+                ],
+                "own_goals": [
+                    0,
+                    0
+                ],
+                "goals_conceded": [
+                    0,
+                    0
+                ],
+                "yellow_card": [
+                    0,
+                    0
+                ],
+                "second_yellow_card": [
+                    0,
+                    0
+                ],
+                "red_card": [
+                    0,
+                    0
+                ],
+                "total_scoring_att": [
+                    0,
+                    0
+                ],
+                "won_contest": [
+                    0,
+                    0
+                ],
+                "ball_recovery": [
+                    0,
+                    0
+                ],
+                "poss_lost_all": [
+                    0,
+                    0
+                ],
+                "penalty_conceded": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 5,
+            "totalPoints": 0,
+            "isInIdealFormation": false
         }
     ],
-    "points": 2,
-    "weekPoints": 0,
-    "averagePoints": 0.6666666666666666,
+    "points": 4,
+    "averagePoints": 0.8,
     "id": "816",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t1737/color/t1737_cadiz-cf.png",
@@ -342,7 +523,36 @@
         "25/08/2023": 548575,
         "26/08/2023": 538190,
         "27/08/2023": 529777,
-        "28/08/2023": 522091
+        "28/08/2023": 522091,
+        "29/08/2023": 514228,
+        "30/08/2023": 504513,
+        "31/08/2023": 495889,
+        "01/09/2023": 487728,
+        "02/09/2023": 480419,
+        "03/09/2023": 474728,
+        "04/09/2023": 468744,
+        "05/09/2023": 459718,
+        "06/09/2023": 452896,
+        "07/09/2023": 447411,
+        "08/09/2023": 443083,
+        "09/09/2023": 439667,
+        "10/09/2023": 437280,
+        "11/09/2023": 434674,
+        "12/09/2023": 432408,
+        "13/09/2023": 431271,
+        "14/09/2023": 430043,
+        "15/09/2023": 428474,
+        "16/09/2023": 426973,
+        "17/09/2023": 426830,
+        "18/09/2023": 425388,
+        "19/09/2023": 422828,
+        "20/09/2023": 419376,
+        "21/09/2023": 415173,
+        "22/09/2023": 411364,
+        "23/09/2023": 407896,
+        "24/09/2023": 406655,
+        "25/09/2023": 405068,
+        "26/09/2023": 401183
     },
     "playerStatus": "ok"
 }
