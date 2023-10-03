@@ -137,11 +137,57 @@
             "weekNumber": 6,
             "totalPoints": 2,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    0,
+                    0
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    1,
+                    2
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 7,
+            "totalPoints": 2,
+            "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    1,
+                    5
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 8,
+            "totalPoints": 5,
+            "isInIdealFormation": false
         }
     ],
-    "points": 14,
-    "weekPoints": 2,
-    "averagePoints": 2.3333333333333335,
+    "points": 21,
+    "weekPoints": 5,
+    "averagePoints": 2.625,
     "id": "1367",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t185/color/t185_real-betis.png",
@@ -236,7 +282,14 @@
         "23/09/2023": 1009662,
         "24/09/2023": 984351,
         "25/09/2023": 959656,
-        "26/09/2023": 933587
+        "26/09/2023": 933587,
+        "27/09/2023": 907661,
+        "28/09/2023": 884457,
+        "29/09/2023": 862100,
+        "30/09/2023": 839838,
+        "01/10/2023": 819511,
+        "02/10/2023": 799986,
+        "03/10/2023": 780698
     },
     "playerStatus": "ok"
 }
