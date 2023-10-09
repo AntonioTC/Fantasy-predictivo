@@ -818,11 +818,102 @@
             "weekNumber": 8,
             "totalPoints": 3,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "mins_played": [
+                    90,
+                    2
+                ],
+                "goals": [
+                    1,
+                    5
+                ],
+                "goal_assist": [
+                    0,
+                    0
+                ],
+                "offtarget_att_assist": [
+                    0,
+                    0
+                ],
+                "pen_area_entries": [
+                    0,
+                    0
+                ],
+                "penalty_won": [
+                    0,
+                    0
+                ],
+                "penalty_save": [
+                    0,
+                    0
+                ],
+                "saves": [
+                    0,
+                    0
+                ],
+                "effective_clearance": [
+                    2,
+                    0
+                ],
+                "penalty_failed": [
+                    0,
+                    0
+                ],
+                "own_goals": [
+                    0,
+                    0
+                ],
+                "goals_conceded": [
+                    1,
+                    0
+                ],
+                "yellow_card": [
+                    0,
+                    0
+                ],
+                "second_yellow_card": [
+                    0,
+                    0
+                ],
+                "red_card": [
+                    0,
+                    0
+                ],
+                "total_scoring_att": [
+                    2,
+                    1
+                ],
+                "won_contest": [
+                    3,
+                    1
+                ],
+                "ball_recovery": [
+                    4,
+                    0
+                ],
+                "poss_lost_all": [
+                    23,
+                    -2
+                ],
+                "penalty_conceded": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    2
+                ]
+            },
+            "weekNumber": 9,
+            "totalPoints": 9,
+            "isInIdealFormation": false
         }
     ],
-    "points": 28,
-    "weekPoints": 3,
-    "averagePoints": 3.111111111111111,
+    "points": 37,
+    "weekPoints": 9,
+    "averagePoints": 3.7,
     "id": "1072",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t181/color/t181_rcd-mallorca.png",
@@ -924,7 +1015,13 @@
         "30/09/2023": 6456128,
         "01/10/2023": 6338918,
         "02/10/2023": 6233116,
-        "03/10/2023": 6124416
+        "03/10/2023": 6124416,
+        "04/10/2023": 6027477,
+        "05/10/2023": 5939192,
+        "06/10/2023": 5876184,
+        "07/10/2023": 5828534,
+        "08/10/2023": 5731317,
+        "09/10/2023": 5729292
     },
     "playerStatus": "ok"
 }

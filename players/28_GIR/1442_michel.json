@@ -183,11 +183,34 @@
             "weekNumber": 8,
             "totalPoints": 0,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    1,
+                    5
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 9,
+            "totalPoints": 5,
+            "isInIdealFormation": false
         }
     ],
-    "points": 32,
-    "weekPoints": 0,
-    "averagePoints": 4,
+    "points": 37,
+    "weekPoints": 5,
+    "averagePoints": 4.111111111111111,
     "id": "1442",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t2893/color/t2893_girona-fc.png",
@@ -289,7 +312,13 @@
         "30/09/2023": 656058,
         "01/10/2023": 643082,
         "02/10/2023": 630614,
-        "03/10/2023": 618100
+        "03/10/2023": 618100,
+        "04/10/2023": 605726,
+        "05/10/2023": 593595,
+        "06/10/2023": 582948,
+        "07/10/2023": 573161,
+        "08/10/2023": 566000,
+        "09/10/2023": 558880
     },
     "playerStatus": "ok"
 }

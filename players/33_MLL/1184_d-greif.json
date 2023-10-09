@@ -818,6 +818,97 @@
             "weekNumber": 8,
             "totalPoints": 0,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "mins_played": [
+                    0,
+                    0
+                ],
+                "goals": [
+                    0,
+                    0
+                ],
+                "goal_assist": [
+                    0,
+                    0
+                ],
+                "offtarget_att_assist": [
+                    0,
+                    0
+                ],
+                "pen_area_entries": [
+                    0,
+                    0
+                ],
+                "penalty_won": [
+                    0,
+                    0
+                ],
+                "penalty_save": [
+                    0,
+                    0
+                ],
+                "saves": [
+                    0,
+                    0
+                ],
+                "effective_clearance": [
+                    0,
+                    0
+                ],
+                "penalty_failed": [
+                    0,
+                    0
+                ],
+                "own_goals": [
+                    0,
+                    0
+                ],
+                "goals_conceded": [
+                    0,
+                    0
+                ],
+                "yellow_card": [
+                    0,
+                    0
+                ],
+                "second_yellow_card": [
+                    0,
+                    0
+                ],
+                "red_card": [
+                    0,
+                    0
+                ],
+                "total_scoring_att": [
+                    0,
+                    0
+                ],
+                "won_contest": [
+                    0,
+                    0
+                ],
+                "ball_recovery": [
+                    0,
+                    0
+                ],
+                "poss_lost_all": [
+                    0,
+                    0
+                ],
+                "penalty_conceded": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 9,
+            "totalPoints": 0,
+            "isInIdealFormation": false
         }
     ],
     "points": 0,
@@ -924,7 +1015,13 @@
         "30/09/2023": 425742,
         "01/10/2023": 421979,
         "02/10/2023": 418355,
-        "03/10/2023": 414330
+        "03/10/2023": 414332,
+        "04/10/2023": 410108,
+        "05/10/2023": 405802,
+        "06/10/2023": 402667,
+        "07/10/2023": 400092,
+        "08/10/2023": 399854,
+        "09/10/2023": 399380
     },
     "playerStatus": "ok"
 }
