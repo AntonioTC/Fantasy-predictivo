@@ -6,6 +6,32 @@ import numpy as np
 import pandas as pd
 from sklearn.ensemble import RandomForestRegressor
 from statsmodels.tsa.statespace.sarimax import SARIMAX
+from contextlib import redirect_stdout
+import itertools
+import warnings
+
+warnings.filterwarnings("ignore", category=UserWarning)
+
+def print_progress_bar(iteration, total, prefix='', suffix='', decimals=1, length=100, fill='█', print_end="\r"):
+    """
+    Call in a loop to create terminal progress bar
+    @params:
+        iteration   - Required  : current iteration (Int)
+        total       - Required  : total iterations (Int)
+        prefix      - Optional  : prefix string (Str)
+        suffix      - Optional  : suffix string (Str)
+        decimals    - Optional  : positive number of decimals in percent complete (Int)
+        length      - Optional  : character length of bar (Int)
+        fill        - Optional  : bar fill character (Str)
+        print_end    - Optional  : end character (e.g. "\r", "\r\n") (Str)
+    """
+    percent = ("{0:." + str(decimals) + "f}").format(100 * (iteration / float(total)))
+    filled_length = int(length * iteration // total)
+    bar = fill * filled_length + '-' * (length - filled_length)
+    print(f'\r{prefix} |{bar}| {percent}% {suffix}', end=print_end)
+    # Print New Line on Complete
+    if iteration == total:
+        print()
 
 def calcular_porcentaje_aumento(market_values, num_dias):
     fecha_mas_reciente = max(market_values.keys(), key=lambda x: datetime.strptime(x, "%d/%m/%Y"))
@@ -60,18 +86,13 @@ def obtener_prediccion_7_dias(market_values):
     if len(valores) > 1:
         # Crear una serie temporal utilizando pandas
         valores_enteros = valores.astype(int)
+        fechas = pd.date_range(start=fechas[0], periods=len(valores), freq='D')
         serie_temporal = pd.Series(valores_enteros, index=fechas)
-
-
-        #imprime la serie_temporal completa para validar que es correcta
-
-        for fecha in serie_temporal.index:
-            print(fecha.strftime("%d/%m/%Y") + " : " + str(serie_temporal[fecha]))
         
         try:
             # Ajustar el modelo SARIMA a la serie temporal completa
             modelo_sarima = SARIMAX(serie_temporal, order=(1, 1, 1), seasonal_order=(1, 1, 1, 7))
-            modelo_sarima_fit = modelo_sarima.fit()
+            modelo_sarima_fit = modelo_sarima.fit(disp=False)
 
             # Realizar la predicción de los próximos 7 días
             prediccion = modelo_sarima_fit.get_forecast(steps=30)
@@ -91,7 +112,89 @@ def obtener_prediccion_7_dias(market_values):
     else:
         return None
     
+import numpy as np
+
+def procesar_jugadores(ruta_players):
+    lista_jugadores = []
+
+    jugador_procesado = 0
+
+    total_jugadores = sum(1 for equipo in os.listdir(ruta_players) for jugador_json in os.listdir(os.path.join(ruta_players, equipo)))
+
+    for equipo in os.listdir(ruta_players):
+        ruta_equipo = os.path.join(ruta_players, equipo)
+        if os.path.isdir(ruta_equipo):
+            for jugador_json in os.listdir(ruta_equipo):
+                ruta_jugador = os.path.join(ruta_equipo, jugador_json)
+                jugador_procesado += 1
+
+                #if(jugador_procesado > 15 ):
+                #    break
+                #else:
+                with open(ruta_jugador, "r") as archivo_json:
+                    datos_jugador = json.load(archivo_json)
+                    id_jugador = datos_jugador["id"]
+                    int_id_jugador = int(id_jugador)
+                    nombre_jugador = datos_jugador["name"]
+                    market_values = datos_jugador["marketValue"]
+
+                    fechas = sorted([datetime.strptime(fecha, "%d/%m/%Y") for fecha in market_values.keys()])
+                    valores = np.array([market_values[fecha.strftime("%d/%m/%Y")] for fecha in fechas], dtype=float)
+
+                    porcentaje_aumento_15_dias = calcular_porcentaje_aumento(market_values, 15)
+
+                    # Calcular el porcentaje de aumento a 7 y 5 días
+                    porcentaje_aumento_7_dias = calcular_porcentaje_aumento(market_values, 7)
+                    porcentaje_aumento_5_dias = calcular_porcentaje_aumento(market_values, 5)
+
+                    # Calcular la ganancia potencial para cada jugador según el modelo sin printear nada en consola
+                    prediccion_7_dias = obtener_prediccion_7_dias(market_values)
+
+
+                    ganancia_potencial = prediccion_7_dias - valores[-1] if prediccion_7_dias is not None else -15
+
+                    #Calcular % de ganancia potencial respecto al precio actual
+                    porcentaje_ganancia_potencial = (ganancia_potencial / valores[-1]) * 100 if ganancia_potencial is not None else -15
+
+                    # Guardar los market values en formato JSON
+                    market_values_json = json.dumps(market_values)
+
+                    # Añadir la información del jugador a la lista
+                    jugador_info = {
+                        "nombre": nombre_jugador,
+                        "nickname": datos_jugador["nickname"] if "nickname" in datos_jugador else "",
+                        "id": id_jugador,
+                        "precio_actual": valores[-1],
+                        "precio_hace_15_dias": valores[0],
+                        "precio_hace_7_dias": valores[-7] if len(valores) >= 8 else None,
+                        "precio_hace_5_dias": valores[-5] if len(valores) >= 6 else None,
+                        "porcentaje_aumento_15_dias": porcentaje_aumento_15_dias,
+                        "porcentaje_aumento_7_dias": porcentaje_aumento_7_dias,
+                        "porcentaje_aumento_5_dias": porcentaje_aumento_5_dias,
+                        "ganancia_potencial": ganancia_potencial,
+                        "prediccion_7_dias": prediccion_7_dias,
+                        "porcentaje_ganancia_potencial": porcentaje_ganancia_potencial,
+                        "accion_potencial": obtener_accion_potencial(porcentaje_ganancia_potencial),
+                        "marketValue": market_values_json
+                    }
+
+                    lista_jugadores.append(jugador_info)
+
+                 # Calcular el progreso actual y mostrar la barra de progreso
+                print_progress_bar(jugador_procesado, total_jugadores, prefix='Progreso:', suffix='Completado', length=70)
+    
+    # Ordenar la lista de jugadores por la ganancia potencial (de mayor a menor)
+    jugadores_aumento = sorted(lista_jugadores, key=lambda x: x["ganancia_potencial"], reverse=True)
+
+    with open("jugadores_aumento.json", "w", encoding="utf-8") as archivo_json:
+        json.dump(jugadores_aumento, archivo_json)
+
+
 def obtener_accion_potencial(porcentaje_ganancia_potencial):
+    # Verificar si porcentaje_ganancia_potencial es None y manejarlo
+    if porcentaje_ganancia_potencial is None:
+        return "No se puede clasificar"
+
     # Definir las categorías y sus rangos de porcentaje
     categorias = {
         "muy recomendable": (10.0, np.inf),
@@ -112,69 +215,4 @@ def obtener_accion_potencial(porcentaje_ganancia_potencial):
 
 ruta_players = "players"
 
-lista_jugadores = []
-
-jugador_procesado = 0;
-
-for equipo in os.listdir(ruta_players):
-    ruta_equipo = os.path.join(ruta_players, equipo)
-    if os.path.isdir(ruta_equipo):
-        for jugador_json in os.listdir(ruta_equipo):
-            ruta_jugador = os.path.join(ruta_equipo, jugador_json)
-            #jugador_procesado += 1
-
-            #if(jugador_procesado > 15 ):
-            #    break
-            #else:
-            with open(ruta_jugador, "r") as archivo_json:
-                datos_jugador = json.load(archivo_json)
-                id_jugador = datos_jugador["id"]
-                int_id_jugador = int(id_jugador)
-                nombre_jugador = datos_jugador["name"]
-                market_values = datos_jugador["marketValue"]
-
-                fechas = sorted([datetime.strptime(fecha, "%d/%m/%Y") for fecha in market_values.keys()])
-                valores = np.array([market_values[fecha.strftime("%d/%m/%Y")] for fecha in fechas], dtype=float)
-
-                porcentaje_aumento_15_dias = calcular_porcentaje_aumento(market_values, 15)
-
-                # Calcular el porcentaje de aumento a 7 y 5 días
-                porcentaje_aumento_7_dias = calcular_porcentaje_aumento(market_values, 7)
-                porcentaje_aumento_5_dias = calcular_porcentaje_aumento(market_values, 5)
-
-                # Calcular la ganancia potencial para cada jugador según el modelo
-                prediccion_7_dias = obtener_prediccion_7_dias(market_values)
-                ganancia_potencial = prediccion_7_dias - valores[-1] if prediccion_7_dias is not None else None
-
-                #Calcular % de ganancia potencial respecto al precio actual
-                porcentaje_ganancia_potencial = (ganancia_potencial / valores[-1]) * 100 if ganancia_potencial is not None else None
-
-                # Guardar los market values en formato JSON
-                market_values_json = json.dumps(market_values)
-
-                # Añadir la información del jugador a la lista
-                jugador_info = {
-                    "nombre": nombre_jugador,
-                    "nickname": datos_jugador["nickname"] if "nickname" in datos_jugador else "",
-                    "id": id_jugador,
-                    "precio_actual": valores[-1],
-                    "precio_hace_15_dias": valores[0],
-                    "precio_hace_7_dias": valores[-7] if len(valores) >= 8 else None,
-                    "precio_hace_5_dias": valores[-5] if len(valores) >= 6 else None,
-                    "porcentaje_aumento_15_dias": porcentaje_aumento_15_dias,
-                    "porcentaje_aumento_7_dias": porcentaje_aumento_7_dias,
-                    "porcentaje_aumento_5_dias": porcentaje_aumento_5_dias,
-                    "ganancia_potencial": ganancia_potencial,
-                    "prediccion_7_dias": prediccion_7_dias,
-                    "porcentaje_ganancia_potencial": porcentaje_ganancia_potencial,
-                    "accion_potencial": obtener_accion_potencial(porcentaje_ganancia_potencial),
-                    "marketValue": market_values_json
-                }
-
-                lista_jugadores.append(jugador_info)
-
-# Ordenar la lista de jugadores por la ganancia potencial (de mayor a menor)
-jugadores_aumento = sorted(lista_jugadores, key=lambda x: x["ganancia_potencial"], reverse=True)
-
-with open("jugadores_aumento.json", "w", encoding="utf-8") as archivo_json:
-    json.dump(jugadores_aumento, archivo_json)
+procesar_jugadores(ruta_players)
